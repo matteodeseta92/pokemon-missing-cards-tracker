@@ -9,6 +9,7 @@ OUTPUT_JSON = "data/cards.json"
 
 # Legge l'Excel
 df = pd.read_excel(EXCEL_FILE)
+df = df.fillna("")
 
 # Converte la data da DD/MM/YYYY a YYYY-MM-DD
 df["Data_Pubblicazione"] = pd.to_datetime(
