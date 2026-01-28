@@ -1,27 +1,28 @@
 import pandas as pd
 import json
 from datetime import datetime
-from collections import defaultdict
 
-# Percorsi file
 EXCEL_FILE = "cards.xlsx"
 OUTPUT_JSON = "data/cards.json"
 
-# Legge l'Excel
 df = pd.read_excel(EXCEL_FILE)
-df = df.fillna("")
 
-# Converte la data da DD/MM/YYYY a YYYY-MM-DD
+# Normalizza NaN → None
+df = df.where(pd.notnull(df), None)
+
+# Converte la data
 df["Data_Pubblicazione"] = pd.to_datetime(
     df["Data_Pubblicazione"],
-    format="%d/%m/%Y"
+    format="%d/%m/%Y",
+    errors="coerce"
 )
 
-# Dizionario dei set
 sets = {}
 
 for _, row in df.iterrows():
     nome_set = row["Nome_Set"]
+    if not nome_set:
+        continue
 
     if nome_set not in sets:
         sets[nome_set] = {
@@ -32,30 +33,30 @@ for _, row in df.iterrows():
             "carte": []
         }
 
-    sets[nome_set]["carte"].append({
-        "numero": int(row["Numero_Carta"]),
-        "nome": row["Nome_Carta"],
-        "rarita": row["Rarita"],
-        "lingua": row["Lingua"]
-    })
+    carta = {
+        "numero": int(row["Numero_Carta"]) if row["Numero_Carta"] is not None else "",
+        "nome": row["Nome_Carta"] or "",
+        "rarita": row["Rarita"] or "",
+        "lingua": row["Lingua"] or ""
+    }
 
-# Ordina le carte di ogni set per Numero_Carta
+    sets[nome_set]["carte"].append(carta)
+
+# Ordina carte
 for s in sets.values():
-    s["carte"].sort(key=lambda c: c["numero"])
+    s["carte"].sort(
+        key=lambda c: c["numero"] if isinstance(c["numero"], int) else 9999
+    )
 
-# Ordina i set per data (dal più vecchio al più recente)
+# Ordina set per data
 sets_ordinati = sorted(
     sets.values(),
     key=lambda s: datetime.strptime(s["data_pubblicazione"], "%Y-%m-%d")
 )
 
-# Struttura finale
-output = {
-    "sets": sets_ordinati
-}
+output = {"sets": sets_ordinati}
 
-# Scrive il JSON
 with open(OUTPUT_JSON, "w", encoding="utf-8") as f:
     json.dump(output, f, ensure_ascii=False, indent=2)
 
-print("✔ cards.json generato correttamente")
+print("✔ cards.json generato SENZA NaN")
