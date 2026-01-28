@@ -16,16 +16,17 @@
   <main class="home-container">
     <img src="assets/home_pikachu.gif" alt="Pikachu" class="home-gif">
 
-    <input
-      type="text"
-      id="searchInput"
-      placeholder="Cerca un set..."
-      class="search-box"
-    >
+    <div class="dropdown">
+      <input
+        type="text"
+        id="searchInput"
+        placeholder="Cerca un set..."
+        class="search-box"
+        autocomplete="off"
+      >
 
-    <select id="setSelect" class="set-select">
-      <option value="">Seleziona un set</option>
-    </select>
+      <div id="dropdownList" class="dropdown-list"></div>
+    </div>
   </main>
 
   <script src="js/home.js"></script>
