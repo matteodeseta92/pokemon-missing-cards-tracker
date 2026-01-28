@@ -453,19 +453,19 @@
         {
           "numero": 128,
           "nome": "Fire Energy",
-          "rarita": NaN,
+          "rarita": "none",
           "lingua": "EN"
         },
         {
           "numero": 129,
           "nome": "Grass Energy",
-          "rarita": NaN,
+          "rarita": "none",
           "lingua": "EN"
         },
         {
           "numero": 130,
           "nome": "Lightning Energy",
-          "rarita": NaN,
+          "rarita": "none",
           "lingua": "EN"
         }
       ]
@@ -677,37 +677,37 @@
         {
           "numero": 127,
           "nome": "Fighting Energy",
-          "rarita": NaN,
+          "rarita": "none",
           "lingua": "EN"
         },
         {
           "numero": 128,
           "nome": "Fire Energy",
-          "rarita": NaN,
+          "rarita": "none",
           "lingua": "EN"
         },
         {
           "numero": 129,
           "nome": "Grass Energy",
-          "rarita": NaN,
+          "rarita": "none",
           "lingua": "EN"
         },
         {
           "numero": 130,
           "nome": "Lightning Energy",
-          "rarita": NaN,
+          "rarita": "none",
           "lingua": "EN"
         },
         {
           "numero": 131,
           "nome": "Psychic Energy",
-          "rarita": NaN,
+          "rarita": "none",
           "lingua": "EN"
         },
         {
           "numero": 132,
           "nome": "Water Energy",
-          "rarita": NaN,
+          "rarita": "none",
           "lingua": "EN"
         }
       ]
@@ -871,13 +871,13 @@
         {
           "numero": 107,
           "nome": "Energia Fuoco",
-          "rarita": NaN,
+          "rarita": "none",
           "lingua": "IT"
         },
         {
           "numero": 110,
           "nome": "Energia Psiche",
-          "rarita": NaN,
+          "rarita": "none",
           "lingua": "IT"
         }
       ]
@@ -1905,37 +1905,37 @@
         {
           "numero": 160,
           "nome": "Energia Combattimento",
-          "rarita": NaN,
+          "rarita": "none",
           "lingua": "IT"
         },
         {
           "numero": 161,
           "nome": "Energia Fuoco",
-          "rarita": NaN,
+          "rarita": "none",
           "lingua": "IT"
         },
         {
           "numero": 162,
           "nome": "Energia Erba",
-          "rarita": NaN,
+          "rarita": "none",
           "lingua": "IT"
         },
         {
           "numero": 163,
           "nome": "Energia Lampo",
-          "rarita": NaN,
+          "rarita": "none",
           "lingua": "IT"
         },
         {
           "numero": 164,
           "nome": "Energia Psiche",
-          "rarita": NaN,
+          "rarita": "none",
           "lingua": "IT"
         },
         {
           "numero": 165,
           "nome": "Energia Acqua",
-          "rarita": NaN,
+          "rarita": "none",
           "lingua": "IT"
         }
       ]
@@ -4601,13 +4601,13 @@
         {
           "numero": 105,
           "nome": "Energia Combattimento",
-          "rarita": NaN,
+          "rarita": "none",
           "lingua": "IT"
         },
         {
           "numero": 107,
           "nome": "Energia Psiche",
-          "rarita": NaN,
+          "rarita": "none",
           "lingua": "IT"
         }
       ]
@@ -52773,7 +52773,7 @@
         {
           "numero": 47,
           "nome": "Kyurem",
-          "rarita": NaN,
+          "rarita": "none",
           "lingua": "IT"
         },
         {
