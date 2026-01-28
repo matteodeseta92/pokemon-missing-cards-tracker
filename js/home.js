@@ -1,44 +1,41 @@
-fetch("data/cards.json")
-  .then(res => res.json())
-  .then(data => {
-    const input = document.getElementById("searchInput");
-    const list = document.getElementById("dropdownList");
-    const sets = data.sets;
+document.addEventListener("DOMContentLoaded", async () => {
 
-    function render(filter = "") {
-      list.innerHTML = "";
+  const searchInput = document.getElementById("searchInput");
+  const dropdownList = document.getElementById("dropdownList");
 
-      const filtered = sets.filter(s =>
-        s.nome_set.toLowerCase().includes(filter.toLowerCase())
-      );
+  function renderOptions(sets) {
+    dropdownList.innerHTML = "";
 
-      filtered.forEach(set => {
-        const item = document.createElement("div");
-        item.className = "dropdown-item";
+    sets.forEach(set => {
+      const div = document.createElement("div");
+      div.className = "dropdown-item";
 
-        item.innerHTML = `
-          <img src="loghi/${set.nome_logo}" class="dropdown-logo">
-          <span>${set.nome_set}</span>
-        `;
+      div.innerHTML = `
+        <img src="loghi/${set.nome_logo}" alt="${set.nome_set}">
+        <span>${set.nome_set}</span>
+      `;
 
-        item.onclick = () => {
-          window.location.href =
-            `set.html?set=${encodeURIComponent(set.nome_set)}`;
-        };
-
-        list.appendChild(item);
+      div.addEventListener("click", () => {
+        window.location.href = `set.html?set=${encodeURIComponent(set.nome_set)}`;
       });
 
-      list.style.display = filtered.length ? "block" : "none";
-    }
-
-    input.addEventListener("input", e => {
-      render(e.target.value);
+      dropdownList.appendChild(div);
     });
+  }
 
-    document.addEventListener("click", e => {
-      if (!e.target.closest(".dropdown")) {
-        list.style.display = "none";
-      }
-    });
+  const response = await fetch("data/sets.json");
+  const allSets = await response.json();
+
+  renderOptions(allSets);
+
+  searchInput.addEventListener("input", () => {
+    const value = searchInput.value.toLowerCase();
+
+    const filtered = allSets.filter(set =>
+      set.nome_set.toLowerCase().includes(value)
+    );
+
+    renderOptions(filtered);
   });
+
+});
