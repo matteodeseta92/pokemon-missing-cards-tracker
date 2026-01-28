@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Set Pokémon</title>
+  <link rel="stylesheet" href="css/style.css" />
+</head>
+<body>
+
+  <header class="set-header">
+    <button class="back-button" onclick="window.location.href='index.html'">
+      ⬅ Home
+    </button>
+
+    <img id="logoDisegnato" class="logo-disegnato" />
+
+    <div class="set-title">
+      <h1 id="setName"></h1>
+      <img id="logoUfficiale" class="logo-ufficiale-small" />
+    </div>
+  </header>
+
+  <main class="cards-container">
+    <table class="cards-table">
+      <thead>
+        <tr>
+          <th>#</th>
+          <th>Nome</th>
+          <th>Lingua</th>
+          <th>Rarità</th>
+        </tr>
+      </thead>
+      <tbody id="cardsTableBody"></tbody>
+    </table>
+  </main>
+
+  <script src="js/set.js"></script>
+</body>
+</html>
