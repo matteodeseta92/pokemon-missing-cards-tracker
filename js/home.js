@@ -1,41 +1,41 @@
-document.addEventListener("DOMContentLoaded", async () => {
+// Home page - menu a tendina con ricerca testuale
 
-  const searchInput = document.getElementById("searchInput");
-  const dropdownList = document.getElementById("dropdownList");
+fetch("data/cards.json")
+  .then(response => response.json())
+  .then(data => {
+    const sets = data.sets;
+    const select = document.getElementById("setSelect");
+    const searchInput = document.getElementById("searchInput");
 
-  function renderOptions(sets) {
-    dropdownList.innerHTML = "";
+    // Funzione per popolamento menu
+    function renderOptions(filter = "") {
+      select.innerHTML = `<option value="">Seleziona un set</option>`;
 
-    sets.forEach(set => {
-      const div = document.createElement("div");
-      div.className = "dropdown-item";
+      sets
+        .filter(set =>
+          set.nome_set.toLowerCase().includes(filter.toLowerCase())
+        )
+        .forEach(set => {
+          const option = document.createElement("option");
+          option.value = set.nome_set;
+          option.textContent = set.nome_set;
+          select.appendChild(option);
+        });
+    }
 
-      div.innerHTML = `
-        <img src="loghi/${set.nome_logo}" alt="${set.nome_set}">
-        <span>${set.nome_set}</span>
-      `;
+    // Render iniziale
+    renderOptions();
 
-      div.addEventListener("click", () => {
-        window.location.href = `set.html?set=${encodeURIComponent(set.nome_set)}`;
-      });
-
-      dropdownList.appendChild(div);
+    // Ricerca dinamica
+    searchInput.addEventListener("input", e => {
+      renderOptions(e.target.value);
     });
-  }
 
-  const response = await fetch("data/sets.json");
-  const allSets = await response.json();
-
-  renderOptions(allSets);
-
-  searchInput.addEventListener("input", () => {
-    const value = searchInput.value.toLowerCase();
-
-    const filtered = allSets.filter(set =>
-      set.nome_set.toLowerCase().includes(value)
-    );
-
-    renderOptions(filtered);
-  });
-
-});
+    // Click sul menu
+    select.addEventListener("change", e => {
+      if (e.target.value) {
+        window.location.href = `set.html?set=${encodeURIComponent(e.target.value)}`;
+      }
+    });
+  })
+  .catch(err => console.error("Errore caricamento JSON:", err));

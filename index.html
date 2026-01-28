@@ -16,17 +16,18 @@
   <main class="home-container">
     <img src="assets/home_pikachu.gif" alt="Pikachu" class="home-gif">
 
-    <div class="dropdown">
-      <input
-        type="text"
-        id="searchInput"
-        placeholder="Cerca un set..."
-        class="search-box"
-        autocomplete="off"
-      >
+    <!-- Campo ricerca testuale -->
+    <input
+      type="text"
+      id="searchInput"
+      placeholder="Cerca un set..."
+      class="search-box"
+    >
 
-      <div id="dropdownList" class="dropdown-list"></div>
-    </div>
+    <!-- Menù a tendina stabile -->
+    <select id="setSelect" class="set-select">
+      <option value="">Seleziona un set</option>
+    </select>
   </main>
 
   <script src="js/home.js"></script>
