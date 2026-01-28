@@ -1,3 +1,5 @@
+// Pagina singolo Set
+
 const params = new URLSearchParams(window.location.search);
 const setNameParam = params.get("set");
 
@@ -30,4 +32,5 @@ fetch("data/cards.json")
 
       tbody.appendChild(tr);
     });
-  });
+  })
+  .catch(err => console.error("Errore caricamento JSON:", err));
