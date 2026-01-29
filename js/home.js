@@ -1,28 +1,16 @@
 document.addEventListener("DOMContentLoaded", function () {
   var setsList = document.getElementById("setsList");
-  if (!setsList) {
-    console.error("Elemento #setsList non trovato");
-    return;
-  }
+  if (!setsList) return;
 
   fetch("data/cards.json")
     .then(function (response) {
       return response.json();
     })
     .then(function (data) {
-      if (!data.sets || !data.sets.length) {
-        console.error("Nessun set trovato nel JSON");
-        return;
-      }
-
       data.sets.forEach(function (set) {
-        // calcolo carte mancanti (lingua vuota o null)
-        var missingCount = 0;
-        set.carte.forEach(function (carta) {
-          if (!carta.lingua) {
-            missingCount++;
-          }
-        });
+
+        // ✔ Carte mancanti = totale carte del set
+        var missingCount = set.carte.length;
 
         var row = document.createElement("div");
         row.className = "set-row";
@@ -52,7 +40,6 @@ document.addEventListener("DOMContentLoaded", function () {
 
         row.appendChild(name);
         row.appendChild(right);
-
         setsList.appendChild(row);
       });
     })
