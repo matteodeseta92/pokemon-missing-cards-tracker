@@ -1,31 +1,34 @@
 document.addEventListener("DOMContentLoaded", () => {
-  const setsList = document.getElementById("sets-list");
+  const setsList = document.getElementById("setsList");
 
-  fetch("sets.json")
+  fetch("data/cards.json")
     .then(response => response.json())
-    .then(sets => {
-      sets.forEach(set => {
+    .then(data => {
+      data.sets.forEach(set => {
+        // Calcolo carte mancanti
+        const missingCount = set.carte.filter(c => !c.lingua || c.lingua === "").length;
+
         const row = document.createElement("div");
         row.className = "set-row";
         row.onclick = () => {
-          window.location.href = `set.html?set=${set.id}`;
+          window.location.href = `set.html?set=${encodeURIComponent(set.nome_set)}`;
         };
 
         const name = document.createElement("div");
         name.className = "set-name";
-        name.textContent = set.name;
+        name.textContent = set.nome_set;
 
         const right = document.createElement("div");
         right.className = "set-right";
 
         const missing = document.createElement("div");
         missing.className = "missing-ring";
-        missing.textContent = set.missing;
+        missing.textContent = missingCount;
 
         const logo = document.createElement("img");
         logo.className = "set-logo";
-        logo.src = `loghi/${set.logo}`;
-        logo.alt = set.name;
+        logo.src = `loghi/${set.nome_logo}`;
+        logo.alt = set.nome_set;
 
         right.appendChild(missing);
         right.appendChild(logo);
@@ -36,7 +39,5 @@ document.addEventListener("DOMContentLoaded", () => {
         setsList.appendChild(row);
       });
     })
-    .catch(error => {
-      console.error("Errore nel caricamento dei set:", error);
-    });
+    .catch(err => console.error("Errore caricamento cards.json:", err));
 });
