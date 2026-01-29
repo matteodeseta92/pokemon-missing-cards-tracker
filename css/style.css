@@ -138,6 +138,7 @@ body {
 /* ===== LOGO SET ===== */
 
 .set-logo {
+  width: 60px;
   height: 28px;
   object-fit: contain;
 }
