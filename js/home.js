@@ -1,36 +1,42 @@
-fetch("data/cards.json")
-  .then(response => response.json())
-  .then(data => {
-    const container = document.getElementById("setsList");
+document.addEventListener("DOMContentLoaded", () => {
+  const setsList = document.getElementById("sets-list");
 
-    data.sets.forEach(set => {
-      const missing = set.carte.length;
+  fetch("sets.json")
+    .then(response => response.json())
+    .then(sets => {
+      sets.forEach(set => {
+        const row = document.createElement("div");
+        row.className = "set-row";
+        row.onclick = () => {
+          window.location.href = `set.html?set=${set.id}`;
+        };
 
-      const row = document.createElement("div");
-      row.className = "set-row";
+        const name = document.createElement("div");
+        name.className = "set-name";
+        name.textContent = set.name;
 
-      row.innerHTML = `
-        <span class="set-name">${set.nome_set}</span>
+        const right = document.createElement("div");
+        right.className = "set-right";
 
-        <div class="set-right">
-          <div class="missing-ring">
-            ${missing}
-          </div>
+        const missing = document.createElement("div");
+        missing.className = "missing-ring";
+        missing.textContent = set.missing;
 
-          <img
-            src="loghi/${set.nome_logo}"
-            alt="${set.nome_set}"
-            class="set-logo"
-          >
-        </div>
-      `;
+        const logo = document.createElement("img");
+        logo.className = "set-logo";
+        logo.src = `loghi/${set.logo}`;
+        logo.alt = set.name;
 
-      row.addEventListener("click", () => {
-        window.location.href =
-          \`set.html?set=\${encodeURIComponent(set.nome_set)}\`;
+        right.appendChild(missing);
+        right.appendChild(logo);
+
+        row.appendChild(name);
+        row.appendChild(right);
+
+        setsList.appendChild(row);
       });
-
-      container.appendChild(row);
+    })
+    .catch(error => {
+      console.error("Errore nel caricamento dei set:", error);
     });
-  })
-  .catch(err => console.error("Errore caricamento JSON:", err));
+});
