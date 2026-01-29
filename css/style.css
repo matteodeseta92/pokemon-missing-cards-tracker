@@ -141,4 +141,5 @@ body {
   width: 60px;
   height: 28px;
   object-fit: contain;
+  padding: 2px 4px;
 }
