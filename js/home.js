@@ -1,33 +1,50 @@
-document.addEventListener("DOMContentLoaded", () => {
-  const setsList = document.getElementById("setsList");
+document.addEventListener("DOMContentLoaded", function () {
+  var setsList = document.getElementById("setsList");
+  if (!setsList) {
+    console.error("Elemento #setsList non trovato");
+    return;
+  }
 
   fetch("data/cards.json")
-    .then(response => response.json())
-    .then(data => {
-      data.sets.forEach(set => {
-        // Calcolo carte mancanti
-        const missingCount = set.carte.filter(c => !c.lingua || c.lingua === "").length;
+    .then(function (response) {
+      return response.json();
+    })
+    .then(function (data) {
+      if (!data.sets || !data.sets.length) {
+        console.error("Nessun set trovato nel JSON");
+        return;
+      }
 
-        const row = document.createElement("div");
+      data.sets.forEach(function (set) {
+        // calcolo carte mancanti (lingua vuota o null)
+        var missingCount = 0;
+        set.carte.forEach(function (carta) {
+          if (!carta.lingua) {
+            missingCount++;
+          }
+        });
+
+        var row = document.createElement("div");
         row.className = "set-row";
-        row.onclick = () => {
-          window.location.href = `set.html?set=${encodeURIComponent(set.nome_set)}`;
-        };
+        row.addEventListener("click", function () {
+          window.location.href =
+            "set.html?set=" + encodeURIComponent(set.nome_set);
+        });
 
-        const name = document.createElement("div");
+        var name = document.createElement("div");
         name.className = "set-name";
         name.textContent = set.nome_set;
 
-        const right = document.createElement("div");
+        var right = document.createElement("div");
         right.className = "set-right";
 
-        const missing = document.createElement("div");
+        var missing = document.createElement("div");
         missing.className = "missing-ring";
         missing.textContent = missingCount;
 
-        const logo = document.createElement("img");
+        var logo = document.createElement("img");
         logo.className = "set-logo";
-        logo.src = `loghi/${set.nome_logo}`;
+        logo.src = "loghi/" + set.nome_logo;
         logo.alt = set.nome_set;
 
         right.appendChild(missing);
@@ -39,5 +56,7 @@ document.addEventListener("DOMContentLoaded", () => {
         setsList.appendChild(row);
       });
     })
-    .catch(err => console.error("Errore caricamento cards.json:", err));
+    .catch(function (err) {
+      console.error("Errore caricamento cards.json:", err);
+    });
 });
