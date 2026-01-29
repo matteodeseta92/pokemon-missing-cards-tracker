@@ -1,33 +1,36 @@
 fetch("data/cards.json")
   .then(response => response.json())
   .then(data => {
-    const sets = data.sets;
-    const select = document.getElementById("setSelect");
-    const searchInput = document.getElementById("searchInput");
+    const container = document.getElementById("setsList");
 
-    function renderOptions(filter = "") {
-      select.innerHTML = `<option value="">Seleziona un set</option>`;
+    data.sets.forEach(set => {
+      const missing = set.carte.length;
 
-      sets
-        .filter(set => set.nome_set.toLowerCase().includes(filter.toLowerCase()))
-        .forEach(set => {
-          const option = document.createElement("option");
-          option.value = set.nome_set;
-          option.textContent = set.nome_set;
-          select.appendChild(option);
-        });
-    }
+      const row = document.createElement("div");
+      row.className = "set-row";
 
-    renderOptions();
+      row.innerHTML = `
+        <span class="set-name">${set.nome_set}</span>
 
-    searchInput.addEventListener("input", e => {
-      renderOptions(e.target.value);
-    });
+        <div class="set-right">
+          <div class="missing-ring">
+            ${missing}
+          </div>
 
-    select.addEventListener("change", e => {
-      if (e.target.value) {
-        window.location.href = `set.html?set=${encodeURIComponent(e.target.value)}`;
-      }
+          <img
+            src="loghi/${set.nome_logo}"
+            alt="${set.nome_set}"
+            class="set-logo"
+          >
+        </div>
+      `;
+
+      row.addEventListener("click", () => {
+        window.location.href =
+          \`set.html?set=\${encodeURIComponent(set.nome_set)}\`;
+      });
+
+      container.appendChild(row);
     });
   })
   .catch(err => console.error("Errore caricamento JSON:", err));
