@@ -1711,38 +1711,14 @@
           "lingua": "IT"
         },
         {
-          "numero": 76,
-          "nome": "Electabuzz",
-          "rarita": "uncommon",
-          "lingua": "IT"
-        },
-        {
-          "numero": 79,
-          "nome": "Graveler",
-          "rarita": "uncommon",
-          "lingua": "IT"
-        },
-        {
           "numero": 80,
           "nome": "Haunter",
           "rarita": "uncommon",
           "lingua": "IT"
         },
         {
-          "numero": 83,
-          "nome": "Jynx",
-          "rarita": "uncommon",
-          "lingua": "IT"
-        },
-        {
           "numero": 84,
           "nome": "Kadabra",
-          "rarita": "uncommon",
-          "lingua": "IT"
-        },
-        {
-          "numero": 86,
-          "nome": "Magmar",
           "rarita": "uncommon",
           "lingua": "IT"
         },
@@ -1755,18 +1731,6 @@
         {
           "numero": 88,
           "nome": "Pidgeotto",
-          "rarita": "uncommon",
-          "lingua": "IT"
-        },
-        {
-          "numero": 89,
-          "nome": "Poliwhirl",
-          "rarita": "uncommon",
-          "lingua": "IT"
-        },
-        {
-          "numero": 90,
-          "nome": "Pupitar",
           "rarita": "uncommon",
           "lingua": "IT"
         },
@@ -1801,26 +1765,8 @@
           "lingua": "IT"
         },
         {
-          "numero": 100,
-          "nome": "Chikorita",
-          "rarita": "common",
-          "lingua": "IT"
-        },
-        {
           "numero": 104,
           "nome": "Cyndaquil",
-          "rarita": "common",
-          "lingua": "IT"
-        },
-        {
-          "numero": 112,
-          "nome": "Hoppip",
-          "rarita": "common",
-          "lingua": "IT"
-        },
-        {
-          "numero": 113,
-          "nome": "Houndour",
           "rarita": "common",
           "lingua": "IT"
         },
@@ -1843,24 +1789,6 @@
           "lingua": "IT"
         },
         {
-          "numero": 138,
-          "nome": "Copiona",
-          "rarita": "uncommon",
-          "lingua": "IT"
-        },
-        {
-          "numero": 143,
-          "nome": "Master Ball",
-          "rarita": "uncommon",
-          "lingua": "IT"
-        },
-        {
-          "numero": 144,
-          "nome": "Macchinario Multi-tecnico 01",
-          "rarita": "uncommon",
-          "lingua": "IT"
-        },
-        {
           "numero": 145,
           "nome": "Pokémon Infermiera",
           "rarita": "uncommon",
@@ -1875,12 +1803,6 @@
         {
           "numero": 147,
           "nome": "Carica Energetica",
-          "rarita": "uncommon",
-          "lingua": "IT"
-        },
-        {
-          "numero": 150,
-          "nome": "Frammento della Forza",
           "rarita": "uncommon",
           "lingua": "IT"
         },
@@ -83363,12 +83285,6 @@
         {
           "numero": 136,
           "nome": "Mimikyu δ",
-          "rarita": "ultra_rare",
-          "lingua": "IT"
-        },
-        {
-          "numero": 137,
-          "nome": "Light Toxtricity",
           "rarita": "ultra_rare",
           "lingua": "IT"
         },
