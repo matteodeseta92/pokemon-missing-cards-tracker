@@ -84305,12 +84305,6 @@
       "logo_disegnato": "art_scarlatto_e_violetto.png",
       "carte": [
         {
-          "numero": 9,
-          "nome": "Spewpa",
-          "rarita": "common",
-          "lingua": "IT"
-        },
-        {
           "numero": 10,
           "nome": "Vivillon",
           "rarita": "uncommon",
@@ -84815,12 +84809,6 @@
           "lingua": "IT"
         },
         {
-          "numero": 155,
-          "nome": "Lechonk",
-          "rarita": "common",
-          "lingua": "IT"
-        },
-        {
           "numero": 156,
           "nome": "Lechonk",
           "rarita": "common",
@@ -84853,12 +84841,6 @@
         {
           "numero": 167,
           "nome": "Campo in Spiaggia",
-          "rarita": "uncommon",
-          "lingua": "IT"
-        },
-        {
-          "numero": 170,
-          "nome": "Generatore di Elettricità",
           "rarita": "uncommon",
           "lingua": "IT"
         },
@@ -84919,12 +84901,6 @@
         {
           "numero": 192,
           "nome": "Pettorale di Roccia",
-          "rarita": "uncommon",
-          "lingua": "IT"
-        },
-        {
-          "numero": 195,
-          "nome": "Recluta del Team Star",
           "rarita": "uncommon",
           "lingua": "IT"
         },
@@ -85099,12 +85075,6 @@
         {
           "numero": 229,
           "nome": "Banette",
-          "rarita": "ultra_rare",
-          "lingua": "IT"
-        },
-        {
-          "numero": 230,
-          "nome": "Grandizanne",
           "rarita": "ultra_rare",
           "lingua": "IT"
         },
@@ -87535,12 +87505,6 @@
           "lingua": "IT"
         },
         {
-          "numero": 6,
-          "nome": "Dwebble",
-          "rarita": "common",
-          "lingua": "IT"
-        },
-        {
           "numero": 7,
           "nome": "Crustle",
           "rarita": "common",
@@ -87745,12 +87709,6 @@
           "lingua": "IT"
         },
         {
-          "numero": 45,
-          "nome": "Vanilluxe",
-          "rarita": "uncommon",
-          "lingua": "IT"
-        },
-        {
           "numero": 46,
           "nome": "Tsareena",
           "rarita": "double_rare",
@@ -87783,18 +87741,6 @@
         {
           "numero": 53,
           "nome": "Wugtrio",
-          "rarita": "uncommon",
-          "lingua": "IT"
-        },
-        {
-          "numero": 54,
-          "nome": "Veluza",
-          "rarita": "uncommon",
-          "lingua": "IT"
-        },
-        {
-          "numero": 55,
-          "nome": "Dondozo",
           "rarita": "uncommon",
           "lingua": "IT"
         },
@@ -88030,12 +87976,6 @@
           "numero": 98,
           "nome": "Hoopa",
           "rarita": "double_rare",
-          "lingua": "IT"
-        },
-        {
-          "numero": 99,
-          "nome": "Minior",
-          "rarita": "uncommon",
           "lingua": "IT"
         },
         {
@@ -88317,12 +88257,6 @@
         {
           "numero": 152,
           "nome": "Swablu",
-          "rarita": "common",
-          "lingua": "IT"
-        },
-        {
-          "numero": 153,
-          "nome": "Tandemaus",
           "rarita": "common",
           "lingua": "IT"
         },
@@ -88971,12 +88905,6 @@
         {
           "numero": 263,
           "nome": "Campo in Spiaggia",
-          "rarita": "hyper_rare",
-          "lingua": "IT"
-        },
-        {
-          "numero": 264,
-          "nome": "Contracchiappa-Pokémon",
           "rarita": "hyper_rare",
           "lingua": "IT"
         },
@@ -90311,12 +90239,6 @@
       "logo_disegnato": "art_scarlatto_e_violetto_cronoforze.png",
       "carte": [
         {
-          "numero": 1,
-          "nome": "Scyther",
-          "rarita": "common",
-          "lingua": "IT"
-        },
-        {
           "numero": 3,
           "nome": "Seedot",
           "rarita": "common",
@@ -90401,12 +90323,6 @@
           "lingua": "IT"
         },
         {
-          "numero": 26,
-          "nome": "Ponyta",
-          "rarita": "common",
-          "lingua": "IT"
-        },
-        {
           "numero": 27,
           "nome": "Rapidash",
           "rarita": "uncommon",
@@ -90470,12 +90386,6 @@
           "numero": 40,
           "nome": "Croconaw",
           "rarita": "common",
-          "lingua": "IT"
-        },
-        {
-          "numero": 41,
-          "nome": "Feraligatr",
-          "rarita": "rare",
           "lingua": "IT"
         },
         {
@@ -90839,12 +90749,6 @@
           "lingua": "IT"
         },
         {
-          "numero": 128,
-          "nome": "Dunsparce",
-          "rarita": "common",
-          "lingua": "IT"
-        },
-        {
           "numero": 130,
           "nome": "Skitty",
           "rarita": "common",
@@ -90878,12 +90782,6 @@
           "numero": 136,
           "nome": "Minccino",
           "rarita": "common",
-          "lingua": "IT"
-        },
-        {
-          "numero": 137,
-          "nome": "Cinccino",
-          "rarita": "uncommon",
           "lingua": "IT"
         },
         {
@@ -90925,12 +90823,6 @@
         {
           "numero": 147,
           "nome": "Guida dell'Esploratore",
-          "rarita": "uncommon",
-          "lingua": "IT"
-        },
-        {
-          "numero": 149,
-          "nome": "Capsula energetica Tempo Futuro",
           "rarita": "uncommon",
           "lingua": "IT"
         },
@@ -91243,12 +91135,6 @@
         {
           "numero": 203,
           "nome": "Fogliaferrea",
-          "rarita": "special_illustration_rare",
-          "lingua": "IT"
-        },
-        {
-          "numero": 204,
-          "nome": "Vampeaguzze",
           "rarita": "special_illustration_rare",
           "lingua": "IT"
         },
