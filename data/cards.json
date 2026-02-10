@@ -102417,18 +102417,6 @@
           "lingua": "IT"
         },
         {
-          "numero": 5,
-          "nome": "Exeggutor",
-          "rarita": "uncommon",
-          "lingua": "IT"
-        },
-        {
-          "numero": 6,
-          "nome": "Tangela",
-          "rarita": "common",
-          "lingua": "IT"
-        },
-        {
           "numero": 7,
           "nome": "Tangrowth",
           "rarita": "uncommon",
@@ -102555,12 +102543,6 @@
           "lingua": "IT"
         },
         {
-          "numero": 28,
-          "nome": "Cinderace",
-          "rarita": "rare",
-          "lingua": "IT"
-        },
-        {
           "numero": 29,
           "nome": "Sizzlipede",
           "rarita": "common",
@@ -102581,12 +102563,6 @@
         {
           "numero": 32,
           "nome": "Mantine",
-          "rarita": "common",
-          "lingua": "IT"
-        },
-        {
-          "numero": 33,
-          "nome": "Corphish",
           "rarita": "common",
           "lingua": "IT"
         },
@@ -102645,12 +102621,6 @@
           "lingua": "IT"
         },
         {
-          "numero": 43,
-          "nome": "Frosmoth",
-          "rarita": "uncommon",
-          "lingua": "IT"
-        },
-        {
           "numero": 44,
           "nome": "Eiscue",
           "rarita": "common",
@@ -102701,12 +102671,6 @@
         {
           "numero": 52,
           "nome": "Helioptile",
-          "rarita": "common",
-          "lingua": "IT"
-        },
-        {
-          "numero": 53,
-          "nome": "Heliolisk",
           "rarita": "common",
           "lingua": "IT"
         },
@@ -102791,12 +102755,6 @@
         {
           "numero": 67,
           "nome": "Gimmighoul",
-          "rarita": "common",
-          "lingua": "IT"
-        },
-        {
-          "numero": 68,
-          "nome": "Sandshrew",
           "rarita": "common",
           "lingua": "IT"
         },
@@ -102906,12 +102864,6 @@
           "numero": 86,
           "nome": "Mega Absol",
           "rarita": "double_rare",
-          "lingua": "IT"
-        },
-        {
-          "numero": 87,
-          "nome": "Spiritomb",
-          "rarita": "uncommon",
           "lingua": "IT"
         },
         {
@@ -103115,12 +103067,6 @@
         {
           "numero": 121,
           "nome": "Megasegnale",
-          "rarita": "uncommon",
-          "lingua": "IT"
-        },
-        {
-          "numero": 122,
-          "nome": "Giardino dei Misteri",
           "rarita": "uncommon",
           "lingua": "IT"
         },
@@ -103535,12 +103481,6 @@
           "lingua": "IT"
         },
         {
-          "numero": 2,
-          "nome": "Gloom",
-          "rarita": "common",
-          "lingua": "IT"
-        },
-        {
           "numero": 3,
           "nome": "Vileplume",
           "rarita": "rare",
@@ -103577,12 +103517,6 @@
           "lingua": "IT"
         },
         {
-          "numero": 9,
-          "nome": "Nymble",
-          "rarita": "common",
-          "lingua": "IT"
-        },
-        {
           "numero": 10,
           "nome": "Lokix",
           "rarita": "uncommon",
@@ -103591,12 +103525,6 @@
         {
           "numero": 11,
           "nome": "Charmander",
-          "rarita": "common",
-          "lingua": "IT"
-        },
-        {
-          "numero": 12,
-          "nome": "Charmeleon",
           "rarita": "common",
           "lingua": "IT"
         },
@@ -103667,32 +103595,8 @@
           "lingua": "IT"
         },
         {
-          "numero": 24,
-          "nome": "Piloswine",
-          "rarita": "common",
-          "lingua": "IT"
-        },
-        {
-          "numero": 25,
-          "nome": "Mamoswine",
-          "rarita": "uncommon",
-          "lingua": "IT"
-        },
-        {
-          "numero": 26,
-          "nome": "Suicune",
-          "rarita": "rare",
-          "lingua": "IT"
-        },
-        {
           "numero": 27,
           "nome": "Piplup",
-          "rarita": "common",
-          "lingua": "IT"
-        },
-        {
-          "numero": 28,
-          "nome": "Prinplup",
           "rarita": "common",
           "lingua": "IT"
         },
@@ -103717,12 +103621,6 @@
         {
           "numero": 32,
           "nome": "Pawmi",
-          "rarita": "common",
-          "lingua": "IT"
-        },
-        {
-          "numero": 33,
-          "nome": "Pawmo",
           "rarita": "common",
           "lingua": "IT"
         },
@@ -103781,12 +103679,6 @@
           "lingua": "IT"
         },
         {
-          "numero": 43,
-          "nome": "Milcery",
-          "rarita": "common",
-          "lingua": "IT"
-        },
-        {
           "numero": 44,
           "nome": "Alcremie",
           "rarita": "uncommon",
@@ -103805,12 +103697,6 @@
           "lingua": "IT"
         },
         {
-          "numero": 47,
-          "nome": "Brambleghast",
-          "rarita": "uncommon",
-          "lingua": "IT"
-        },
-        {
           "numero": 48,
           "nome": "Tauros di Paldea",
           "rarita": "uncommon",
@@ -103820,12 +103706,6 @@
           "numero": 49,
           "nome": "Gligar",
           "rarita": "common",
-          "lingua": "IT"
-        },
-        {
-          "numero": 50,
-          "nome": "Gliscor",
-          "rarita": "uncommon",
           "lingua": "IT"
         },
         {
@@ -103925,12 +103805,6 @@
           "lingua": "IT"
         },
         {
-          "numero": 67,
-          "nome": "Toxel",
-          "rarita": "common",
-          "lingua": "IT"
-        },
-        {
           "numero": 68,
           "nome": "Toxtricity",
           "rarita": "rare",
@@ -103967,18 +103841,6 @@
           "lingua": "IT"
         },
         {
-          "numero": 74,
-          "nome": "Duraludon",
-          "rarita": "common",
-          "lingua": "IT"
-        },
-        {
-          "numero": 75,
-          "nome": "Archaludon",
-          "rarita": "uncommon",
-          "lingua": "IT"
-        },
-        {
           "numero": 76,
           "nome": "Jigglypuff",
           "rarita": "common",
@@ -103988,18 +103850,6 @@
           "numero": 77,
           "nome": "Wigglytuff",
           "rarita": "uncommon",
-          "lingua": "IT"
-        },
-        {
-          "numero": 78,
-          "nome": "Aipom",
-          "rarita": "common",
-          "lingua": "IT"
-        },
-        {
-          "numero": 79,
-          "nome": "Ambipom",
-          "rarita": "rare",
           "lingua": "IT"
         },
         {
@@ -104045,32 +103895,14 @@
           "lingua": "IT"
         },
         {
-          "numero": 87,
-          "nome": "Lucinda",
-          "rarita": "uncommon",
-          "lingua": "IT"
-        },
-        {
           "numero": 88,
           "nome": "Valle Disorientante",
           "rarita": "uncommon",
           "lingua": "IT"
         },
         {
-          "numero": 89,
-          "nome": "Mangiafuoco",
-          "rarita": "uncommon",
-          "lingua": "IT"
-        },
-        {
           "numero": 90,
           "nome": "Mossa di Mirton",
-          "rarita": "uncommon",
-          "lingua": "IT"
-        },
-        {
-          "numero": 91,
-          "nome": "Gelato Gigante",
           "rarita": "uncommon",
           "lingua": "IT"
         },
