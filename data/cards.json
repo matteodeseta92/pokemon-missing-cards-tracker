@@ -84419,12 +84419,6 @@
           "lingua": "IT"
         },
         {
-          "numero": 51,
-          "nome": "Bruxish",
-          "rarita": "common",
-          "lingua": "IT"
-        },
-        {
           "numero": 54,
           "nome": "Quaquaval",
           "rarita": "rare",
@@ -84533,12 +84527,6 @@
           "lingua": "IT"
         },
         {
-          "numero": 83,
-          "nome": "Hypno",
-          "rarita": "uncommon",
-          "lingua": "IT"
-        },
-        {
           "numero": 86,
           "nome": "Gardevoir",
           "rarita": "rare_double",
@@ -84548,12 +84536,6 @@
           "numero": 87,
           "nome": "Shuppet",
           "rarita": "common",
-          "lingua": "IT"
-        },
-        {
-          "numero": 88,
-          "nome": "Banette",
-          "rarita": "rare_double",
           "lingua": "IT"
         },
         {
@@ -84625,12 +84607,6 @@
         {
           "numero": 108,
           "nome": "Primeape",
-          "rarita": "common",
-          "lingua": "IT"
-        },
-        {
-          "numero": 110,
-          "nome": "Meditite",
           "rarita": "common",
           "lingua": "IT"
         },
@@ -84707,12 +84683,6 @@
           "lingua": "IT"
         },
         {
-          "numero": 126,
-          "nome": "Grimer",
-          "rarita": "common",
-          "lingua": "IT"
-        },
-        {
           "numero": 127,
           "nome": "Muk",
           "rarita": "uncommon",
@@ -84740,12 +84710,6 @@
           "numero": 135,
           "nome": "Maschiff",
           "rarita": "common",
-          "lingua": "IT"
-        },
-        {
-          "numero": 138,
-          "nome": "Bombirdier",
-          "rarita": "uncommon",
           "lingua": "IT"
         },
         {
@@ -84845,12 +84809,6 @@
           "lingua": "IT"
         },
         {
-          "numero": 172,
-          "nome": "Ricerca di Energia",
-          "rarita": "common",
-          "lingua": "IT"
-        },
-        {
           "numero": 176,
           "nome": "Arbitro",
           "rarita": "uncommon",
@@ -84865,12 +84823,6 @@
         {
           "numero": 179,
           "nome": "Mimosa",
-          "rarita": "uncommon",
-          "lingua": "IT"
-        },
-        {
-          "numero": 184,
-          "nome": "Cestino da Picnic",
           "rarita": "uncommon",
           "lingua": "IT"
         },
