@@ -1771,12 +1771,6 @@
           "lingua": "IT"
         },
         {
-          "numero": 124,
-          "nome": "Pikachu",
-          "rarita": "common",
-          "lingua": "IT"
-        },
-        {
           "numero": 134,
           "nome": "Totodile",
           "rarita": "common",
@@ -4853,12 +4847,6 @@
           "lingua": "IT"
         },
         {
-          "numero": 78,
-          "nome": "Shroomish",
-          "rarita": "common",
-          "lingua": "IT"
-        },
-        {
           "numero": 81,
           "nome": "Spearow",
           "rarita": "common",
@@ -6415,12 +6403,6 @@
         {
           "numero": 81,
           "nome": "Vulpix",
-          "rarita": "common",
-          "lingua": "IT"
-        },
-        {
-          "numero": 83,
-          "nome": "Zubat",
           "rarita": "common",
           "lingua": "IT"
         },
@@ -11051,12 +11033,6 @@
         {
           "numero": 74,
           "nome": "Omanyte δ",
-          "rarita": "common",
-          "lingua": "IT"
-        },
-        {
-          "numero": 75,
-          "nome": "Phanpy",
           "rarita": "common",
           "lingua": "IT"
         },
@@ -25899,12 +25875,6 @@
           "lingua": "IT"
         },
         {
-          "numero": 13,
-          "nome": "Petilil",
-          "rarita": "common",
-          "lingua": "IT"
-        },
-        {
           "numero": 14,
           "nome": "Lilligant",
           "rarita": "uncommon",
@@ -25971,12 +25941,6 @@
           "lingua": "IT"
         },
         {
-          "numero": 25,
-          "nome": "Basculin",
-          "rarita": "uncommon",
-          "lingua": "IT"
-        },
-        {
           "numero": 26,
           "nome": "Ducklett",
           "rarita": "common",
@@ -25998,12 +25962,6 @@
           "numero": 29,
           "nome": "Cubchoo",
           "rarita": "common",
-          "lingua": "IT"
-        },
-        {
-          "numero": 30,
-          "nome": "Beartic",
-          "rarita": "rare_holo",
           "lingua": "IT"
         },
         {
@@ -26061,12 +26019,6 @@
           "lingua": "IT"
         },
         {
-          "numero": 40,
-          "nome": "Scolipede",
-          "rarita": "rare",
-          "lingua": "IT"
-        },
-        {
           "numero": 41,
           "nome": "Sigilyph",
           "rarita": "uncommon",
@@ -26116,12 +26068,6 @@
         },
         {
           "numero": 49,
-          "nome": "Roggenrola",
-          "rarita": "common",
-          "lingua": "IT"
-        },
-        {
-          "numero": 50,
           "nome": "Roggenrola",
           "rarita": "common",
           "lingua": "IT"
@@ -26220,12 +26166,6 @@
           "numero": 66,
           "nome": "Zorua",
           "rarita": "uncommon",
-          "lingua": "IT"
-        },
-        {
-          "numero": 67,
-          "nome": "Zoroark",
-          "rarita": "rare_holo",
           "lingua": "IT"
         },
         {
@@ -27196,12 +27136,6 @@
           "numero": 26,
           "nome": "Lapras",
           "rarita": "uncommon",
-          "lingua": "IT"
-        },
-        {
-          "numero": 27,
-          "nome": "Articuno",
-          "rarita": "rare_holo",
           "lingua": "IT"
         },
         {
@@ -28669,12 +28603,6 @@
           "lingua": "IT"
         },
         {
-          "numero": 33,
-          "nome": "Floatzel",
-          "rarita": "uncommon",
-          "lingua": "IT"
-        },
-        {
           "numero": 34,
           "nome": "Tympole",
           "rarita": "common",
@@ -28918,12 +28846,6 @@
           "numero": 74,
           "nome": "Houndour",
           "rarita": "common",
-          "lingua": "IT"
-        },
-        {
-          "numero": 75,
-          "nome": "Houndoom",
-          "rarita": "rare",
           "lingua": "IT"
         },
         {
@@ -29549,12 +29471,6 @@
         {
           "numero": 50,
           "nome": "Pikachu",
-          "rarita": "common",
-          "lingua": "IT"
-        },
-        {
-          "numero": 51,
-          "nome": "Voltorb",
           "rarita": "common",
           "lingua": "IT"
         },
@@ -31228,12 +31144,6 @@
           "numero": 36,
           "nome": "Lanturn",
           "rarita": "uncommon",
-          "lingua": "IT"
-        },
-        {
-          "numero": 37,
-          "nome": "Pachirisu",
-          "rarita": "common",
           "lingua": "IT"
         },
         {
@@ -40629,12 +40539,6 @@
           "lingua": "IT"
         },
         {
-          "numero": 60,
-          "nome": "Honedge",
-          "rarita": "common",
-          "lingua": "IT"
-        },
-        {
           "numero": 61,
           "nome": "Doublade",
           "rarita": "uncommon",
@@ -46325,12 +46229,6 @@
           "lingua": "IT"
         },
         {
-          "numero": 32,
-          "nome": "Glalie",
-          "rarita": "uncommon",
-          "lingua": "IT"
-        },
-        {
           "numero": 33,
           "nome": "Vanillite",
           "rarita": "common",
@@ -48291,12 +48189,6 @@
           "lingua": "IT"
         },
         {
-          "numero": 24,
-          "nome": "Palkia",
-          "rarita": "rare_holo",
-          "lingua": "IT"
-        },
-        {
           "numero": 25,
           "nome": "Manaphy",
           "rarita": "rare_holo",
@@ -48354,12 +48246,6 @@
           "numero": 34,
           "nome": "Minun",
           "rarita": "common",
-          "lingua": "IT"
-        },
-        {
-          "numero": 35,
-          "nome": "Zekrom",
-          "rarita": "rare_holo",
           "lingua": "IT"
         },
         {
@@ -48872,12 +48758,6 @@
           "numero": 41,
           "nome": "Spoink",
           "rarita": "common",
-          "lingua": "IT"
-        },
-        {
-          "numero": 42,
-          "nome": "Grumpig",
-          "rarita": "uncommon",
           "lingua": "IT"
         },
         {
@@ -52097,12 +51977,6 @@
           "lingua": "IT"
         },
         {
-          "numero": 132,
-          "nome": "Hau",
-          "rarita": "uncommon",
-          "lingua": "IT"
-        },
-        {
           "numero": 133,
           "nome": "Montanaro",
           "rarita": "uncommon",
@@ -52183,12 +52057,6 @@
         {
           "numero": 146,
           "nome": "Super Recupero",
-          "rarita": "uncommon",
-          "lingua": "IT"
-        },
-        {
-          "numero": 147,
-          "nome": "Scambio",
           "rarita": "uncommon",
           "lingua": "IT"
         },
@@ -55091,12 +54959,6 @@
           "lingua": "IT"
         },
         {
-          "numero": 130,
-          "nome": "Aerodactyl",
-          "rarita": "rare",
-          "lingua": "IT"
-        },
-        {
           "numero": 131,
           "nome": "Lugia",
           "rarita": "rare_holo",
@@ -57698,12 +57560,6 @@
           "numero": 112,
           "nome": "Gible",
           "rarita": "common",
-          "lingua": "IT"
-        },
-        {
-          "numero": 113,
-          "nome": "Gabite",
-          "rarita": "uncommon",
           "lingua": "IT"
         },
         {
@@ -65049,12 +64905,6 @@
           "lingua": "IT"
         },
         {
-          "numero": 174,
-          "nome": "Energia Duplice",
-          "rarita": "uncommon",
-          "lingua": "IT"
-        },
-        {
           "numero": 175,
           "nome": "RillaboomV",
           "rarita": "rare_ultra",
@@ -65720,12 +65570,6 @@
           "numero": 75,
           "nome": "Gothitelle",
           "rarita": "rare",
-          "lingua": "IT"
-        },
-        {
-          "numero": 76,
-          "nome": "Golett",
-          "rarita": "common",
           "lingua": "IT"
         },
         {
@@ -73897,12 +73741,6 @@
           "lingua": "IT"
         },
         {
-          "numero": 106,
-          "nome": "Toxel",
-          "rarita": "common",
-          "lingua": "IT"
-        },
-        {
           "numero": 107,
           "nome": "Toxtricity",
           "rarita": "rare_holo",
@@ -75240,12 +75078,6 @@
           "numero": 55,
           "nome": "Starmie",
           "rarita": "uncommon",
-          "lingua": "IT"
-        },
-        {
-          "numero": 56,
-          "nome": "Mewtwo",
-          "rarita": "rare",
           "lingua": "IT"
         },
         {
@@ -77593,12 +77425,6 @@
           "lingua": "IT"
         },
         {
-          "numero": 3,
-          "nome": "Venusaur",
-          "rarita": "rare_holo",
-          "lingua": "IT"
-        },
-        {
           "numero": 4,
           "nome": "Venusaur Lucente",
           "rarita": "rare_radiant",
@@ -77836,12 +77662,6 @@
           "numero": 43,
           "nome": "Tyranitar",
           "rarita": "rare_holo",
-          "lingua": "IT"
-        },
-        {
-          "numero": 44,
-          "nome": "Steelix",
-          "rarita": "uncommon",
           "lingua": "IT"
         },
         {
@@ -80540,12 +80360,6 @@
           "numero": 156,
           "nome": "Sigillo Forestale",
           "rarita": "rare_holo",
-          "lingua": "IT"
-        },
-        {
-          "numero": 157,
-          "nome": "Ragazza in kimono",
-          "rarita": "uncommon",
           "lingua": "IT"
         },
         {
@@ -84395,12 +84209,6 @@
           "lingua": "IT"
         },
         {
-          "numero": 47,
-          "nome": "Floatzel",
-          "rarita": "uncommon",
-          "lingua": "IT"
-        },
-        {
           "numero": 49,
           "nome": "Clauncher",
           "rarita": "common",
@@ -84740,12 +84548,6 @@
           "numero": 156,
           "nome": "Lechonk",
           "rarita": "common",
-          "lingua": "IT"
-        },
-        {
-          "numero": 158,
-          "nome": "Oinkologne",
-          "rarita": "rare_double",
           "lingua": "IT"
         },
         {
@@ -85689,12 +85491,6 @@
         {
           "numero": 157,
           "nome": "Dudunsparce",
-          "rarita": "uncommon",
-          "lingua": "IT"
-        },
-        {
-          "numero": 161,
-          "nome": "Vigoroth",
           "rarita": "uncommon",
           "lingua": "IT"
         },
@@ -86739,12 +86535,6 @@
           "lingua": "IT"
         },
         {
-          "numero": 177,
-          "nome": "Gumshoos",
-          "rarita": "uncommon",
-          "lingua": "IT"
-        },
-        {
           "numero": 178,
           "nome": "Skwovet",
           "rarita": "common",
@@ -87253,12 +87043,6 @@
         {
           "numero": 187,
           "nome": "Wigglytuff",
-          "rarita": "ultra_rare",
-          "lingua": "IT"
-        },
-        {
-          "numero": 188,
-          "nome": "Alakazam",
           "rarita": "ultra_rare",
           "lingua": "IT"
         },
@@ -87847,12 +87631,6 @@
           "lingua": "IT"
         },
         {
-          "numero": 93,
-          "nome": "Groudon",
-          "rarita": "rare",
-          "lingua": "IT"
-        },
-        {
           "numero": 95,
           "nome": "Gabite",
           "rarita": "common",
@@ -88131,12 +87909,6 @@
         {
           "numero": 147,
           "nome": "Miltank",
-          "rarita": "common",
-          "lingua": "IT"
-        },
-        {
-          "numero": 149,
-          "nome": "Loudred",
           "rarita": "common",
           "lingua": "IT"
         },
@@ -88959,33 +88731,9 @@
           "lingua": "IT"
         },
         {
-          "numero": 31,
-          "nome": "Mime Jr.",
-          "rarita": "common",
-          "lingua": "IT"
-        },
-        {
-          "numero": 32,
-          "nome": "Woobat",
-          "rarita": "common",
-          "lingua": "IT"
-        },
-        {
           "numero": 33,
           "nome": "Swoobat",
           "rarita": "uncommon",
-          "lingua": "IT"
-        },
-        {
-          "numero": 34,
-          "nome": "Cottonee",
-          "rarita": "common",
-          "lingua": "IT"
-        },
-        {
-          "numero": 36,
-          "nome": "Dedenne",
-          "rarita": "common",
           "lingua": "IT"
         },
         {
@@ -89091,12 +88839,6 @@
           "lingua": "IT"
         },
         {
-          "numero": 62,
-          "nome": "Maschiff",
-          "rarita": "common",
-          "lingua": "IT"
-        },
-        {
           "numero": 63,
           "nome": "Mabosstiff",
           "rarita": "rare",
@@ -89112,12 +88854,6 @@
           "numero": 66,
           "nome": "Solcoferreo",
           "rarita": "double_rare",
-          "lingua": "IT"
-        },
-        {
-          "numero": 67,
-          "nome": "Gholdengo",
-          "rarita": "rare",
           "lingua": "IT"
         },
         {
@@ -90557,12 +90293,6 @@
           "lingua": "IT"
         },
         {
-          "numero": 105,
-          "nome": "Poochyena",
-          "rarita": "common",
-          "lingua": "IT"
-        },
-        {
           "numero": 107,
           "nome": "Sableye",
           "rarita": "uncommon",
@@ -91612,12 +91342,6 @@
           "numero": 81,
           "nome": "Kadabra",
           "rarita": "common",
-          "lingua": "IT"
-        },
-        {
-          "numero": 82,
-          "nome": "Alakazam",
-          "rarita": "rare",
           "lingua": "IT"
         },
         {
@@ -93203,12 +92927,6 @@
           "lingua": "IT"
         },
         {
-          "numero": 22,
-          "nome": "Reshiram",
-          "rarita": "uncommon",
-          "lingua": "IT"
-        },
-        {
           "numero": 23,
           "nome": "Salandit",
           "rarita": "common",
@@ -94531,12 +94249,6 @@
           "lingua": "IT"
         },
         {
-          "numero": 84,
-          "nome": "Espurr",
-          "rarita": "common",
-          "lingua": "IT"
-        },
-        {
           "numero": 85,
           "nome": "Meowstic",
           "rarita": "uncommon",
@@ -95703,12 +95415,6 @@
           "lingua": "IT"
         },
         {
-          "numero": 35,
-          "nome": "Duskull",
-          "rarita": "common",
-          "lingua": "IT"
-        },
-        {
           "numero": 36,
           "nome": "Dusclops",
           "rarita": "common",
@@ -95759,12 +95465,6 @@
         {
           "numero": 44,
           "nome": "Munkidori",
-          "rarita": "rare",
-          "lingua": "IT"
-        },
-        {
-          "numero": 45,
-          "nome": "Fezandipiti",
           "rarita": "rare",
           "lingua": "IT"
         },
@@ -96839,12 +96539,6 @@
           "lingua": "IT"
         },
         {
-          "numero": 47,
-          "nome": "Voltorb di Kissara",
-          "rarita": "common",
-          "lingua": "IT"
-        },
-        {
           "numero": 48,
           "nome": "Electrode di Kissara",
           "rarita": "uncommon",
@@ -96992,12 +96686,6 @@
           "numero": 72,
           "nome": "Morgrem",
           "rarita": "common",
-          "lingua": "IT"
-        },
-        {
-          "numero": 73,
-          "nome": "Grimmsnarl",
-          "rarita": "uncommon",
           "lingua": "IT"
         },
         {
@@ -97279,12 +96967,6 @@
         {
           "numero": 123,
           "nome": "Tropius",
-          "rarita": "common",
-          "lingua": "IT"
-        },
-        {
-          "numero": 124,
-          "nome": "Audino",
           "rarita": "common",
           "lingua": "IT"
         },
