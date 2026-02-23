@@ -144,44 +144,37 @@ body {
   padding: 2px 4px;
 }
 
-/* ===== HEADER CON COUNTER ===== */
+/* ===== HOME TOP LAYOUT ===== */
 
-.app-header {
-  position: relative;
-  text-align: center;
-  background: #ffcb05;
-  padding: 16px;
+.home-top {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 40px;
+  margin: 20px 0;
 }
 
+.home-gif {
+  max-width: 180px;
+}
+
+/* ===== COUNTER GLOBALE ===== */
+
 .global-counter {
-  position: absolute;
-  top: 12px;
-  right: 20px;
   display: flex;
+  flex-direction: column;
   align-items: center;
-  gap: 8px;
+  gap: 6px;
 }
 
 .global-label {
-  font-size: 13px;
+  font-size: 14px;
   font-weight: bold;
   color: #333;
 }
 
 .global-ring {
-  width: 42px;
-  height: 42px;
-  font-size: 15px;
-}
-
-/* ===== HOME TOP LAYOUT ===== */
-
-.home-top {
-  display: flex;
-  justify-content: flex-start;
-  margin-bottom: 20px;
-}
-
-.home-gif {
-  max-width: 160px;
+  width: 50px;
+  height: 50px;
+  font-size: 16px;
 }
