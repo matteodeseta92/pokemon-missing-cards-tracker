@@ -1,5 +1,7 @@
 document.addEventListener("DOMContentLoaded", function () {
   var setsList = document.getElementById("setsList");
+  var globalCounter = document.getElementById("globalMissing");
+
   if (!setsList) return;
 
   fetch("data/cards.json")
@@ -7,10 +9,16 @@ document.addEventListener("DOMContentLoaded", function () {
       return response.json();
     })
     .then(function (data) {
+
+      var totalMissing = 0;
+
       data.sets.forEach(function (set) {
 
-        // ✔ Carte mancanti = totale carte del set
+        // totale carte per set
         var missingCount = set.carte.length;
+
+        // somma globale
+        totalMissing += missingCount;
 
         var row = document.createElement("div");
         row.className = "set-row";
@@ -40,8 +48,15 @@ document.addEventListener("DOMContentLoaded", function () {
 
         row.appendChild(name);
         row.appendChild(right);
+
         setsList.appendChild(row);
       });
+
+      // aggiorna counter globale
+      if (globalCounter) {
+        globalCounter.textContent = totalMissing;
+      }
+
     })
     .catch(function (err) {
       console.error("Errore caricamento cards.json:", err);

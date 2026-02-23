@@ -11,13 +11,25 @@
   <header class="app-header">
     <img src="assets/logo_pokemon.png" alt="Pokémon Logo" class="app-logo">
     <h1>Missing Cards Tracker</h1>
+
+    <!-- Counter globale -->
+    <div class="global-counter">
+      <div class="missing-ring global-ring" id="globalMissing">
+        0
+      </div>
+      <span class="global-label">Carte Mancanti</span>
+    </div>
   </header>
 
   <main class="home-container">
-    <img src="assets/home_pikachu.gif" alt="Pikachu" class="home-gif">
+
+    <div class="home-top">
+      <img src="assets/home_pikachu.gif" alt="Pikachu" class="home-gif">
+    </div>
 
     <!-- Elenco set -->
     <div id="setsList" class="sets-list"></div>
+
   </main>
 
   <script src="js/home.js"></script>
