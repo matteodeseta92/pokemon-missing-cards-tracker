@@ -93775,12 +93775,6 @@
           "lingua": "IT"
         },
         {
-          "numero": 17,
-          "nome": "Ninetales",
-          "rarita": "uncommon",
-          "lingua": "IT"
-        },
-        {
           "numero": 18,
           "nome": "Tauros di Paldea",
           "rarita": "uncommon",
@@ -93907,12 +93901,6 @@
           "lingua": "IT"
         },
         {
-          "numero": 45,
-          "nome": "Walrein",
-          "rarita": "uncommon",
-          "lingua": "IT"
-        },
-        {
           "numero": 46,
           "nome": "Shellos",
           "rarita": "common",
@@ -93997,12 +93985,6 @@
           "lingua": "IT"
         },
         {
-          "numero": 61,
-          "nome": "Rotom",
-          "rarita": "common",
-          "lingua": "IT"
-        },
-        {
           "numero": 62,
           "nome": "Blitzle",
           "rarita": "common",
@@ -94048,12 +94030,6 @@
           "numero": 69,
           "nome": "Miraidon",
           "rarita": "uncommon",
-          "lingua": "IT"
-        },
-        {
-          "numero": 70,
-          "nome": "Togepi",
-          "rarita": "common",
           "lingua": "IT"
         },
         {
@@ -94243,12 +94219,6 @@
           "lingua": "IT"
         },
         {
-          "numero": 107,
-          "nome": "Gastrodon",
-          "rarita": "rare",
-          "lingua": "IT"
-        },
-        {
           "numero": 109,
           "nome": "Excadrill",
           "rarita": "common",
@@ -94299,12 +94269,6 @@
         {
           "numero": 117,
           "nome": "Deino",
-          "rarita": "common",
-          "lingua": "IT"
-        },
-        {
-          "numero": 118,
-          "nome": "Zweilous",
           "rarita": "common",
           "lingua": "IT"
         },
@@ -94501,12 +94465,6 @@
           "lingua": "IT"
         },
         {
-          "numero": 154,
-          "nome": "Helioptile",
-          "rarita": "common",
-          "lingua": "IT"
-        },
-        {
           "numero": 155,
           "nome": "Heliolisk",
           "rarita": "common",
@@ -94581,12 +94539,6 @@
         {
           "numero": 167,
           "nome": "Arguzia di Lem",
-          "rarita": "uncommon",
-          "lingua": "IT"
-        },
-        {
-          "numero": 168,
-          "nome": "Baccaxan",
           "rarita": "uncommon",
           "lingua": "IT"
         },
@@ -96269,12 +96221,6 @@
           "lingua": "IT"
         },
         {
-          "numero": 23,
-          "nome": "Combusken",
-          "rarita": "uncommon",
-          "lingua": "IT"
-        },
-        {
           "numero": 24,
           "nome": "Blaziken",
           "rarita": "double_rare",
@@ -96290,12 +96236,6 @@
           "numero": 26,
           "nome": "Darumaka di N",
           "rarita": "common",
-          "lingua": "IT"
-        },
-        {
-          "numero": 27,
-          "nome": "Darmanitan di N",
-          "rarita": "uncommon",
           "lingua": "IT"
         },
         {
@@ -96485,12 +96425,6 @@
           "lingua": "IT"
         },
         {
-          "numero": 62,
-          "nome": "Metang",
-          "rarita": "common",
-          "lingua": "IT"
-        },
-        {
           "numero": 63,
           "nome": "Metagross",
           "rarita": "rare",
@@ -96512,12 +96446,6 @@
           "numero": 66,
           "nome": "Cutiefly di Lylia",
           "rarita": "common",
-          "lingua": "IT"
-        },
-        {
-          "numero": 67,
-          "nome": "Ribombee di Lylia",
-          "rarita": "rare",
           "lingua": "IT"
         },
         {
@@ -96611,12 +96539,6 @@
           "lingua": "IT"
         },
         {
-          "numero": 84,
-          "nome": "Rockruff",
-          "rarita": "common",
-          "lingua": "IT"
-        },
-        {
           "numero": 85,
           "nome": "Lycanroc",
           "rarita": "rare",
@@ -96638,12 +96560,6 @@
           "numero": 88,
           "nome": "Toedscool",
           "rarita": "common",
-          "lingua": "IT"
-        },
-        {
-          "numero": 89,
-          "nome": "Toedscruel",
-          "rarita": "uncommon",
           "lingua": "IT"
         },
         {
@@ -96815,18 +96731,6 @@
           "lingua": "IT"
         },
         {
-          "numero": 126,
-          "nome": "Cinccino",
-          "rarita": "uncommon",
-          "lingua": "IT"
-        },
-        {
-          "numero": 127,
-          "nome": "Noibat",
-          "rarita": "common",
-          "lingua": "IT"
-        },
-        {
           "numero": 128,
           "nome": "Noivern",
           "rarita": "rare",
@@ -96841,12 +96745,6 @@
         {
           "numero": 130,
           "nome": "Drampa",
-          "rarita": "common",
-          "lingua": "IT"
-        },
-        {
-          "numero": 131,
-          "nome": "Skwovet",
           "rarita": "common",
           "lingua": "IT"
         },
