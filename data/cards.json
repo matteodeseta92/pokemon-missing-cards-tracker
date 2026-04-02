@@ -102806,7 +102806,7 @@
     },
     {
       "nome_set": "Promo Stella Nera MEP",
-      "data_pubblicazione": "2025-11-15",
+      "data_pubblicazione": "2026-01-15",
       "nome_logo": "logo_promo_stella_nera_mep.png",
       "logo_disegnato": "art_promo_stella_nera_mep.png",
       "carte": [
@@ -103095,12 +103095,6 @@
       "logo_disegnato": "art_megaevoluzione_ascesa_eroica.png",
       "carte": [
         {
-          "numero": 1,
-          "nome": "Oddish di Erika",
-          "rarita": "common",
-          "lingua": "IT"
-        },
-        {
           "numero": 2,
           "nome": "Gloom di Erika",
           "rarita": "uncommon",
@@ -103131,21 +103125,9 @@
           "lingua": "IT"
         },
         {
-          "numero": 7,
-          "nome": "Tangela di Erika",
-          "rarita": "common",
-          "lingua": "IT"
-        },
-        {
           "numero": 8,
           "nome": "Chikorita",
           "rarita": "common",
-          "lingua": "IT"
-        },
-        {
-          "numero": 9,
-          "nome": "Bayleef",
-          "rarita": "uncommon",
           "lingua": "IT"
         },
         {
@@ -103299,12 +103281,6 @@
           "lingua": "IT"
         },
         {
-          "numero": 35,
-          "nome": "Salazzle",
-          "rarita": "uncommon",
-          "lingua": "IT"
-        },
-        {
           "numero": 36,
           "nome": "Scorbunny",
           "rarita": "common",
@@ -103329,12 +103305,6 @@
           "lingua": "IT"
         },
         {
-          "numero": 40,
-          "nome": "Golduck",
-          "rarita": "uncommon",
-          "lingua": "IT"
-        },
-        {
           "numero": 41,
           "nome": "Totodile",
           "rarita": "common",
@@ -103356,12 +103326,6 @@
           "numero": 44,
           "nome": "Sneasel",
           "rarita": "common",
-          "lingua": "IT"
-        },
-        {
-          "numero": 45,
-          "nome": "Weavile",
-          "rarita": "uncommon",
           "lingua": "IT"
         },
         {
@@ -103392,12 +103356,6 @@
           "numero": 50,
           "nome": "Vanillish di N",
           "rarita": "common",
-          "lingua": "IT"
-        },
-        {
-          "numero": 51,
-          "nome": "Vanilluxe di N",
-          "rarita": "uncommon",
           "lingua": "IT"
         },
         {
@@ -103461,18 +103419,6 @@
           "lingua": "IT"
         },
         {
-          "numero": 62,
-          "nome": "Stunfisk",
-          "rarita": "common",
-          "lingua": "IT"
-        },
-        {
-          "numero": 63,
-          "nome": "Helioptile",
-          "rarita": "common",
-          "lingua": "IT"
-        },
-        {
           "numero": 64,
           "nome": "Heliolisk",
           "rarita": "uncommon",
@@ -103488,12 +103434,6 @@
           "numero": 66,
           "nome": "Vikavolt",
           "rarita": "uncommon",
-          "lingua": "IT"
-        },
-        {
-          "numero": 67,
-          "nome": "Tapu Koko",
-          "rarita": "rare",
           "lingua": "IT"
         },
         {
@@ -103584,12 +103524,6 @@
           "numero": 82,
           "nome": "Togekiss",
           "rarita": "rare",
-          "lingua": "IT"
-        },
-        {
-          "numero": 83,
-          "nome": "Marill",
-          "rarita": "common",
           "lingua": "IT"
         },
         {
@@ -103707,12 +103641,6 @@
           "lingua": "IT"
         },
         {
-          "numero": 103,
-          "nome": "Meditite",
-          "rarita": "common",
-          "lingua": "IT"
-        },
-        {
           "numero": 104,
           "nome": "Medicham",
           "rarita": "common",
@@ -103809,12 +103737,6 @@
           "lingua": "IT"
         },
         {
-          "numero": 120,
-          "nome": "Coalossal",
-          "rarita": "rare",
-          "lingua": "IT"
-        },
-        {
           "numero": 121,
           "nome": "Koraidon",
           "rarita": "double_rare",
@@ -103875,27 +103797,9 @@
           "lingua": "IT"
         },
         {
-          "numero": 131,
-          "nome": "Linoone di Galar",
-          "rarita": "common",
-          "lingua": "IT"
-        },
-        {
-          "numero": 132,
-          "nome": "Obstagoon di Galar",
-          "rarita": "uncommon",
-          "lingua": "IT"
-        },
-        {
           "numero": 133,
           "nome": "Spiritomb di Camilla",
           "rarita": "uncommon",
-          "lingua": "IT"
-        },
-        {
-          "numero": 134,
-          "nome": "Scraggy",
-          "rarita": "common",
           "lingua": "IT"
         },
         {
@@ -104025,12 +103929,6 @@
           "lingua": "IT"
         },
         {
-          "numero": 156,
-          "nome": "Noibat",
-          "rarita": "common",
-          "lingua": "IT"
-        },
-        {
           "numero": 157,
           "nome": "Noivern",
           "rarita": "uncommon",
@@ -104094,12 +103992,6 @@
           "numero": 167,
           "nome": "Zangoose",
           "rarita": "double_rare",
-          "lingua": "IT"
-        },
-        {
-          "numero": 168,
-          "nome": "Starly di Ubaldo",
-          "rarita": "common",
           "lingua": "IT"
         },
         {
@@ -104211,12 +104103,6 @@
           "lingua": "IT"
         },
         {
-          "numero": 187,
-          "nome": "Gong di Lotta",
-          "rarita": "uncommon",
-          "lingua": "IT"
-        },
-        {
           "numero": 188,
           "nome": "Bosco della Vitalità",
           "rarita": "uncommon",
@@ -104237,12 +104123,6 @@
         {
           "numero": 191,
           "nome": "Elettropalla",
-          "rarita": "uncommon",
-          "lingua": "IT"
-        },
-        {
-          "numero": 192,
-          "nome": "Determinazione di Lylia",
           "rarita": "uncommon",
           "lingua": "IT"
         },
