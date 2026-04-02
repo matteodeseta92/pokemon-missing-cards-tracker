@@ -102805,290 +102805,6 @@
       ]
     },
     {
-      "nome_set": "Promo Stella Nera MEP",
-      "data_pubblicazione": "2026-01-15",
-      "nome_logo": "logo_promo_stella_nera_mep.png",
-      "logo_disegnato": "art_promo_stella_nera_mep.png",
-      "carte": [
-        {
-          "numero": 1,
-          "nome": "Inteleon",
-          "rarita": "ultra_rare",
-          "lingua": "IT"
-        },
-        {
-          "numero": 2,
-          "nome": "Alakazam",
-          "rarita": "ultra_rare",
-          "lingua": "IT"
-        },
-        {
-          "numero": 3,
-          "nome": "Lunatone",
-          "rarita": "ultra_rare",
-          "lingua": "IT"
-        },
-        {
-          "numero": 4,
-          "nome": "Drifloon",
-          "rarita": "ultra_rare",
-          "lingua": "IT"
-        },
-        {
-          "numero": 5,
-          "nome": "Drifblim",
-          "rarita": "ultra_rare",
-          "lingua": "IT"
-        },
-        {
-          "numero": 6,
-          "nome": "Psyduck",
-          "rarita": "ultra_rare",
-          "lingua": "IT"
-        },
-        {
-          "numero": 7,
-          "nome": "Golduck",
-          "rarita": "ultra_rare",
-          "lingua": "IT"
-        },
-        {
-          "numero": 8,
-          "nome": "Alakazam",
-          "rarita": "ultra_rare",
-          "lingua": "IT"
-        },
-        {
-          "numero": 9,
-          "nome": "Riolu",
-          "rarita": "ultra_rare",
-          "lingua": "IT"
-        },
-        {
-          "numero": 10,
-          "nome": "Mega Latias",
-          "rarita": "ultra_rare",
-          "lingua": "IT"
-        },
-        {
-          "numero": 11,
-          "nome": "Mega Lucario",
-          "rarita": "ultra_rare",
-          "lingua": "IT"
-        },
-        {
-          "numero": 12,
-          "nome": "Mega Venusaur",
-          "rarita": "ultra_rare",
-          "lingua": "IT"
-        },
-        {
-          "numero": 13,
-          "nome": "Ceruledge",
-          "rarita": "ultra_rare",
-          "lingua": "IT"
-        },
-        {
-          "numero": 14,
-          "nome": "Zacian",
-          "rarita": "ultra_rare",
-          "lingua": "IT"
-        },
-        {
-          "numero": 15,
-          "nome": "Flygon",
-          "rarita": "ultra_rare",
-          "lingua": "IT"
-        },
-        {
-          "numero": 16,
-          "nome": "Toxtricity",
-          "rarita": "ultra_rare",
-          "lingua": "IT"
-        },
-        {
-          "numero": 17,
-          "nome": "Cottonee",
-          "rarita": "ultra_rare",
-          "lingua": "IT"
-        },
-        {
-          "numero": 18,
-          "nome": "Whimsicott",
-          "rarita": "ultra_rare",
-          "lingua": "IT"
-        },
-        {
-          "numero": 19,
-          "nome": "Sneasel",
-          "rarita": "ultra_rare",
-          "lingua": "IT"
-        },
-        {
-          "numero": 20,
-          "nome": "Weavile",
-          "rarita": "ultra_rare",
-          "lingua": "IT"
-        },
-        {
-          "numero": 21,
-          "nome": "Charcadet",
-          "rarita": "ultra_rare",
-          "lingua": "IT"
-        },
-        {
-          "numero": 22,
-          "nome": "Mega Charizard X",
-          "rarita": "ultra_rare",
-          "lingua": "IT"
-        },
-        {
-          "numero": 23,
-          "nome": "Oricorio",
-          "rarita": "ultra_rare",
-          "lingua": "IT"
-        },
-        {
-          "numero": 24,
-          "nome": "Mega Kangaskhan",
-          "rarita": "ultra_rare",
-          "lingua": "IT"
-        },
-        {
-          "numero": 25,
-          "nome": "Meloetta",
-          "rarita": "ultra_rare",
-          "lingua": "IT"
-        },
-        {
-          "numero": 26,
-          "nome": "Haunter",
-          "rarita": "ultra_rare",
-          "lingua": "IT"
-        },
-        {
-          "numero": 27,
-          "nome": "Fanfara Festosa",
-          "rarita": "ultra_rare",
-          "lingua": "IT"
-        },
-        {
-          "numero": 28,
-          "nome": "Mega Charizard X",
-          "rarita": "ultra_rare",
-          "lingua": "IT"
-        },
-        {
-          "numero": 30,
-          "nome": "Zekrom di N",
-          "rarita": "ultra_rare",
-          "lingua": "IT"
-        },
-        {
-          "numero": 31,
-          "nome": "Mega Gardevoir",
-          "rarita": "ultra_rare",
-          "lingua": "IT"
-        },
-        {
-          "numero": 32,
-          "nome": "Mega Lucario",
-          "rarita": "ultra_rare",
-          "lingua": "IT"
-        },
-        {
-          "numero": 33,
-          "nome": "Mega Meganium",
-          "rarita": "ultra_rare",
-          "lingua": "IT"
-        },
-        {
-          "numero": 34,
-          "nome": "Mega Emboar",
-          "rarita": "ultra_rare",
-          "lingua": "IT"
-        },
-        {
-          "numero": 35,
-          "nome": "Mega Feraligatr",
-          "rarita": "ultra_rare",
-          "lingua": "IT"
-        },
-        {
-          "numero": 36,
-          "nome": "Bulbasaur",
-          "rarita": "ultra_rare",
-          "lingua": "IT"
-        },
-        {
-          "numero": 37,
-          "nome": "Charmander",
-          "rarita": "ultra_rare",
-          "lingua": "IT"
-        },
-        {
-          "numero": 38,
-          "nome": "Squirtle",
-          "rarita": "ultra_rare",
-          "lingua": "IT"
-        },
-        {
-          "numero": 39,
-          "nome": "Turtwig",
-          "rarita": "ultra_rare",
-          "lingua": "IT"
-        },
-        {
-          "numero": 40,
-          "nome": "Chimchar",
-          "rarita": "ultra_rare",
-          "lingua": "IT"
-        },
-        {
-          "numero": 41,
-          "nome": "Piplup",
-          "rarita": "ultra_rare",
-          "lingua": "IT"
-        },
-        {
-          "numero": 42,
-          "nome": "Rowlet",
-          "rarita": "ultra_rare",
-          "lingua": "IT"
-        },
-        {
-          "numero": 43,
-          "nome": "Litten",
-          "rarita": "ultra_rare",
-          "lingua": "IT"
-        },
-        {
-          "numero": 44,
-          "nome": "Popplio",
-          "rarita": "ultra_rare",
-          "lingua": "IT"
-        },
-        {
-          "numero": 45,
-          "nome": "Makuhita",
-          "rarita": "ultra_rare",
-          "lingua": "IT"
-        },
-        {
-          "numero": 46,
-          "nome": "Chikorita",
-          "rarita": "ultra_rare",
-          "lingua": "IT"
-        },
-        {
-          "numero": 47,
-          "nome": "Tyrunt",
-          "rarita": "ultra_rare",
-          "lingua": "IT"
-        }
-      ]
-    },
-    {
       "nome_set": "Megaevoluzione - Ascesa Eroica",
       "data_pubblicazione": "2026-01-30",
       "nome_logo": "logo_megaevoluzione_ascesa_eroica.png",
@@ -104742,6 +104458,290 @@
           "numero": 295,
           "nome": "Mega Dragonite",
           "rarita": "mega_hyper_rare",
+          "lingua": "IT"
+        }
+      ]
+    },
+    {
+      "nome_set": "Promo Stella Nera MEP",
+      "data_pubblicazione": "2026-02-15",
+      "nome_logo": "logo_promo_stella_nera_mep.png",
+      "logo_disegnato": "art_promo_stella_nera_mep.png",
+      "carte": [
+        {
+          "numero": 1,
+          "nome": "Inteleon",
+          "rarita": "ultra_rare",
+          "lingua": "IT"
+        },
+        {
+          "numero": 2,
+          "nome": "Alakazam",
+          "rarita": "ultra_rare",
+          "lingua": "IT"
+        },
+        {
+          "numero": 3,
+          "nome": "Lunatone",
+          "rarita": "ultra_rare",
+          "lingua": "IT"
+        },
+        {
+          "numero": 4,
+          "nome": "Drifloon",
+          "rarita": "ultra_rare",
+          "lingua": "IT"
+        },
+        {
+          "numero": 5,
+          "nome": "Drifblim",
+          "rarita": "ultra_rare",
+          "lingua": "IT"
+        },
+        {
+          "numero": 6,
+          "nome": "Psyduck",
+          "rarita": "ultra_rare",
+          "lingua": "IT"
+        },
+        {
+          "numero": 7,
+          "nome": "Golduck",
+          "rarita": "ultra_rare",
+          "lingua": "IT"
+        },
+        {
+          "numero": 8,
+          "nome": "Alakazam",
+          "rarita": "ultra_rare",
+          "lingua": "IT"
+        },
+        {
+          "numero": 9,
+          "nome": "Riolu",
+          "rarita": "ultra_rare",
+          "lingua": "IT"
+        },
+        {
+          "numero": 10,
+          "nome": "Mega Latias",
+          "rarita": "ultra_rare",
+          "lingua": "IT"
+        },
+        {
+          "numero": 11,
+          "nome": "Mega Lucario",
+          "rarita": "ultra_rare",
+          "lingua": "IT"
+        },
+        {
+          "numero": 12,
+          "nome": "Mega Venusaur",
+          "rarita": "ultra_rare",
+          "lingua": "IT"
+        },
+        {
+          "numero": 13,
+          "nome": "Ceruledge",
+          "rarita": "ultra_rare",
+          "lingua": "IT"
+        },
+        {
+          "numero": 14,
+          "nome": "Zacian",
+          "rarita": "ultra_rare",
+          "lingua": "IT"
+        },
+        {
+          "numero": 15,
+          "nome": "Flygon",
+          "rarita": "ultra_rare",
+          "lingua": "IT"
+        },
+        {
+          "numero": 16,
+          "nome": "Toxtricity",
+          "rarita": "ultra_rare",
+          "lingua": "IT"
+        },
+        {
+          "numero": 17,
+          "nome": "Cottonee",
+          "rarita": "ultra_rare",
+          "lingua": "IT"
+        },
+        {
+          "numero": 18,
+          "nome": "Whimsicott",
+          "rarita": "ultra_rare",
+          "lingua": "IT"
+        },
+        {
+          "numero": 19,
+          "nome": "Sneasel",
+          "rarita": "ultra_rare",
+          "lingua": "IT"
+        },
+        {
+          "numero": 20,
+          "nome": "Weavile",
+          "rarita": "ultra_rare",
+          "lingua": "IT"
+        },
+        {
+          "numero": 21,
+          "nome": "Charcadet",
+          "rarita": "ultra_rare",
+          "lingua": "IT"
+        },
+        {
+          "numero": 22,
+          "nome": "Mega Charizard X",
+          "rarita": "ultra_rare",
+          "lingua": "IT"
+        },
+        {
+          "numero": 23,
+          "nome": "Oricorio",
+          "rarita": "ultra_rare",
+          "lingua": "IT"
+        },
+        {
+          "numero": 24,
+          "nome": "Mega Kangaskhan",
+          "rarita": "ultra_rare",
+          "lingua": "IT"
+        },
+        {
+          "numero": 25,
+          "nome": "Meloetta",
+          "rarita": "ultra_rare",
+          "lingua": "IT"
+        },
+        {
+          "numero": 26,
+          "nome": "Haunter",
+          "rarita": "ultra_rare",
+          "lingua": "IT"
+        },
+        {
+          "numero": 27,
+          "nome": "Fanfara Festosa",
+          "rarita": "ultra_rare",
+          "lingua": "IT"
+        },
+        {
+          "numero": 28,
+          "nome": "Mega Charizard X",
+          "rarita": "ultra_rare",
+          "lingua": "IT"
+        },
+        {
+          "numero": 30,
+          "nome": "Zekrom di N",
+          "rarita": "ultra_rare",
+          "lingua": "IT"
+        },
+        {
+          "numero": 31,
+          "nome": "Mega Gardevoir",
+          "rarita": "ultra_rare",
+          "lingua": "IT"
+        },
+        {
+          "numero": 32,
+          "nome": "Mega Lucario",
+          "rarita": "ultra_rare",
+          "lingua": "IT"
+        },
+        {
+          "numero": 33,
+          "nome": "Mega Meganium",
+          "rarita": "ultra_rare",
+          "lingua": "IT"
+        },
+        {
+          "numero": 34,
+          "nome": "Mega Emboar",
+          "rarita": "ultra_rare",
+          "lingua": "IT"
+        },
+        {
+          "numero": 35,
+          "nome": "Mega Feraligatr",
+          "rarita": "ultra_rare",
+          "lingua": "IT"
+        },
+        {
+          "numero": 36,
+          "nome": "Bulbasaur",
+          "rarita": "ultra_rare",
+          "lingua": "IT"
+        },
+        {
+          "numero": 37,
+          "nome": "Charmander",
+          "rarita": "ultra_rare",
+          "lingua": "IT"
+        },
+        {
+          "numero": 38,
+          "nome": "Squirtle",
+          "rarita": "ultra_rare",
+          "lingua": "IT"
+        },
+        {
+          "numero": 39,
+          "nome": "Turtwig",
+          "rarita": "ultra_rare",
+          "lingua": "IT"
+        },
+        {
+          "numero": 40,
+          "nome": "Chimchar",
+          "rarita": "ultra_rare",
+          "lingua": "IT"
+        },
+        {
+          "numero": 41,
+          "nome": "Piplup",
+          "rarita": "ultra_rare",
+          "lingua": "IT"
+        },
+        {
+          "numero": 42,
+          "nome": "Rowlet",
+          "rarita": "ultra_rare",
+          "lingua": "IT"
+        },
+        {
+          "numero": 43,
+          "nome": "Litten",
+          "rarita": "ultra_rare",
+          "lingua": "IT"
+        },
+        {
+          "numero": 44,
+          "nome": "Popplio",
+          "rarita": "ultra_rare",
+          "lingua": "IT"
+        },
+        {
+          "numero": 45,
+          "nome": "Makuhita",
+          "rarita": "ultra_rare",
+          "lingua": "IT"
+        },
+        {
+          "numero": 46,
+          "nome": "Chikorita",
+          "rarita": "ultra_rare",
+          "lingua": "IT"
+        },
+        {
+          "numero": 47,
+          "nome": "Tyrunt",
+          "rarita": "ultra_rare",
           "lingua": "IT"
         }
       ]
