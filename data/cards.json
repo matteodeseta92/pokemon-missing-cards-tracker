@@ -93511,12 +93511,6 @@
           "lingua": "IT"
         },
         {
-          "numero": 2,
-          "nome": "Exeggcute",
-          "rarita": "common",
-          "lingua": "IT"
-        },
-        {
           "numero": 3,
           "nome": "Exeggutor",
           "rarita": "uncommon",
@@ -93531,12 +93525,6 @@
         {
           "numero": 5,
           "nome": "Scatterbug",
-          "rarita": "common",
-          "lingua": "IT"
-        },
-        {
-          "numero": 6,
-          "nome": "Spewpa",
           "rarita": "common",
           "lingua": "IT"
         },
@@ -93562,12 +93550,6 @@
           "numero": 10,
           "nome": "Dhelmise",
           "rarita": "common",
-          "lingua": "IT"
-        },
-        {
-          "numero": 11,
-          "nome": "Zarude",
-          "rarita": "rare",
           "lingua": "IT"
         },
         {
@@ -93601,12 +93583,6 @@
           "lingua": "IT"
         },
         {
-          "numero": 20,
-          "nome": "Castform Forma Sole",
-          "rarita": "common",
-          "lingua": "IT"
-        },
-        {
           "numero": 21,
           "nome": "Victini",
           "rarita": "uncommon",
@@ -93631,12 +93607,6 @@
           "lingua": "IT"
         },
         {
-          "numero": 26,
-          "nome": "Oricorio",
-          "rarita": "common",
-          "lingua": "IT"
-        },
-        {
           "numero": 27,
           "nome": "Sizzlipede",
           "rarita": "common",
@@ -93645,12 +93615,6 @@
         {
           "numero": 28,
           "nome": "Centiskorch",
-          "rarita": "common",
-          "lingua": "IT"
-        },
-        {
-          "numero": 30,
-          "nome": "Crocalor",
           "rarita": "common",
           "lingua": "IT"
         },
@@ -93739,12 +93703,6 @@
           "lingua": "IT"
         },
         {
-          "numero": 49,
-          "nome": "Bruxish",
-          "rarita": "uncommon",
-          "lingua": "IT"
-        },
-        {
           "numero": 50,
           "nome": "Quaxly",
           "rarita": "common",
@@ -93820,12 +93778,6 @@
           "numero": 64,
           "nome": "Stunfisk",
           "rarita": "common",
-          "lingua": "IT"
-        },
-        {
-          "numero": 65,
-          "nome": "Tapu Koko",
-          "rarita": "rare",
           "lingua": "IT"
         },
         {
@@ -93907,12 +93859,6 @@
           "lingua": "IT"
         },
         {
-          "numero": 82,
-          "nome": "Yamask",
-          "rarita": "common",
-          "lingua": "IT"
-        },
-        {
           "numero": 83,
           "nome": "Cofagrigus",
           "rarita": "rare",
@@ -93952,12 +93898,6 @@
           "numero": 91,
           "nome": "Palossand",
           "rarita": "double_rare",
-          "lingua": "IT"
-        },
-        {
-          "numero": 92,
-          "nome": "Tapu Lele",
-          "rarita": "rare",
           "lingua": "IT"
         },
         {
@@ -94003,20 +93943,8 @@
           "lingua": "IT"
         },
         {
-          "numero": 101,
-          "nome": "Tauros di Paldea",
-          "rarita": "uncommon",
-          "lingua": "IT"
-        },
-        {
           "numero": 102,
           "nome": "Phanpy",
-          "rarita": "common",
-          "lingua": "IT"
-        },
-        {
-          "numero": 103,
-          "nome": "Donphan",
           "rarita": "common",
           "lingua": "IT"
         },
@@ -94189,12 +94117,6 @@
           "lingua": "IT"
         },
         {
-          "numero": 137,
-          "nome": "Turtonator",
-          "rarita": "uncommon",
-          "lingua": "IT"
-        },
-        {
           "numero": 139,
           "nome": "Flapple",
           "rarita": "uncommon",
@@ -94216,12 +94138,6 @@
           "numero": 142,
           "nome": "Tatsugiri",
           "rarita": "double_rare",
-          "lingua": "IT"
-        },
-        {
-          "numero": 143,
-          "nome": "Eevee",
-          "rarita": "common",
           "lingua": "IT"
         },
         {
@@ -94297,12 +94213,6 @@
           "lingua": "IT"
         },
         {
-          "numero": 157,
-          "nome": "Tandemaus",
-          "rarita": "common",
-          "lingua": "IT"
-        },
-        {
           "numero": 158,
           "nome": "Maushold",
           "rarita": "uncommon",
@@ -94363,12 +94273,6 @@
           "lingua": "IT"
         },
         {
-          "numero": 169,
-          "nome": "Contrappeso",
-          "rarita": "uncommon",
-          "lingua": "IT"
-        },
-        {
           "numero": 170,
           "nome": "Bluebert",
           "rarita": "uncommon",
@@ -94387,12 +94291,6 @@
           "lingua": "IT"
         },
         {
-          "numero": 174,
-          "nome": "Aris",
-          "rarita": "uncommon",
-          "lingua": "IT"
-        },
-        {
           "numero": 176,
           "nome": "Ricerca di Energia Pro",
           "rarita": "ace_spec_rare",
@@ -94401,12 +94299,6 @@
         {
           "numero": 177,
           "nome": "Monte Gravità",
-          "rarita": "uncommon",
-          "lingua": "IT"
-        },
-        {
-          "numero": 178,
-          "nome": "Sguardo di Jasmine",
           "rarita": "uncommon",
           "lingua": "IT"
         },
