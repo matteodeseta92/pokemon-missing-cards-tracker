@@ -95825,12 +95825,6 @@
       "logo_disegnato": "art_scarlatto_e_violetto_avventure_insieme.png",
       "carte": [
         {
-          "numero": 1,
-          "nome": "Caterpie",
-          "rarita": "common",
-          "lingua": "IT"
-        },
-        {
           "numero": 2,
           "nome": "Metapod",
           "rarita": "common",
@@ -95840,12 +95834,6 @@
           "numero": 3,
           "nome": "Butterfree",
           "rarita": "rare",
-          "lingua": "IT"
-        },
-        {
-          "numero": 4,
-          "nome": "Paras",
-          "rarita": "common",
           "lingua": "IT"
         },
         {
@@ -95864,18 +95852,6 @@
           "numero": 8,
           "nome": "Maractus",
           "rarita": "uncommon",
-          "lingua": "IT"
-        },
-        {
-          "numero": 9,
-          "nome": "Karrablast",
-          "rarita": "common",
-          "lingua": "IT"
-        },
-        {
-          "numero": 10,
-          "nome": "Foongus",
-          "rarita": "common",
           "lingua": "IT"
         },
         {
@@ -95903,12 +95879,6 @@
           "lingua": "IT"
         },
         {
-          "numero": 15,
-          "nome": "Virizion",
-          "rarita": "uncommon",
-          "lingua": "IT"
-        },
-        {
           "numero": 16,
           "nome": "Sprigatito",
           "rarita": "common",
@@ -95924,12 +95894,6 @@
           "numero": 18,
           "nome": "Meowscarada",
           "rarita": "rare",
-          "lingua": "IT"
-        },
-        {
-          "numero": 20,
-          "nome": "Magmar",
-          "rarita": "common",
           "lingua": "IT"
         },
         {
@@ -95957,12 +95921,6 @@
           "lingua": "IT"
         },
         {
-          "numero": 29,
-          "nome": "Volcarona",
-          "rarita": "uncommon",
-          "lingua": "IT"
-        },
-        {
           "numero": 30,
           "nome": "Reshiram",
           "rarita": "double_rare",
@@ -95972,18 +95930,6 @@
           "numero": 31,
           "nome": "Volcanion",
           "rarita": "double_rare",
-          "lingua": "IT"
-        },
-        {
-          "numero": 32,
-          "nome": "Articuno",
-          "rarita": "uncommon",
-          "lingua": "IT"
-        },
-        {
-          "numero": 33,
-          "nome": "Remoraid",
-          "rarita": "common",
           "lingua": "IT"
         },
         {
@@ -96011,12 +95957,6 @@
           "lingua": "IT"
         },
         {
-          "numero": 39,
-          "nome": "Pelipper",
-          "rarita": "uncommon",
-          "lingua": "IT"
-        },
-        {
           "numero": 40,
           "nome": "Wailmer",
           "rarita": "common",
@@ -96032,12 +95972,6 @@
           "numero": 42,
           "nome": "Regice",
           "rarita": "uncommon",
-          "lingua": "IT"
-        },
-        {
-          "numero": 43,
-          "nome": "Veluza",
-          "rarita": "double_rare",
           "lingua": "IT"
         },
         {
@@ -96245,12 +96179,6 @@
           "lingua": "IT"
         },
         {
-          "numero": 83,
-          "nome": "Pancham",
-          "rarita": "common",
-          "lingua": "IT"
-        },
-        {
           "numero": 85,
           "nome": "Lycanroc",
           "rarita": "rare",
@@ -96389,12 +96317,6 @@
           "lingua": "IT"
         },
         {
-          "numero": 112,
-          "nome": "Bagon",
-          "rarita": "common",
-          "lingua": "IT"
-        },
-        {
           "numero": 113,
           "nome": "Shelgon",
           "rarita": "common",
@@ -96479,12 +96401,6 @@
           "lingua": "IT"
         },
         {
-          "numero": 135,
-          "nome": "Wooloo di Hop",
-          "rarita": "common",
-          "lingua": "IT"
-        },
-        {
           "numero": 136,
           "nome": "Dubwool di Hop",
           "rarita": "rare",
@@ -96529,12 +96445,6 @@
         {
           "numero": 146,
           "nome": "Ricerca di Brock",
-          "rarita": "uncommon",
-          "lingua": "IT"
-        },
-        {
-          "numero": 148,
-          "nome": "Bendascelta di Hop",
           "rarita": "uncommon",
           "lingua": "IT"
         },
