@@ -54611,12 +54611,6 @@
           "lingua": "IT"
         },
         {
-          "numero": 79,
-          "nome": "Larvitar",
-          "rarita": "common",
-          "lingua": "IT"
-        },
-        {
           "numero": 80,
           "nome": "Pupitar",
           "rarita": "uncommon",
@@ -59592,12 +59586,6 @@
           "numero": 35,
           "nome": "Volcarona GX",
           "rarita": "ultra_rare_rare",
-          "lingua": "IT"
-        },
-        {
-          "numero": 36,
-          "nome": "Litleo",
-          "rarita": "common",
           "lingua": "IT"
         },
         {
@@ -70599,12 +70587,6 @@
           "lingua": "IT"
         },
         {
-          "numero": 59,
-          "nome": "Ralts",
-          "rarita": "common",
-          "lingua": "IT"
-        },
-        {
           "numero": 60,
           "nome": "Kirlia",
           "rarita": "uncommon",
@@ -71678,12 +71660,6 @@
           "numero": 4,
           "nome": "Jumpluff",
           "rarita": "rare_holo",
-          "lingua": "IT"
-        },
-        {
-          "numero": 5,
-          "nome": "Seedot",
-          "rarita": "common",
           "lingua": "IT"
         },
         {
@@ -73984,12 +73960,6 @@
           "numero": 158,
           "nome": "TyranitarV",
           "rarita": "ultra_rare_rare",
-          "lingua": "IT"
-        },
-        {
-          "numero": 159,
-          "nome": "Zigzagoon di Galar",
-          "rarita": "common",
           "lingua": "IT"
         },
         {
@@ -79409,12 +79379,6 @@
           "lingua": "IT"
         },
         {
-          "numero": 9,
-          "nome": "Petilil",
-          "rarita": "common",
-          "lingua": "IT"
-        },
-        {
           "numero": 10,
           "nome": "Lilligant di Hisui",
           "rarita": "rare",
@@ -79658,12 +79622,6 @@
           "numero": 50,
           "nome": "Raichu",
           "rarita": "uncommon",
-          "lingua": "IT"
-        },
-        {
-          "numero": 51,
-          "nome": "Chinchou",
-          "rarita": "common",
           "lingua": "IT"
         },
         {
@@ -81007,12 +80965,6 @@
           "lingua": "IT"
         },
         {
-          "numero": 30,
-          "nome": "Mr. Mime di Galar",
-          "rarita": "common",
-          "lingua": "IT"
-        },
-        {
           "numero": 31,
           "nome": "Wailmer",
           "rarita": "common",
@@ -81346,12 +81298,6 @@
           "numero": 86,
           "nome": "Scizor",
           "rarita": "rare",
-          "lingua": "IT"
-        },
-        {
-          "numero": 87,
-          "nome": "Aron",
-          "rarita": "common",
           "lingua": "IT"
         },
         {
@@ -104909,12 +104855,6 @@
       "logo_disegnato": "art_megaevoluzione_caos_nascente.png",
       "carte": [
         {
-          "numero": 1,
-          "nome": "Weedle",
-          "rarita": "common",
-          "lingua": "IT"
-        },
-        {
           "numero": 2,
           "nome": "Kakuna",
           "rarita": "common",
@@ -104945,12 +104885,6 @@
           "lingua": "IT"
         },
         {
-          "numero": 8,
-          "nome": "Vulpix",
-          "rarita": "common",
-          "lingua": "IT"
-        },
-        {
           "numero": 9,
           "nome": "Ninetales",
           "rarita": "uncommon",
@@ -104963,12 +104897,6 @@
           "lingua": "IT"
         },
         {
-          "numero": 11,
-          "nome": "Fennekin",
-          "rarita": "common",
-          "lingua": "IT"
-        },
-        {
           "numero": 12,
           "nome": "Braixen",
           "rarita": "common",
@@ -104978,12 +104906,6 @@
           "numero": 13,
           "nome": "Delphox",
           "rarita": "rare",
-          "lingua": "IT"
-        },
-        {
-          "numero": 14,
-          "nome": "Litleo",
-          "rarita": "common",
           "lingua": "IT"
         },
         {
@@ -105011,21 +104933,9 @@
           "lingua": "IT"
         },
         {
-          "numero": 20,
-          "nome": "Froakie",
-          "rarita": "common",
-          "lingua": "IT"
-        },
-        {
           "numero": 22,
           "nome": "Mega Greninja",
           "rarita": "double_rare",
-          "lingua": "IT"
-        },
-        {
-          "numero": 23,
-          "nome": "Bergmite",
-          "rarita": "common",
           "lingua": "IT"
         },
         {
@@ -105037,12 +104947,6 @@
         {
           "numero": 25,
           "nome": "Wimpod",
-          "rarita": "common",
-          "lingua": "IT"
-        },
-        {
-          "numero": 27,
-          "nome": "Mareep",
           "rarita": "common",
           "lingua": "IT"
         },
@@ -105125,12 +105029,6 @@
           "lingua": "IT"
         },
         {
-          "numero": 46,
-          "nome": "Baltoy",
-          "rarita": "common",
-          "lingua": "IT"
-        },
-        {
           "numero": 47,
           "nome": "Claydol",
           "rarita": "uncommon",
@@ -105161,12 +105059,6 @@
           "lingua": "IT"
         },
         {
-          "numero": 53,
-          "nome": "Stunky",
-          "rarita": "common",
-          "lingua": "IT"
-        },
-        {
           "numero": 54,
           "nome": "Skuntank",
           "rarita": "uncommon",
@@ -105188,12 +105080,6 @@
           "numero": 57,
           "nome": "Garbodor",
           "rarita": "uncommon",
-          "lingua": "IT"
-        },
-        {
-          "numero": 60,
-          "nome": "Metang",
-          "rarita": "common",
           "lingua": "IT"
         },
         {
@@ -105242,12 +105128,6 @@
           "numero": 69,
           "nome": "Tauros",
           "rarita": "uncommon",
-          "lingua": "IT"
-        },
-        {
-          "numero": 72,
-          "nome": "Minccino",
-          "rarita": "common",
           "lingua": "IT"
         },
         {
