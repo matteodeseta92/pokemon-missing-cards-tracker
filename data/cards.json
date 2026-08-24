@@ -1013,12 +1013,6 @@
           "nome": "Unown A",
           "rarita": "rare",
           "lingua": "IT"
-        },
-        {
-          "numero": 36,
-          "nome": "Yanma",
-          "rarita": "rare",
-          "lingua": "IT"
         }
       ]
     },
@@ -27477,12 +27471,6 @@
         {
           "numero": 89,
           "nome": "Level Ball",
-          "rarita": "uncommon",
-          "lingua": "IT"
-        },
-        {
-          "numero": 90,
-          "nome": "Centro Pokémon",
           "rarita": "uncommon",
           "lingua": "IT"
         },
@@ -56505,12 +56493,6 @@
           "lingua": "IT"
         },
         {
-          "numero": 180,
-          "nome": "Barriera Metallica",
-          "rarita": "uncommon",
-          "lingua": "IT"
-        },
-        {
           "numero": 181,
           "nome": "Tapso",
           "rarita": "uncommon",
@@ -66307,12 +66289,6 @@
           "lingua": "IT"
         },
         {
-          "numero": 7,
-          "nome": "Victini",
-          "rarita": "uncommon",
-          "lingua": "IT"
-        },
-        {
           "numero": 8,
           "nome": "IncineroarV",
           "rarita": "ultra_rare_rare",
@@ -73861,12 +73837,6 @@
           "lingua": "IT"
         },
         {
-          "numero": 141,
-          "nome": "Gliscor",
-          "rarita": "uncommon",
-          "lingua": "IT"
-        },
-        {
           "numero": 142,
           "nome": "Makuhita",
           "rarita": "common",
@@ -74724,12 +74694,6 @@
           "numero": 4,
           "nome": "Breloom",
           "rarita": "rare",
-          "lingua": "IT"
-        },
-        {
-          "numero": 5,
-          "nome": "Tropius",
-          "rarita": "uncommon",
           "lingua": "IT"
         },
         {
@@ -78201,12 +78165,6 @@
           "lingua": "IT"
         },
         {
-          "numero": 60,
-          "nome": "Eelektrik",
-          "rarita": "uncommon",
-          "lingua": "IT"
-        },
-        {
           "numero": 61,
           "nome": "Eelektross",
           "rarita": "rare",
@@ -78666,12 +78624,6 @@
           "numero": 138,
           "nome": "Lickitung",
           "rarita": "common",
-          "lingua": "IT"
-        },
-        {
-          "numero": 139,
-          "nome": "Lickilicky",
-          "rarita": "uncommon",
           "lingua": "IT"
         },
         {
@@ -79547,12 +79499,6 @@
           "lingua": "IT"
         },
         {
-          "numero": 38,
-          "nome": "Wailord",
-          "rarita": "uncommon",
-          "lingua": "IT"
-        },
-        {
           "numero": 39,
           "nome": "Feebas",
           "rarita": "common",
@@ -79772,12 +79718,6 @@
           "numero": 76,
           "nome": "Solosis",
           "rarita": "common",
-          "lingua": "IT"
-        },
-        {
-          "numero": 77,
-          "nome": "Duosion",
-          "rarita": "uncommon",
           "lingua": "IT"
         },
         {
@@ -81189,12 +81129,6 @@
         {
           "numero": 68,
           "nome": "Graveler",
-          "rarita": "uncommon",
-          "lingua": "IT"
-        },
-        {
-          "numero": 69,
-          "nome": "Solrock",
           "rarita": "uncommon",
           "lingua": "IT"
         },
@@ -88536,12 +88470,6 @@
           "numero": 55,
           "nome": "Gastly",
           "rarita": "common",
-          "lingua": "IT"
-        },
-        {
-          "numero": 57,
-          "nome": "Gengar",
-          "rarita": "uncommon",
           "lingua": "IT"
         },
         {
@@ -104891,12 +104819,6 @@
           "lingua": "IT"
         },
         {
-          "numero": 10,
-          "nome": "Ho-Oh",
-          "rarita": "rare",
-          "lingua": "IT"
-        },
-        {
           "numero": 12,
           "nome": "Braixen",
           "rarita": "common",
@@ -104918,12 +104840,6 @@
           "numero": 16,
           "nome": "Remoraid",
           "rarita": "common",
-          "lingua": "IT"
-        },
-        {
-          "numero": 18,
-          "nome": "Delibird",
-          "rarita": "uncommon",
           "lingua": "IT"
         },
         {
@@ -104954,12 +104870,6 @@
           "numero": 28,
           "nome": "Flaaffy",
           "rarita": "common",
-          "lingua": "IT"
-        },
-        {
-          "numero": 29,
-          "nome": "Ampharos",
-          "rarita": "rare",
           "lingua": "IT"
         },
         {
@@ -105065,12 +104975,6 @@
           "lingua": "IT"
         },
         {
-          "numero": 55,
-          "nome": "Krookodile",
-          "rarita": "double_rare",
-          "lingua": "IT"
-        },
-        {
           "numero": 56,
           "nome": "Trubbish",
           "rarita": "common",
@@ -105125,44 +105029,14 @@
           "lingua": "IT"
         },
         {
-          "numero": 69,
-          "nome": "Tauros",
-          "rarita": "uncommon",
-          "lingua": "IT"
-        },
-        {
           "numero": 73,
           "nome": "Cinccino",
           "rarita": "double_rare",
           "lingua": "IT"
         },
         {
-          "numero": 74,
-          "nome": "Avversipolizza",
-          "rarita": "uncommon",
-          "lingua": "IT"
-        },
-        {
-          "numero": 75,
-          "nome": "Floette Ange",
-          "rarita": "uncommon",
-          "lingua": "IT"
-        },
-        {
-          "numero": 76,
-          "nome": "Tranquillità di AZ",
-          "rarita": "uncommon",
-          "lingua": "IT"
-        },
-        {
           "numero": 77,
           "nome": "Matière",
-          "rarita": "uncommon",
-          "lingua": "IT"
-        },
-        {
-          "numero": 79,
-          "nome": "Gypso",
           "rarita": "uncommon",
           "lingua": "IT"
         },
@@ -105176,18 +105050,6 @@
           "numero": 83,
           "nome": "Tomo della Trasformazione",
           "rarita": "uncommon",
-          "lingua": "IT"
-        },
-        {
-          "numero": 84,
-          "nome": "Energia Acqua Frizzante",
-          "rarita": "rare",
-          "lingua": "IT"
-        },
-        {
-          "numero": 85,
-          "nome": "Energia Metallo Magnetica",
-          "rarita": "rare",
           "lingua": "IT"
         },
         {
@@ -105247,12 +105109,6 @@
         {
           "numero": 95,
           "nome": "Sliggoo",
-          "rarita": "illustration_rare",
-          "lingua": "IT"
-        },
-        {
-          "numero": 96,
-          "nome": "Tauros",
           "rarita": "illustration_rare",
           "lingua": "IT"
         },
@@ -105831,12 +105687,6 @@
         {
           "numero": 70,
           "nome": "Toxel",
-          "rarita": "ultra_rare",
-          "lingua": "IT"
-        },
-        {
-          "numero": 71,
-          "nome": "Charmeleon",
           "rarita": "ultra_rare",
           "lingua": "IT"
         },
