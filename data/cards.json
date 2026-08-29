@@ -737,12 +737,6 @@
           "lingua": "IT"
         },
         {
-          "numero": 7,
-          "nome": "Jumpluff",
-          "rarita": "rare_holo",
-          "lingua": "IT"
-        },
-        {
           "numero": 9,
           "nome": "Lugia",
           "rarita": "rare_holo",
@@ -30933,12 +30927,6 @@
         {
           "numero": 10,
           "nome": "Cacturne",
-          "rarita": "rare",
-          "lingua": "IT"
-        },
-        {
-          "numero": 11,
-          "nome": "Leafeon",
           "rarita": "rare",
           "lingua": "IT"
         },
@@ -104783,12 +104771,6 @@
       "logo_disegnato": "art_megaevoluzione_caos_nascente.png",
       "carte": [
         {
-          "numero": 2,
-          "nome": "Kakuna",
-          "rarita": "common",
-          "lingua": "IT"
-        },
-        {
           "numero": 3,
           "nome": "Beedrill",
           "rarita": "double_rare",
@@ -104867,12 +104849,6 @@
           "lingua": "IT"
         },
         {
-          "numero": 28,
-          "nome": "Flaaffy",
-          "rarita": "common",
-          "lingua": "IT"
-        },
-        {
           "numero": 30,
           "nome": "Emolga",
           "rarita": "common",
@@ -104894,12 +104870,6 @@
           "numero": 35,
           "nome": "Mega Floette",
           "rarita": "double_rare",
-          "lingua": "IT"
-        },
-        {
-          "numero": 36,
-          "nome": "Espurr",
-          "rarita": "common",
           "lingua": "IT"
         },
         {
@@ -105271,8 +105241,616 @@
       ]
     },
     {
+      "nome_set": "Megaevoluzione - Buio Pesto",
+      "data_pubblicazione": "2026-07-17",
+      "nome_logo": "logo_megaevoluzione_buio_pesto.png",
+      "logo_disegnato": "art_megaevoluzione_buio_pesto.png",
+      "carte": [
+        {
+          "numero": 1,
+          "nome": "Tropius",
+          "rarita": "common",
+          "lingua": "IT"
+        },
+        {
+          "numero": 2,
+          "nome": "Grubbin",
+          "rarita": "common",
+          "lingua": "IT"
+        },
+        {
+          "numero": 4,
+          "nome": "Lurantis",
+          "rarita": "double_rare",
+          "lingua": "IT"
+        },
+        {
+          "numero": 5,
+          "nome": "Poltchageist",
+          "rarita": "common",
+          "lingua": "IT"
+        },
+        {
+          "numero": 6,
+          "nome": "Sinistcha",
+          "rarita": "uncommon",
+          "lingua": "IT"
+        },
+        {
+          "numero": 8,
+          "nome": "Mega Delphox",
+          "rarita": "double_rare",
+          "lingua": "IT"
+        },
+        {
+          "numero": 9,
+          "nome": "Sizzlipede",
+          "rarita": "common",
+          "lingua": "IT"
+        },
+        {
+          "numero": 10,
+          "nome": "Centiskorch",
+          "rarita": "common",
+          "lingua": "IT"
+        },
+        {
+          "numero": 12,
+          "nome": "Armarouge",
+          "rarita": "rare",
+          "lingua": "IT"
+        },
+        {
+          "numero": 13,
+          "nome": "Goldeen",
+          "rarita": "common",
+          "lingua": "IT"
+        },
+        {
+          "numero": 16,
+          "nome": "Wailord",
+          "rarita": "double_rare",
+          "lingua": "IT"
+        },
+        {
+          "numero": 17,
+          "nome": "Relicanth",
+          "rarita": "uncommon",
+          "lingua": "IT"
+        },
+        {
+          "numero": 19,
+          "nome": "Brionne",
+          "rarita": "common",
+          "lingua": "IT"
+        },
+        {
+          "numero": 20,
+          "nome": "Primarina",
+          "rarita": "rare",
+          "lingua": "IT"
+        },
+        {
+          "numero": 21,
+          "nome": "Finizen",
+          "rarita": "common",
+          "lingua": "IT"
+        },
+        {
+          "numero": 23,
+          "nome": "Electrike",
+          "rarita": "common",
+          "lingua": "IT"
+        },
+        {
+          "numero": 24,
+          "nome": "Manectric",
+          "rarita": "uncommon",
+          "lingua": "IT"
+        },
+        {
+          "numero": 25,
+          "nome": "Charjabug",
+          "rarita": "common",
+          "lingua": "IT"
+        },
+        {
+          "numero": 26,
+          "nome": "Vikavolt",
+          "rarita": "uncommon",
+          "lingua": "IT"
+        },
+        {
+          "numero": 27,
+          "nome": "Mega Zeraora",
+          "rarita": "double_rare",
+          "lingua": "IT"
+        },
+        {
+          "numero": 28,
+          "nome": "Miraidon",
+          "rarita": "rare",
+          "lingua": "IT"
+        },
+        {
+          "numero": 29,
+          "nome": "Slowpoke",
+          "rarita": "common",
+          "lingua": "IT"
+        },
+        {
+          "numero": 30,
+          "nome": "Slowbro",
+          "rarita": "uncommon",
+          "lingua": "IT"
+        },
+        {
+          "numero": 31,
+          "nome": "Mega Slowbro",
+          "rarita": "double_rare",
+          "lingua": "IT"
+        },
+        {
+          "numero": 32,
+          "nome": "Jynx",
+          "rarita": "common",
+          "lingua": "IT"
+        },
+        {
+          "numero": 33,
+          "nome": "Shuppet",
+          "rarita": "common",
+          "lingua": "IT"
+        },
+        {
+          "numero": 34,
+          "nome": "Banette",
+          "rarita": "uncommon",
+          "lingua": "IT"
+        },
+        {
+          "numero": 35,
+          "nome": "Spiritomb",
+          "rarita": "rare",
+          "lingua": "IT"
+        },
+        {
+          "numero": 36,
+          "nome": "Litwick",
+          "rarita": "common",
+          "lingua": "IT"
+        },
+        {
+          "numero": 37,
+          "nome": "Lampent",
+          "rarita": "uncommon",
+          "lingua": "IT"
+        },
+        {
+          "numero": 38,
+          "nome": "Mega Chandelure",
+          "rarita": "double_rare",
+          "lingua": "IT"
+        },
+        {
+          "numero": 39,
+          "nome": "Dhelmise",
+          "rarita": "uncommon",
+          "lingua": "IT"
+        },
+        {
+          "numero": 40,
+          "nome": "Marshadow",
+          "rarita": "uncommon",
+          "lingua": "IT"
+        },
+        {
+          "numero": 41,
+          "nome": "Annihilape",
+          "rarita": "uncommon",
+          "lingua": "IT"
+        },
+        {
+          "numero": 43,
+          "nome": "Primeape",
+          "rarita": "common",
+          "lingua": "IT"
+        },
+        {
+          "numero": 44,
+          "nome": "Cranidos",
+          "rarita": "common",
+          "lingua": "IT"
+        },
+        {
+          "numero": 45,
+          "nome": "Rampardos",
+          "rarita": "double_rare",
+          "lingua": "IT"
+        },
+        {
+          "numero": 48,
+          "nome": "Mega Darkrai",
+          "rarita": "double_rare",
+          "lingua": "IT"
+        },
+        {
+          "numero": 49,
+          "nome": "Vullaby",
+          "rarita": "common",
+          "lingua": "IT"
+        },
+        {
+          "numero": 50,
+          "nome": "Mandibuzz",
+          "rarita": "common",
+          "lingua": "IT"
+        },
+        {
+          "numero": 52,
+          "nome": "Malamar",
+          "rarita": "uncommon",
+          "lingua": "IT"
+        },
+        {
+          "numero": 53,
+          "nome": "Nickit",
+          "rarita": "common",
+          "lingua": "IT"
+        },
+        {
+          "numero": 54,
+          "nome": "Thievul",
+          "rarita": "uncommon",
+          "lingua": "IT"
+        },
+        {
+          "numero": 57,
+          "nome": "Maschiff",
+          "rarita": "common",
+          "lingua": "IT"
+        },
+        {
+          "numero": 59,
+          "nome": "Chi-Yu",
+          "rarita": "rare",
+          "lingua": "IT"
+        },
+        {
+          "numero": 60,
+          "nome": "Skarmory",
+          "rarita": "common",
+          "lingua": "IT"
+        },
+        {
+          "numero": 62,
+          "nome": "Bastiodon",
+          "rarita": "rare",
+          "lingua": "IT"
+        },
+        {
+          "numero": 63,
+          "nome": "Bronzor",
+          "rarita": "common",
+          "lingua": "IT"
+        },
+        {
+          "numero": 65,
+          "nome": "Mega Excadrill",
+          "rarita": "double_rare",
+          "lingua": "IT"
+        },
+        {
+          "numero": 66,
+          "nome": "Pikipek",
+          "rarita": "common",
+          "lingua": "IT"
+        },
+        {
+          "numero": 67,
+          "nome": "Trumbeak",
+          "rarita": "common",
+          "lingua": "IT"
+        },
+        {
+          "numero": 68,
+          "nome": "Toucannon",
+          "rarita": "uncommon",
+          "lingua": "IT"
+        },
+        {
+          "numero": 69,
+          "nome": "Tipo Zero",
+          "rarita": "common",
+          "lingua": "IT"
+        },
+        {
+          "numero": 70,
+          "nome": "Silvally",
+          "rarita": "rare",
+          "lingua": "IT"
+        },
+        {
+          "numero": 71,
+          "nome": "Bombirdier",
+          "rarita": "common",
+          "lingua": "IT"
+        },
+        {
+          "numero": 72,
+          "nome": "Vecchio Fossilscudo",
+          "rarita": "common",
+          "lingua": "IT"
+        },
+        {
+          "numero": 73,
+          "nome": "Vecchio Fossilcranio",
+          "rarita": "common",
+          "lingua": "IT"
+        },
+        {
+          "numero": 76,
+          "nome": "Cava di Fossili",
+          "rarita": "uncommon",
+          "lingua": "IT"
+        },
+        {
+          "numero": 79,
+          "nome": "Aviona",
+          "rarita": "uncommon",
+          "lingua": "IT"
+        },
+        {
+          "numero": 80,
+          "nome": "Vitalità di Misty",
+          "rarita": "uncommon",
+          "lingua": "IT"
+        },
+        {
+          "numero": 81,
+          "nome": "Recluta del Clan Ruggine",
+          "rarita": "uncommon",
+          "lingua": "IT"
+        },
+        {
+          "numero": 82,
+          "nome": "Bomba Assurda",
+          "rarita": "uncommon",
+          "lingua": "IT"
+        },
+        {
+          "numero": 83,
+          "nome": "Energia Oscurità Ombrosa",
+          "rarita": "rare",
+          "lingua": "IT"
+        },
+        {
+          "numero": 84,
+          "nome": "Energia Lampo Voltaica",
+          "rarita": "rare",
+          "lingua": "IT"
+        },
+        {
+          "numero": 85,
+          "nome": "Fomantis",
+          "rarita": "illustration_rare",
+          "lingua": "IT"
+        },
+        {
+          "numero": 86,
+          "nome": "Armarouge",
+          "rarita": "illustration_rare",
+          "lingua": "IT"
+        },
+        {
+          "numero": 87,
+          "nome": "Goldeen",
+          "rarita": "illustration_rare",
+          "lingua": "IT"
+        },
+        {
+          "numero": 88,
+          "nome": "Primarina",
+          "rarita": "illustration_rare",
+          "lingua": "IT"
+        },
+        {
+          "numero": 89,
+          "nome": "Manectric",
+          "rarita": "illustration_rare",
+          "lingua": "IT"
+        },
+        {
+          "numero": 90,
+          "nome": "Slowbro",
+          "rarita": "illustration_rare",
+          "lingua": "IT"
+        },
+        {
+          "numero": 91,
+          "nome": "Dhelmise",
+          "rarita": "illustration_rare",
+          "lingua": "IT"
+        },
+        {
+          "numero": 92,
+          "nome": "Thievul",
+          "rarita": "illustration_rare",
+          "lingua": "IT"
+        },
+        {
+          "numero": 93,
+          "nome": "Bastiodon",
+          "rarita": "illustration_rare",
+          "lingua": "IT"
+        },
+        {
+          "numero": 94,
+          "nome": "Toucannon",
+          "rarita": "illustration_rare",
+          "lingua": "IT"
+        },
+        {
+          "numero": 95,
+          "nome": "Silvally",
+          "rarita": "illustration_rare",
+          "lingua": "IT"
+        },
+        {
+          "numero": 96,
+          "nome": "Lurantis",
+          "rarita": "ultra_rare",
+          "lingua": "IT"
+        },
+        {
+          "numero": 97,
+          "nome": "Wailord",
+          "rarita": "ultra_rare",
+          "lingua": "IT"
+        },
+        {
+          "numero": 98,
+          "nome": "Mega Zeraora",
+          "rarita": "ultra_rare",
+          "lingua": "IT"
+        },
+        {
+          "numero": 99,
+          "nome": "Mega Chandelure",
+          "rarita": "ultra_rare",
+          "lingua": "IT"
+        },
+        {
+          "numero": 100,
+          "nome": "Rampardos",
+          "rarita": "ultra_rare",
+          "lingua": "IT"
+        },
+        {
+          "numero": 101,
+          "nome": "Mega Darkrai",
+          "rarita": "ultra_rare",
+          "lingua": "IT"
+        },
+        {
+          "numero": 102,
+          "nome": "Morpeko",
+          "rarita": "ultra_rare",
+          "lingua": "IT"
+        },
+        {
+          "numero": 103,
+          "nome": "Mega Excadrill",
+          "rarita": "ultra_rare",
+          "lingua": "IT"
+        },
+        {
+          "numero": 104,
+          "nome": "Braccialcoraggio",
+          "rarita": "ultra_rare",
+          "lingua": "IT"
+        },
+        {
+          "numero": 105,
+          "nome": "Martello Dirompente",
+          "rarita": "ultra_rare",
+          "lingua": "IT"
+        },
+        {
+          "numero": 106,
+          "nome": "Campanella Oscura",
+          "rarita": "ultra_rare",
+          "lingua": "IT"
+        },
+        {
+          "numero": 107,
+          "nome": "Scambio di Energia",
+          "rarita": "ultra_rare",
+          "lingua": "IT"
+        },
+        {
+          "numero": 108,
+          "nome": "Lotta Finale di Iridio",
+          "rarita": "ultra_rare",
+          "lingua": "IT"
+        },
+        {
+          "numero": 109,
+          "nome": "Imma",
+          "rarita": "ultra_rare",
+          "lingua": "IT"
+        },
+        {
+          "numero": 110,
+          "nome": "Difensore Ferreo",
+          "rarita": "ultra_rare",
+          "lingua": "IT"
+        },
+        {
+          "numero": 111,
+          "nome": "Vitalità di Misty",
+          "rarita": "ultra_rare",
+          "lingua": "IT"
+        },
+        {
+          "numero": 112,
+          "nome": "Recluta del Clan Ruggine",
+          "rarita": "ultra_rare",
+          "lingua": "IT"
+        },
+        {
+          "numero": 113,
+          "nome": "Bomba Assurda",
+          "rarita": "ultra_rare",
+          "lingua": "IT"
+        },
+        {
+          "numero": 114,
+          "nome": "Mega Zeraora",
+          "rarita": "special_illustration_rare",
+          "lingua": "IT"
+        },
+        {
+          "numero": 115,
+          "nome": "Mega Chandelure",
+          "rarita": "special_illustration_rare",
+          "lingua": "IT"
+        },
+        {
+          "numero": 116,
+          "nome": "Mega Darkrai",
+          "rarita": "special_illustration_rare",
+          "lingua": "IT"
+        },
+        {
+          "numero": 117,
+          "nome": "Morpeko",
+          "rarita": "special_illustration_rare",
+          "lingua": "IT"
+        },
+        {
+          "numero": 118,
+          "nome": "Lotta Finale di Iridio",
+          "rarita": "special_illustration_rare",
+          "lingua": "IT"
+        },
+        {
+          "numero": 119,
+          "nome": "Imma",
+          "rarita": "special_illustration_rare",
+          "lingua": "IT"
+        },
+        {
+          "numero": 120,
+          "nome": "Mega Darkrai",
+          "rarita": "mega_hyper_rare",
+          "lingua": "IT"
+        }
+      ]
+    },
+    {
       "nome_set": "Promo Stella Nera MEP",
-      "data_pubblicazione": "2026-06-15",
+      "data_pubblicazione": "2026-08-15",
       "nome_logo": "logo_promo_stella_nera_mep.png",
       "logo_disegnato": "art_promo_stella_nera_mep.png",
       "carte": [
