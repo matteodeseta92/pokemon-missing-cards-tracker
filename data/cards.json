@@ -84113,12 +84113,6 @@
           "lingua": "IT"
         },
         {
-          "numero": 80,
-          "nome": "Miraidon",
-          "rarita": "rare",
-          "lingua": "IT"
-        },
-        {
           "numero": 86,
           "nome": "Gardevoir",
           "rarita": "rare_double",
@@ -93565,12 +93559,6 @@
           "lingua": "IT"
         },
         {
-          "numero": 50,
-          "nome": "Quaxly",
-          "rarita": "common",
-          "lingua": "IT"
-        },
-        {
           "numero": 51,
           "nome": "Quaxwell",
           "rarita": "common",
@@ -93997,12 +93985,6 @@
           "lingua": "IT"
         },
         {
-          "numero": 142,
-          "nome": "Tatsugiri",
-          "rarita": "double_rare",
-          "lingua": "IT"
-        },
-        {
           "numero": 144,
           "nome": "Snorlax",
           "rarita": "common",
@@ -94131,12 +94113,6 @@
         {
           "numero": 167,
           "nome": "Arguzia di Lem",
-          "rarita": "uncommon",
-          "lingua": "IT"
-        },
-        {
-          "numero": 170,
-          "nome": "Bluebert",
           "rarita": "uncommon",
           "lingua": "IT"
         },
