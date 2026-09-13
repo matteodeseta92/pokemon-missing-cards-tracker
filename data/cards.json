@@ -349,12 +349,6 @@
           "lingua": "EN"
         },
         {
-          "numero": 26,
-          "nome": "Erika's Victreebel",
-          "rarita": "rare",
-          "lingua": "EN"
-        },
-        {
           "numero": 27,
           "nome": "Lt. Surge's Electabuzz",
           "rarita": "rare",
@@ -1101,18 +1095,6 @@
           "lingua": "IT"
         },
         {
-          "numero": 20,
-          "nome": "Lugia",
-          "rarita": "rare",
-          "lingua": "IT"
-        },
-        {
-          "numero": 27,
-          "nome": "Suicune",
-          "rarita": "rare",
-          "lingua": "IT"
-        },
-        {
           "numero": 34,
           "nome": "Octillery",
           "rarita": "uncommon",
@@ -1232,12 +1214,6 @@
           "numero": 30,
           "nome": "Unown X",
           "rarita": "rare",
-          "lingua": "IT"
-        },
-        {
-          "numero": 36,
-          "nome": "Dark Haunter",
-          "rarita": "uncommon",
           "lingua": "IT"
         },
         {
@@ -4077,12 +4053,6 @@
         {
           "numero": 28,
           "nome": "Surfing Pikachu",
-          "rarita": "ultra_rare",
-          "lingua": "IT"
-        },
-        {
-          "numero": 29,
-          "nome": "Marill",
           "rarita": "ultra_rare",
           "lingua": "IT"
         },
@@ -95633,12 +95603,6 @@
           "lingua": "IT"
         },
         {
-          "numero": 6,
-          "nome": "Petilil",
-          "rarita": "common",
-          "lingua": "IT"
-        },
-        {
           "numero": 8,
           "nome": "Maractus",
           "rarita": "uncommon",
@@ -95753,12 +95717,6 @@
           "lingua": "IT"
         },
         {
-          "numero": 46,
-          "nome": "Golem di Alola",
-          "rarita": "uncommon",
-          "lingua": "IT"
-        },
-        {
           "numero": 48,
           "nome": "Electrode di Kissara",
           "rarita": "uncommon",
@@ -95845,12 +95803,6 @@
         {
           "numero": 65,
           "nome": "Oricorio",
-          "rarita": "common",
-          "lingua": "IT"
-        },
-        {
-          "numero": 66,
-          "nome": "Cutiefly di Lylia",
           "rarita": "common",
           "lingua": "IT"
         },
@@ -95969,12 +95921,6 @@
           "lingua": "IT"
         },
         {
-          "numero": 96,
-          "nome": "Purrloin di N",
-          "rarita": "common",
-          "lingua": "IT"
-        },
-        {
           "numero": 97,
           "nome": "Zorua di N",
           "rarita": "common",
@@ -95984,12 +95930,6 @@
           "numero": 98,
           "nome": "Zoroark di N",
           "rarita": "double_rare",
-          "lingua": "IT"
-        },
-        {
-          "numero": 100,
-          "nome": "Lokix",
-          "rarita": "uncommon",
           "lingua": "IT"
         },
         {
@@ -96083,12 +96023,6 @@
           "lingua": "IT"
         },
         {
-          "numero": 128,
-          "nome": "Noivern",
-          "rarita": "rare",
-          "lingua": "IT"
-        },
-        {
           "numero": 130,
           "nome": "Drampa",
           "rarita": "common",
@@ -96170,12 +96104,6 @@
           "numero": 154,
           "nome": "Furlongham",
           "rarita": "uncommon",
-          "lingua": "IT"
-        },
-        {
-          "numero": 155,
-          "nome": "Ricerca Accademica [Prof.ssa Olim]",
-          "rarita": "common",
           "lingua": "IT"
         },
         {
