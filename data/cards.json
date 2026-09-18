@@ -361,12 +361,6 @@
           "lingua": "EN"
         },
         {
-          "numero": 30,
-          "nome": "Misty's Goldeen",
-          "rarita": "rare",
-          "lingua": "EN"
-        },
-        {
           "numero": 32,
           "nome": "Misty's Tentacool",
           "rarita": "rare",
@@ -104079,12 +104073,6 @@
           "lingua": "IT"
         },
         {
-          "numero": 50,
-          "nome": "Gengar",
-          "rarita": "double_rare",
-          "lingua": "IT"
-        },
-        {
           "numero": 51,
           "nome": "Skorupi",
           "rarita": "common",
@@ -104645,12 +104633,6 @@
           "lingua": "IT"
         },
         {
-          "numero": 39,
-          "nome": "Trevenant",
-          "rarita": "rare",
-          "lingua": "IT"
-        },
-        {
           "numero": 40,
           "nome": "Pumpkaboo",
           "rarita": "common",
@@ -104786,12 +104768,6 @@
           "numero": 83,
           "nome": "Tomo della Trasformazione",
           "rarita": "uncommon",
-          "lingua": "IT"
-        },
-        {
-          "numero": 86,
-          "nome": "Energia Fuoco Propulsiva",
-          "rarita": "rare",
           "lingua": "IT"
         },
         {
@@ -105905,24 +105881,6 @@
         {
           "numero": 49,
           "nome": "Totodile",
-          "rarita": "ultra_rare",
-          "lingua": "IT"
-        },
-        {
-          "numero": 50,
-          "nome": "Snivy",
-          "rarita": "ultra_rare",
-          "lingua": "IT"
-        },
-        {
-          "numero": 51,
-          "nome": "Tepig",
-          "rarita": "ultra_rare",
-          "lingua": "IT"
-        },
-        {
-          "numero": 52,
-          "nome": "Oshawott",
           "rarita": "ultra_rare",
           "lingua": "IT"
         },
