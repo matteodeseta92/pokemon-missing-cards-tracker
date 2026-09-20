@@ -103779,12 +103779,6 @@
       "logo_disegnato": "art_megaevoluzione_equilibrio_perfetto.png",
       "carte": [
         {
-          "numero": 1,
-          "nome": "Spinarak",
-          "rarita": "rare",
-          "lingua": "IT"
-        },
-        {
           "numero": 2,
           "nome": "Ariados",
           "rarita": "common",
@@ -103947,12 +103941,6 @@
           "lingua": "IT"
         },
         {
-          "numero": 30,
-          "nome": "Clefairy",
-          "rarita": "common",
-          "lingua": "IT"
-        },
-        {
           "numero": 31,
           "nome": "Mega Clefable",
           "rarita": "uncommon",
@@ -103986,12 +103974,6 @@
           "numero": 36,
           "nome": "Aromatisse",
           "rarita": "rare",
-          "lingua": "IT"
-        },
-        {
-          "numero": 37,
-          "nome": "Nosepass",
-          "rarita": "common",
           "lingua": "IT"
         },
         {
@@ -104052,12 +104034,6 @@
           "numero": 48,
           "nome": "Gastly",
           "rarita": "double_rare",
-          "lingua": "IT"
-        },
-        {
-          "numero": 49,
-          "nome": "Haunter",
-          "rarita": "rare",
           "lingua": "IT"
         },
         {
@@ -104135,12 +104111,6 @@
         {
           "numero": 63,
           "nome": "Snorlax",
-          "rarita": "common",
-          "lingua": "IT"
-        },
-        {
-          "numero": 64,
-          "nome": "Bunnelby",
           "rarita": "common",
           "lingua": "IT"
         },
@@ -104247,21 +104217,9 @@
           "lingua": "IT"
         },
         {
-          "numero": 82,
-          "nome": "Acchiappa-Pokémon",
-          "rarita": "rare",
-          "lingua": "IT"
-        },
-        {
           "numero": 83,
           "nome": "Pozione",
           "rarita": "rare",
-          "lingua": "IT"
-        },
-        {
-          "numero": 84,
-          "nome": "Incoraggiamento di Rina",
-          "rarita": "illustration_rare",
           "lingua": "IT"
         },
         {
@@ -104581,12 +104539,6 @@
         {
           "numero": 25,
           "nome": "Wimpod",
-          "rarita": "common",
-          "lingua": "IT"
-        },
-        {
-          "numero": 30,
-          "nome": "Emolga",
           "rarita": "common",
           "lingua": "IT"
         },
