@@ -14867,12 +14867,6 @@
           "lingua": "IT"
         },
         {
-          "numero": 20,
-          "nome": "Venusaur",
-          "rarita": "rare_holo",
-          "lingua": "IT"
-        },
-        {
           "numero": 21,
           "nome": "Absol",
           "rarita": "rare",
@@ -103785,12 +103779,6 @@
           "lingua": "IT"
         },
         {
-          "numero": 3,
-          "nome": "Shaymin",
-          "rarita": "common",
-          "lingua": "IT"
-        },
-        {
           "numero": 4,
           "nome": "Snivy",
           "rarita": "uncommon",
@@ -103827,12 +103815,6 @@
           "lingua": "IT"
         },
         {
-          "numero": 11,
-          "nome": "Dartrix",
-          "rarita": "double_rare",
-          "lingua": "IT"
-        },
-        {
           "numero": 12,
           "nome": "Decidueye",
           "rarita": "uncommon",
@@ -103859,12 +103841,6 @@
         {
           "numero": 16,
           "nome": "Salazzle",
-          "rarita": "double_rare",
-          "lingua": "IT"
-        },
-        {
-          "numero": 17,
-          "nome": "Turtonator",
           "rarita": "double_rare",
           "lingua": "IT"
         },
@@ -103896,18 +103872,6 @@
           "numero": 22,
           "nome": "Lapras",
           "rarita": "uncommon",
-          "lingua": "IT"
-        },
-        {
-          "numero": 23,
-          "nome": "Amaura",
-          "rarita": "rare",
-          "lingua": "IT"
-        },
-        {
-          "numero": 24,
-          "nome": "Aurorus",
-          "rarita": "common",
           "lingua": "IT"
         },
         {
@@ -104151,12 +104115,6 @@
           "lingua": "IT"
         },
         {
-          "numero": 71,
-          "nome": "Martello Dirompente",
-          "rarita": "uncommon",
-          "lingua": "IT"
-        },
-        {
           "numero": 72,
           "nome": "Ricerca di Energia",
           "rarita": "uncommon",
@@ -104172,12 +104130,6 @@
           "numero": 74,
           "nome": "Pala Scavabuche",
           "rarita": "uncommon",
-          "lingua": "IT"
-        },
-        {
-          "numero": 75,
-          "nome": "Viola",
-          "rarita": "common",
           "lingua": "IT"
         },
         {
@@ -104537,18 +104489,6 @@
           "lingua": "IT"
         },
         {
-          "numero": 25,
-          "nome": "Wimpod",
-          "rarita": "common",
-          "lingua": "IT"
-        },
-        {
-          "numero": 31,
-          "nome": "Deoxys",
-          "rarita": "uncommon",
-          "lingua": "IT"
-        },
-        {
           "numero": 34,
           "nome": "Deoxys",
           "rarita": "uncommon",
@@ -104564,18 +104504,6 @@
           "numero": 37,
           "nome": "Meowstic",
           "rarita": "uncommon",
-          "lingua": "IT"
-        },
-        {
-          "numero": 40,
-          "nome": "Pumpkaboo",
-          "rarita": "common",
-          "lingua": "IT"
-        },
-        {
-          "numero": 42,
-          "nome": "Xerneas",
-          "rarita": "rare",
           "lingua": "IT"
         },
         {
@@ -104617,18 +104545,6 @@
         {
           "numero": 52,
           "nome": "Qwilfish",
-          "rarita": "common",
-          "lingua": "IT"
-        },
-        {
-          "numero": 54,
-          "nome": "Skuntank",
-          "rarita": "uncommon",
-          "lingua": "IT"
-        },
-        {
-          "numero": 56,
-          "nome": "Trubbish",
           "rarita": "common",
           "lingua": "IT"
         },
@@ -105809,24 +105725,6 @@
         {
           "numero": 49,
           "nome": "Totodile",
-          "rarita": "ultra_rare",
-          "lingua": "IT"
-        },
-        {
-          "numero": 53,
-          "nome": "Grookey",
-          "rarita": "ultra_rare",
-          "lingua": "IT"
-        },
-        {
-          "numero": 54,
-          "nome": "Scorbunny",
-          "rarita": "ultra_rare",
-          "lingua": "IT"
-        },
-        {
-          "numero": 55,
-          "nome": "Sobble",
           "rarita": "ultra_rare",
           "lingua": "IT"
         },
