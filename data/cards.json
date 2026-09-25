@@ -93295,12 +93295,6 @@
           "lingua": "IT"
         },
         {
-          "numero": 7,
-          "nome": "Vivillon",
-          "rarita": "uncommon",
-          "lingua": "IT"
-        },
-        {
           "numero": 8,
           "nome": "Morelull",
           "rarita": "common",
@@ -93643,12 +93637,6 @@
           "lingua": "IT"
         },
         {
-          "numero": 88,
-          "nome": "Xerneas",
-          "rarita": "uncommon",
-          "lingua": "IT"
-        },
-        {
           "numero": 89,
           "nome": "Oricorio",
           "rarita": "common",
@@ -93739,20 +93727,8 @@
           "lingua": "IT"
         },
         {
-          "numero": 111,
-          "nome": "Passimian",
-          "rarita": "uncommon",
-          "lingua": "IT"
-        },
-        {
           "numero": 112,
           "nome": "Clobbopus",
-          "rarita": "common",
-          "lingua": "IT"
-        },
-        {
-          "numero": 113,
-          "nome": "Grapploct",
           "rarita": "common",
           "lingua": "IT"
         },
@@ -93772,12 +93748,6 @@
           "numero": 116,
           "nome": "Koraidon",
           "rarita": "uncommon",
-          "lingua": "IT"
-        },
-        {
-          "numero": 117,
-          "nome": "Deino",
-          "rarita": "common",
           "lingua": "IT"
         },
         {
@@ -94023,12 +93993,6 @@
         {
           "numero": 167,
           "nome": "Arguzia di Lem",
-          "rarita": "uncommon",
-          "lingua": "IT"
-        },
-        {
-          "numero": 172,
-          "nome": "Elisir del Drago",
           "rarita": "uncommon",
           "lingua": "IT"
         },
