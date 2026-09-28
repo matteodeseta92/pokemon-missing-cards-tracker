@@ -90625,12 +90625,6 @@
           "lingua": "IT"
         },
         {
-          "numero": 44,
-          "nome": "Goldeen",
-          "rarita": "common",
-          "lingua": "IT"
-        },
-        {
           "numero": 45,
           "nome": "Seaking",
           "rarita": "common",
@@ -90651,12 +90645,6 @@
         {
           "numero": 48,
           "nome": "Crawdaunt",
-          "rarita": "common",
-          "lingua": "IT"
-        },
-        {
-          "numero": 49,
-          "nome": "Feebas",
           "rarita": "common",
           "lingua": "IT"
         },
@@ -90751,12 +90739,6 @@
           "lingua": "IT"
         },
         {
-          "numero": 65,
-          "nome": "Zapdos",
-          "rarita": "rare",
-          "lingua": "IT"
-        },
-        {
           "numero": 66,
           "nome": "Shinx",
           "rarita": "common",
@@ -90802,12 +90784,6 @@
           "numero": 73,
           "nome": "Tadbulb",
           "rarita": "common",
-          "lingua": "IT"
-        },
-        {
-          "numero": 74,
-          "nome": "Bellibolt",
-          "rarita": "uncommon",
           "lingua": "IT"
         },
         {
@@ -90901,12 +90877,6 @@
           "lingua": "IT"
         },
         {
-          "numero": 91,
-          "nome": "Sandygast",
-          "rarita": "common",
-          "lingua": "IT"
-        },
-        {
           "numero": 92,
           "nome": "Palossand",
           "rarita": "common",
@@ -90958,12 +90928,6 @@
           "numero": 100,
           "nome": "Arcanine di Hisui",
           "rarita": "rare",
-          "lingua": "IT"
-        },
-        {
-          "numero": 101,
-          "nome": "Nosepass",
-          "rarita": "common",
           "lingua": "IT"
         },
         {
@@ -91123,12 +91087,6 @@
           "lingua": "IT"
         },
         {
-          "numero": 128,
-          "nome": "Dreepy",
-          "rarita": "common",
-          "lingua": "IT"
-        },
-        {
           "numero": 129,
           "nome": "Drakloak",
           "rarita": "common",
@@ -91171,12 +91129,6 @@
           "lingua": "IT"
         },
         {
-          "numero": 136,
-          "nome": "Snorlax",
-          "rarita": "uncommon",
-          "lingua": "IT"
-        },
-        {
           "numero": 137,
           "nome": "Aipom",
           "rarita": "common",
@@ -91192,12 +91144,6 @@
           "numero": 139,
           "nome": "Ducklett",
           "rarita": "common",
-          "lingua": "IT"
-        },
-        {
-          "numero": 140,
-          "nome": "Swanna",
-          "rarita": "uncommon",
           "lingua": "IT"
         },
         {
@@ -91222,12 +91168,6 @@
           "numero": 144,
           "nome": "Responsabile",
           "rarita": "common",
-          "lingua": "IT"
-        },
-        {
-          "numero": 145,
-          "nome": "Rubra",
-          "rarita": "uncommon",
           "lingua": "IT"
         },
         {
@@ -93667,12 +93607,6 @@
           "lingua": "IT"
         },
         {
-          "numero": 97,
-          "nome": "Gimmighoul",
-          "rarita": "common",
-          "lingua": "IT"
-        },
-        {
           "numero": 98,
           "nome": "Mankey",
           "rarita": "common",
@@ -93733,33 +93667,15 @@
           "lingua": "IT"
         },
         {
-          "numero": 114,
-          "nome": "Glimmet",
-          "rarita": "common",
-          "lingua": "IT"
-        },
-        {
           "numero": 115,
           "nome": "Glimmora",
           "rarita": "common",
           "lingua": "IT"
         },
         {
-          "numero": 116,
-          "nome": "Koraidon",
-          "rarita": "uncommon",
-          "lingua": "IT"
-        },
-        {
           "numero": 119,
           "nome": "Hydreigon",
           "rarita": "double_rare",
-          "lingua": "IT"
-        },
-        {
-          "numero": 120,
-          "nome": "Shroodle",
-          "rarita": "common",
           "lingua": "IT"
         },
         {
@@ -93795,12 +93711,6 @@
         {
           "numero": 126,
           "nome": "Bronzor",
-          "rarita": "common",
-          "lingua": "IT"
-        },
-        {
-          "numero": 128,
-          "nome": "Klefki",
           "rarita": "common",
           "lingua": "IT"
         },
@@ -93841,20 +93751,8 @@
           "lingua": "IT"
         },
         {
-          "numero": 136,
-          "nome": "Palkia",
-          "rarita": "rare",
-          "lingua": "IT"
-        },
-        {
           "numero": 139,
           "nome": "Flapple",
-          "rarita": "uncommon",
-          "lingua": "IT"
-        },
-        {
-          "numero": 140,
-          "nome": "Appletun",
           "rarita": "uncommon",
           "lingua": "IT"
         },
@@ -93909,12 +93807,6 @@
         {
           "numero": 151,
           "nome": "Bouffalant",
-          "rarita": "common",
-          "lingua": "IT"
-        },
-        {
-          "numero": 152,
-          "nome": "Rufflet",
           "rarita": "common",
           "lingua": "IT"
         },
@@ -104449,12 +104341,6 @@
         {
           "numero": 24,
           "nome": "Avalugg",
-          "rarita": "uncommon",
-          "lingua": "IT"
-        },
-        {
-          "numero": 34,
-          "nome": "Deoxys",
           "rarita": "uncommon",
           "lingua": "IT"
         },
