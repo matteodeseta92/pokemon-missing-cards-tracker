@@ -104291,18 +104291,6 @@
           "lingua": "IT"
         },
         {
-          "numero": 5,
-          "nome": "Chespin",
-          "rarita": "common",
-          "lingua": "IT"
-        },
-        {
-          "numero": 7,
-          "nome": "Chesnaught",
-          "rarita": "rare",
-          "lingua": "IT"
-        },
-        {
           "numero": 12,
           "nome": "Braixen",
           "rarita": "common",
@@ -104348,12 +104336,6 @@
           "numero": 35,
           "nome": "Mega Floette",
           "rarita": "double_rare",
-          "lingua": "IT"
-        },
-        {
-          "numero": 37,
-          "nome": "Meowstic",
-          "rarita": "uncommon",
           "lingua": "IT"
         },
         {
@@ -104431,12 +104413,6 @@
         {
           "numero": 66,
           "nome": "Goomy",
-          "rarita": "common",
-          "lingua": "IT"
-        },
-        {
-          "numero": 67,
-          "nome": "Sliggoo",
           "rarita": "common",
           "lingua": "IT"
         },
