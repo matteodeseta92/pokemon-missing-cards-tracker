@@ -55569,12 +55569,6 @@
           "lingua": "IT"
         },
         {
-          "numero": 35,
-          "nome": "Blastoise GX",
-          "rarita": "ultra_rare_rare",
-          "lingua": "IT"
-        },
-        {
           "numero": 36,
           "nome": "Poliwag",
           "rarita": "common",
@@ -57401,12 +57395,6 @@
           "lingua": "IT"
         },
         {
-          "numero": 106,
-          "nome": "Aerodactyl GX",
-          "rarita": "ultra_rare_rare",
-          "lingua": "IT"
-        },
-        {
           "numero": 107,
           "nome": "Heracross",
           "rarita": "uncommon",
@@ -58498,12 +58486,6 @@
           "numero": 30,
           "nome": "Jynx",
           "rarita": "uncommon",
-          "lingua": "IT"
-        },
-        {
-          "numero": 31,
-          "nome": "Mewtwo GX",
-          "rarita": "ultra_rare_rare",
           "lingua": "IT"
         },
         {
@@ -77293,12 +77275,6 @@
           "lingua": "IT"
         },
         {
-          "numero": 10,
-          "nome": "Charizard",
-          "rarita": "rare_holo",
-          "lingua": "IT"
-        },
-        {
           "numero": 11,
           "nome": "Charizard Lucente",
           "rarita": "rare_radiant",
@@ -82415,12 +82391,6 @@
         {
           "numero": 62,
           "nome": "PikachuVMAX",
-          "rarita": "ultra_rare",
-          "lingua": "IT"
-        },
-        {
-          "numero": 63,
-          "nome": "PikachuV",
           "rarita": "ultra_rare",
           "lingua": "IT"
         },
@@ -91369,12 +91339,6 @@
           "lingua": "IT"
         },
         {
-          "numero": 179,
-          "nome": "Chimecho",
-          "rarita": "illustration_rare",
-          "lingua": "IT"
-        },
-        {
           "numero": 180,
           "nome": "Enamorus",
           "rarita": "illustration_rare",
@@ -96475,12 +96439,6 @@
           "lingua": "IT"
         },
         {
-          "numero": 81,
-          "nome": "Mewtwo del Team Rocket",
-          "rarita": "double_rare",
-          "lingua": "IT"
-        },
-        {
           "numero": 82,
           "nome": "Wobbuffet del Team Rocket",
           "rarita": "rare",
@@ -99445,12 +99403,6 @@
           "lingua": "IT"
         },
         {
-          "numero": 56,
-          "nome": "Charizard",
-          "rarita": "ultra_rare",
-          "lingua": "IT"
-        },
-        {
           "numero": 57,
           "nome": "Chi-Yu",
           "rarita": "ultra_rare",
@@ -101504,12 +101456,6 @@
           "numero": 11,
           "nome": "Charmander",
           "rarita": "common",
-          "lingua": "IT"
-        },
-        {
-          "numero": 13,
-          "nome": "Mega Charizard X",
-          "rarita": "double_rare",
           "lingua": "IT"
         },
         {
@@ -104369,12 +104315,6 @@
           "lingua": "IT"
         },
         {
-          "numero": 51,
-          "nome": "Crobat",
-          "rarita": "rare",
-          "lingua": "IT"
-        },
-        {
           "numero": 52,
           "nome": "Qwilfish",
           "rarita": "common",
@@ -104383,12 +104323,6 @@
         {
           "numero": 57,
           "nome": "Garbodor",
-          "rarita": "uncommon",
-          "lingua": "IT"
-        },
-        {
-          "numero": 61,
-          "nome": "Metagross",
           "rarita": "uncommon",
           "lingua": "IT"
         },
@@ -104473,12 +104407,6 @@
         {
           "numero": 92,
           "nome": "Claydol",
-          "rarita": "illustration_rare",
-          "lingua": "IT"
-        },
-        {
-          "numero": 93,
-          "nome": "Crobat",
           "rarita": "illustration_rare",
           "lingua": "IT"
         },
@@ -104749,12 +104677,6 @@
           "lingua": "IT"
         },
         {
-          "numero": 23,
-          "nome": "Electrike",
-          "rarita": "common",
-          "lingua": "IT"
-        },
-        {
           "numero": 24,
           "nome": "Manectric",
           "rarita": "uncommon",
@@ -104845,12 +104767,6 @@
           "lingua": "IT"
         },
         {
-          "numero": 39,
-          "nome": "Dhelmise",
-          "rarita": "uncommon",
-          "lingua": "IT"
-        },
-        {
           "numero": 40,
           "nome": "Marshadow",
           "rarita": "uncommon",
@@ -104929,12 +104845,6 @@
           "lingua": "IT"
         },
         {
-          "numero": 60,
-          "nome": "Skarmory",
-          "rarita": "common",
-          "lingua": "IT"
-        },
-        {
           "numero": 62,
           "nome": "Bastiodon",
           "rarita": "rare",
@@ -104959,18 +104869,6 @@
           "lingua": "IT"
         },
         {
-          "numero": 67,
-          "nome": "Trumbeak",
-          "rarita": "common",
-          "lingua": "IT"
-        },
-        {
-          "numero": 68,
-          "nome": "Toucannon",
-          "rarita": "uncommon",
-          "lingua": "IT"
-        },
-        {
           "numero": 69,
           "nome": "Tipo Zero",
           "rarita": "common",
@@ -104983,20 +104881,8 @@
           "lingua": "IT"
         },
         {
-          "numero": 71,
-          "nome": "Bombirdier",
-          "rarita": "common",
-          "lingua": "IT"
-        },
-        {
           "numero": 72,
           "nome": "Vecchio Fossilscudo",
-          "rarita": "common",
-          "lingua": "IT"
-        },
-        {
-          "numero": 73,
-          "nome": "Vecchio Fossilcranio",
           "rarita": "common",
           "lingua": "IT"
         },
@@ -105028,12 +104914,6 @@
           "numero": 82,
           "nome": "Bomba Assurda",
           "rarita": "uncommon",
-          "lingua": "IT"
-        },
-        {
-          "numero": 83,
-          "nome": "Energia Oscurità Ombrosa",
-          "rarita": "rare",
           "lingua": "IT"
         },
         {
