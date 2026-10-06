@@ -105076,12 +105076,6 @@
         },
         {
           "numero": 43,
-          "nome": "Pikachu",
-          "rarita": "special_rare",
-          "lingua": "IT"
-        },
-        {
-          "numero": 43,
           "nome": "Uxie [Il Risveglio dei Miti]",
           "rarita": "rare_classic",
           "lingua": "IT"
@@ -105504,12 +105498,6 @@
           "numero": 128,
           "nome": "Ultra Ball",
           "rarita": "common",
-          "lingua": "IT"
-        },
-        {
-          "numero": 129,
-          "nome": "Exeggutor di Alola",
-          "rarita": "illustration_rare",
           "lingua": "IT"
         },
         {
