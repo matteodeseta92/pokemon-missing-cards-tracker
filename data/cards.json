@@ -104997,12 +104997,6 @@
           "lingua": "IT"
         },
         {
-          "numero": 26,
-          "nome": "Pikachu",
-          "rarita": "special_rare",
-          "lingua": "IT"
-        },
-        {
           "numero": 28,
           "nome": "Pikachu",
           "rarita": "special_rare",
@@ -105058,12 +105052,6 @@
         },
         {
           "numero": 38,
-          "nome": "Pikachu",
-          "rarita": "special_rare",
-          "lingua": "IT"
-        },
-        {
-          "numero": 40,
           "nome": "Pikachu",
           "rarita": "special_rare",
           "lingua": "IT"
@@ -105352,12 +105340,6 @@
         },
         {
           "numero": 100,
-          "nome": "Yveltal",
-          "rarita": "rare",
-          "lingua": "IT"
-        },
-        {
-          "numero": 100,
           "nome": "Darkrai & Cresselia LEGGENDA[Battaglie Trionfali]",
           "rarita": "rare_classic",
           "lingua": "IT"
@@ -105420,18 +105402,6 @@
           "numero": 109,
           "nome": "Salamence",
           "rarita": "double_rare",
-          "lingua": "IT"
-        },
-        {
-          "numero": 110,
-          "nome": "Jangmo-o",
-          "rarita": "common",
-          "lingua": "IT"
-        },
-        {
-          "numero": 111,
-          "nome": "Hakamo-o",
-          "rarita": "common",
           "lingua": "IT"
         },
         {
@@ -105575,12 +105545,6 @@
         {
           "numero": 143,
           "nome": "Kommo-o",
-          "rarita": "illustration_rare",
-          "lingua": "IT"
-        },
-        {
-          "numero": 144,
-          "nome": "Meowth",
           "rarita": "illustration_rare",
           "lingua": "IT"
         },
