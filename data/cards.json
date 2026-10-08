@@ -104895,26 +104895,8 @@
       "logo_disegnato": "art_megaevoluzione_30_anniversario.png",
       "carte": [
         {
-          "numero": 1,
-          "nome": "Exeggcute",
-          "rarita": "common",
-          "lingua": "IT"
-        },
-        {
-          "numero": 3,
-          "nome": "Volbeat",
-          "rarita": "common",
-          "lingua": "IT"
-        },
-        {
           "numero": 4,
           "nome": "Illumise",
-          "rarita": "common",
-          "lingua": "IT"
-        },
-        {
-          "numero": 5,
-          "nome": "Tropius",
           "rarita": "common",
           "lingua": "IT"
         },
@@ -104943,12 +104925,6 @@
           "lingua": "IT"
         },
         {
-          "numero": 19,
-          "nome": "Kyogre",
-          "rarita": "rare",
-          "lingua": "IT"
-        },
-        {
           "numero": 24,
           "nome": "Pikachu",
           "rarita": "special_rare",
@@ -104962,12 +104938,6 @@
         },
         {
           "numero": 29,
-          "nome": "Pikachu",
-          "rarita": "special_rare",
-          "lingua": "IT"
-        },
-        {
-          "numero": 30,
           "nome": "Pikachu",
           "rarita": "special_rare",
           "lingua": "IT"
@@ -105081,12 +105051,6 @@
           "lingua": "IT"
         },
         {
-          "numero": 62,
-          "nome": "Miraidon",
-          "rarita": "rare",
-          "lingua": "IT"
-        },
-        {
           "numero": 66,
           "nome": "Mew",
           "rarita": "double_rare",
@@ -105123,12 +105087,6 @@
           "lingua": "IT"
         },
         {
-          "numero": 75,
-          "nome": "Chandelure",
-          "rarita": "common",
-          "lingua": "IT"
-        },
-        {
           "numero": 76,
           "nome": "Xerneas",
           "rarita": "rare",
@@ -105147,12 +105105,6 @@
           "lingua": "IT"
         },
         {
-          "numero": 81,
-          "nome": "Gimmighoul",
-          "rarita": "common",
-          "lingua": "IT"
-        },
-        {
           "numero": 82,
           "nome": "Groudon",
           "rarita": "rare",
@@ -105168,12 +105120,6 @@
           "numero": 86,
           "nome": "Koraidon",
           "rarita": "rare",
-          "lingua": "IT"
-        },
-        {
-          "numero": 88,
-          "nome": "Nidorina",
-          "rarita": "common",
           "lingua": "IT"
         },
         {
@@ -105207,20 +105153,8 @@
           "lingua": "IT"
         },
         {
-          "numero": 97,
-          "nome": "Deino",
-          "rarita": "common",
-          "lingua": "IT"
-        },
-        {
           "numero": 98,
           "nome": "Zweilous",
-          "rarita": "common",
-          "lingua": "IT"
-        },
-        {
-          "numero": 99,
-          "nome": "Hydreigon",
           "rarita": "common",
           "lingua": "IT"
         },
@@ -105234,12 +105168,6 @@
           "numero": 104,
           "nome": "Ferrothorn",
           "rarita": "common",
-          "lingua": "IT"
-        },
-        {
-          "numero": 105,
-          "nome": "Solgaleo",
-          "rarita": "rare",
           "lingua": "IT"
         },
         {
@@ -105269,24 +105197,6 @@
         {
           "numero": 116,
           "nome": "Eevee",
-          "rarita": "common",
-          "lingua": "IT"
-        },
-        {
-          "numero": 117,
-          "nome": "Eevee",
-          "rarita": "common",
-          "lingua": "IT"
-        },
-        {
-          "numero": 118,
-          "nome": "Eevee",
-          "rarita": "common",
-          "lingua": "IT"
-        },
-        {
-          "numero": 123,
-          "nome": "Zoroark di Hisui",
           "rarita": "common",
           "lingua": "IT"
         },
