@@ -77227,12 +77227,6 @@
           "lingua": "IT"
         },
         {
-          "numero": 12,
-          "nome": "Moltres",
-          "rarita": "rare_holo",
-          "lingua": "IT"
-        },
-        {
           "numero": 13,
           "nome": "Numel",
           "rarita": "common",
@@ -77293,12 +77287,6 @@
           "lingua": "IT"
         },
         {
-          "numero": 23,
-          "nome": "Lapras",
-          "rarita": "rare_holo",
-          "lingua": "IT"
-        },
-        {
           "numero": 24,
           "nome": "Articuno",
           "rarita": "rare_holo",
@@ -77313,12 +77301,6 @@
         {
           "numero": 26,
           "nome": "Golisopod",
-          "rarita": "rare_holo",
-          "lingua": "IT"
-        },
-        {
-          "numero": 29,
-          "nome": "Zapdos",
           "rarita": "rare_holo",
           "lingua": "IT"
         },
@@ -77350,12 +77332,6 @@
           "numero": 34,
           "nome": "Lunatone",
           "rarita": "uncommon",
-          "lingua": "IT"
-        },
-        {
-          "numero": 35,
-          "nome": "Sylveon",
-          "rarita": "rare_holo",
           "lingua": "IT"
         },
         {
@@ -77398,12 +77374,6 @@
           "numero": 42,
           "nome": "Raticate di Alola",
           "rarita": "common",
-          "lingua": "IT"
-        },
-        {
-          "numero": 43,
-          "nome": "Tyranitar",
-          "rarita": "rare_holo",
           "lingua": "IT"
         },
         {
@@ -79898,12 +79868,6 @@
           "numero": 130,
           "nome": "Dragonair",
           "rarita": "uncommon",
-          "lingua": "IT"
-        },
-        {
-          "numero": 131,
-          "nome": "Dragonite",
-          "rarita": "rare_holo",
           "lingua": "IT"
         },
         {
@@ -86007,12 +85971,6 @@
           "lingua": "IT"
         },
         {
-          "numero": 150,
-          "nome": "Kingambit",
-          "rarita": "uncommon",
-          "lingua": "IT"
-        },
-        {
           "numero": 153,
           "nome": "Melmetal",
           "rarita": "double_rare",
@@ -87427,12 +87385,6 @@
           "lingua": "IT"
         },
         {
-          "numero": 150,
-          "nome": "Exploud",
-          "rarita": "uncommon",
-          "lingua": "IT"
-        },
-        {
           "numero": 151,
           "nome": "Spinda",
           "rarita": "common",
@@ -87477,12 +87429,6 @@
         {
           "numero": 161,
           "nome": "Spolverino Maledetto",
-          "rarita": "uncommon",
-          "lingua": "IT"
-        },
-        {
-          "numero": 162,
-          "nome": "Corpettosfida",
           "rarita": "uncommon",
           "lingua": "IT"
         },
@@ -87555,12 +87501,6 @@
         {
           "numero": 176,
           "nome": "Macchinario Tecnico: Spiazzare",
-          "rarita": "uncommon",
-          "lingua": "IT"
-        },
-        {
-          "numero": 177,
-          "nome": "Macchinario Tecnico: Involuzione",
           "rarita": "uncommon",
           "lingua": "IT"
         },
@@ -96187,12 +96127,6 @@
           "lingua": "IT"
         },
         {
-          "numero": 31,
-          "nome": "Moltres del Team Rocket",
-          "rarita": "double_rare",
-          "lingua": "IT"
-        },
-        {
           "numero": 32,
           "nome": "Cyndaquil di Armonio",
           "rarita": "common",
@@ -104009,33 +103943,15 @@
           "lingua": "IT"
         },
         {
-          "numero": 24,
-          "nome": "Avalugg",
-          "rarita": "uncommon",
-          "lingua": "IT"
-        },
-        {
           "numero": 35,
           "nome": "Mega Floette",
           "rarita": "double_rare",
           "lingua": "IT"
         },
         {
-          "numero": 43,
-          "nome": "Sudowoodo",
-          "rarita": "uncommon",
-          "lingua": "IT"
-        },
-        {
           "numero": 45,
           "nome": "Donphan",
           "rarita": "common",
-          "lingua": "IT"
-        },
-        {
-          "numero": 47,
-          "nome": "Claydol",
-          "rarita": "uncommon",
           "lingua": "IT"
         },
         {
@@ -104090,18 +104006,6 @@
           "numero": 73,
           "nome": "Cinccino",
           "rarita": "double_rare",
-          "lingua": "IT"
-        },
-        {
-          "numero": 77,
-          "nome": "Matière",
-          "rarita": "uncommon",
-          "lingua": "IT"
-        },
-        {
-          "numero": 82,
-          "nome": "Cartelrosso Speciale",
-          "rarita": "uncommon",
           "lingua": "IT"
         },
         {
@@ -104329,27 +104233,9 @@
           "lingua": "IT"
         },
         {
-          "numero": 2,
-          "nome": "Grubbin",
-          "rarita": "common",
-          "lingua": "IT"
-        },
-        {
           "numero": 4,
           "nome": "Lurantis",
           "rarita": "double_rare",
-          "lingua": "IT"
-        },
-        {
-          "numero": 5,
-          "nome": "Poltchageist",
-          "rarita": "common",
-          "lingua": "IT"
-        },
-        {
-          "numero": 6,
-          "nome": "Sinistcha",
-          "rarita": "uncommon",
           "lingua": "IT"
         },
         {
@@ -104365,33 +104251,15 @@
           "lingua": "IT"
         },
         {
-          "numero": 10,
-          "nome": "Centiskorch",
-          "rarita": "common",
-          "lingua": "IT"
-        },
-        {
           "numero": 12,
           "nome": "Armarouge",
           "rarita": "rare",
           "lingua": "IT"
         },
         {
-          "numero": 13,
-          "nome": "Goldeen",
-          "rarita": "common",
-          "lingua": "IT"
-        },
-        {
           "numero": 16,
           "nome": "Wailord",
           "rarita": "double_rare",
-          "lingua": "IT"
-        },
-        {
-          "numero": 17,
-          "nome": "Relicanth",
-          "rarita": "uncommon",
           "lingua": "IT"
         },
         {
@@ -104413,21 +104281,9 @@
           "lingua": "IT"
         },
         {
-          "numero": 24,
-          "nome": "Manectric",
-          "rarita": "uncommon",
-          "lingua": "IT"
-        },
-        {
           "numero": 25,
           "nome": "Charjabug",
           "rarita": "common",
-          "lingua": "IT"
-        },
-        {
-          "numero": 26,
-          "nome": "Vikavolt",
-          "rarita": "uncommon",
           "lingua": "IT"
         },
         {
@@ -104449,21 +104305,9 @@
           "lingua": "IT"
         },
         {
-          "numero": 30,
-          "nome": "Slowbro",
-          "rarita": "uncommon",
-          "lingua": "IT"
-        },
-        {
           "numero": 31,
           "nome": "Mega Slowbro",
           "rarita": "double_rare",
-          "lingua": "IT"
-        },
-        {
-          "numero": 32,
-          "nome": "Jynx",
-          "rarita": "common",
           "lingua": "IT"
         },
         {
@@ -104476,12 +104320,6 @@
           "numero": 34,
           "nome": "Banette",
           "rarita": "uncommon",
-          "lingua": "IT"
-        },
-        {
-          "numero": 35,
-          "nome": "Spiritomb",
-          "rarita": "rare",
           "lingua": "IT"
         },
         {
@@ -104503,27 +104341,9 @@
           "lingua": "IT"
         },
         {
-          "numero": 40,
-          "nome": "Marshadow",
-          "rarita": "uncommon",
-          "lingua": "IT"
-        },
-        {
           "numero": 41,
           "nome": "Annihilape",
           "rarita": "uncommon",
-          "lingua": "IT"
-        },
-        {
-          "numero": 43,
-          "nome": "Primeape",
-          "rarita": "common",
-          "lingua": "IT"
-        },
-        {
-          "numero": 44,
-          "nome": "Cranidos",
-          "rarita": "common",
           "lingua": "IT"
         },
         {
@@ -104533,20 +104353,8 @@
           "lingua": "IT"
         },
         {
-          "numero": 48,
-          "nome": "Mega Darkrai",
-          "rarita": "double_rare",
-          "lingua": "IT"
-        },
-        {
           "numero": 49,
           "nome": "Vullaby",
-          "rarita": "common",
-          "lingua": "IT"
-        },
-        {
-          "numero": 50,
-          "nome": "Mandibuzz",
           "rarita": "common",
           "lingua": "IT"
         },
@@ -104581,12 +104389,6 @@
           "lingua": "IT"
         },
         {
-          "numero": 62,
-          "nome": "Bastiodon",
-          "rarita": "rare",
-          "lingua": "IT"
-        },
-        {
           "numero": 63,
           "nome": "Bronzor",
           "rarita": "common",
@@ -104596,12 +104398,6 @@
           "numero": 65,
           "nome": "Mega Excadrill",
           "rarita": "double_rare",
-          "lingua": "IT"
-        },
-        {
-          "numero": 66,
-          "nome": "Pikipek",
-          "rarita": "common",
           "lingua": "IT"
         },
         {
@@ -104638,24 +104434,6 @@
           "numero": 80,
           "nome": "Vitalità di Misty",
           "rarita": "uncommon",
-          "lingua": "IT"
-        },
-        {
-          "numero": 81,
-          "nome": "Recluta del Clan Ruggine",
-          "rarita": "uncommon",
-          "lingua": "IT"
-        },
-        {
-          "numero": 82,
-          "nome": "Bomba Assurda",
-          "rarita": "uncommon",
-          "lingua": "IT"
-        },
-        {
-          "numero": 84,
-          "nome": "Energia Lampo Voltaica",
-          "rarita": "rare",
           "lingua": "IT"
         },
         {
@@ -104727,12 +104505,6 @@
         {
           "numero": 96,
           "nome": "Lurantis",
-          "rarita": "ultra_rare",
-          "lingua": "IT"
-        },
-        {
-          "numero": 97,
-          "nome": "Wailord",
           "rarita": "ultra_rare",
           "lingua": "IT"
         },
