@@ -1235,12 +1235,6 @@
           "lingua": "IT"
         },
         {
-          "numero": 95,
-          "nome": "Torre Radio",
-          "rarita": "rare",
-          "lingua": "IT"
-        },
-        {
           "numero": 97,
           "nome": "Artigli Contrattaccanti",
           "rarita": "uncommon",
@@ -103299,12 +103293,6 @@
           "lingua": "IT"
         },
         {
-          "numero": 14,
-          "nome": "Talonflame",
-          "rarita": "rare",
-          "lingua": "IT"
-        },
-        {
           "numero": 15,
           "nome": "Salandit",
           "rarita": "common",
@@ -103419,12 +103407,6 @@
           "lingua": "IT"
         },
         {
-          "numero": 39,
-          "nome": "Hippopotas",
-          "rarita": "common",
-          "lingua": "IT"
-        },
-        {
           "numero": 40,
           "nome": "Hippowdon",
           "rarita": "rare",
@@ -103479,21 +103461,9 @@
           "lingua": "IT"
         },
         {
-          "numero": 52,
-          "nome": "Drapion",
-          "rarita": "common",
-          "lingua": "IT"
-        },
-        {
           "numero": 53,
           "nome": "Yveltal",
           "rarita": "uncommon",
-          "lingua": "IT"
-        },
-        {
-          "numero": 54,
-          "nome": "Chien-Pao",
-          "rarita": "common",
           "lingua": "IT"
         },
         {
@@ -103593,18 +103563,6 @@
           "lingua": "IT"
         },
         {
-          "numero": 73,
-          "nome": "Scaccia Energie",
-          "rarita": "uncommon",
-          "lingua": "IT"
-        },
-        {
-          "numero": 74,
-          "nome": "Pala Scavabuche",
-          "rarita": "uncommon",
-          "lingua": "IT"
-        },
-        {
           "numero": 76,
           "nome": "Arbitro",
           "rarita": "uncommon",
@@ -103644,12 +103602,6 @@
           "numero": 83,
           "nome": "Pozione",
           "rarita": "rare",
-          "lingua": "IT"
-        },
-        {
-          "numero": 85,
-          "nome": "Tarragon",
-          "rarita": "illustration_rare",
           "lingua": "IT"
         },
         {
@@ -103823,12 +103775,6 @@
         {
           "numero": 114,
           "nome": "Incoraggiamento di Rina",
-          "rarita": "special_illustration_rare",
-          "lingua": "IT"
-        },
-        {
-          "numero": 115,
-          "nome": "Cenere magica",
           "rarita": "special_illustration_rare",
           "lingua": "IT"
         },
@@ -104709,12 +104655,6 @@
           "lingua": "IT"
         },
         {
-          "numero": 32,
-          "nome": "Pikachu",
-          "rarita": "special_rare",
-          "lingua": "IT"
-        },
-        {
           "numero": 33,
           "nome": "Pikachu",
           "rarita": "special_rare",
@@ -104775,12 +104715,6 @@
           "lingua": "IT"
         },
         {
-          "numero": 51,
-          "nome": "Pikachu",
-          "rarita": "special_rare",
-          "lingua": "IT"
-        },
-        {
           "numero": 52,
           "nome": "Pikachu",
           "rarita": "special_rare",
@@ -104796,12 +104730,6 @@
           "numero": 56,
           "nome": "Zekrom",
           "rarita": "rare",
-          "lingua": "IT"
-        },
-        {
-          "numero": 58,
-          "nome": "Toxel",
-          "rarita": "common",
           "lingua": "IT"
         },
         {
@@ -104856,12 +104784,6 @@
           "numero": 77,
           "nome": "Comfey",
           "rarita": "common",
-          "lingua": "IT"
-        },
-        {
-          "numero": 80,
-          "nome": "Lunala",
-          "rarita": "rare",
           "lingua": "IT"
         },
         {
@@ -104921,12 +104843,6 @@
         {
           "numero": 101,
           "nome": "Meowth di Galar",
-          "rarita": "common",
-          "lingua": "IT"
-        },
-        {
-          "numero": 104,
-          "nome": "Ferrothorn",
           "rarita": "common",
           "lingua": "IT"
         },
@@ -105063,12 +104979,6 @@
           "lingua": "IT"
         },
         {
-          "numero": 147,
-          "nome": "Fuecoco",
-          "rarita": "special_illustration_rare",
-          "lingua": "IT"
-        },
-        {
           "numero": 148,
           "nome": "Greninja",
           "rarita": "special_illustration_rare",
@@ -105083,12 +104993,6 @@
         {
           "numero": 150,
           "nome": "Pikachu",
-          "rarita": "special_illustration_rare",
-          "lingua": "IT"
-        },
-        {
-          "numero": 151,
-          "nome": "Mewtwo",
           "rarita": "special_illustration_rare",
           "lingua": "IT"
         },
