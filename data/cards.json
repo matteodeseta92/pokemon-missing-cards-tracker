@@ -38013,12 +38013,6 @@
           "lingua": "IT"
         },
         {
-          "numero": 57,
-          "nome": "Salamence",
-          "rarita": "rare_holo",
-          "lingua": "IT"
-        },
-        {
           "numero": 58,
           "nome": "LatiosEX",
           "rarita": "rare_holo_ex",
@@ -41285,12 +41279,6 @@
           "lingua": "IT"
         },
         {
-          "numero": 101,
-          "nome": "Floette",
-          "rarita": "uncommon",
-          "lingua": "IT"
-        },
-        {
           "numero": 102,
           "nome": "Swirlix",
           "rarita": "uncommon",
@@ -42594,12 +42582,6 @@
           "numero": 76,
           "nome": "Marill",
           "rarita": "common",
-          "lingua": "IT"
-        },
-        {
-          "numero": 77,
-          "nome": "Azumarill",
-          "rarita": "uncommon",
           "lingua": "IT"
         },
         {
@@ -77131,12 +77113,6 @@
           "lingua": "IT"
         },
         {
-          "numero": 17,
-          "nome": "Blastoise",
-          "rarita": "rare_holo",
-          "lingua": "IT"
-        },
-        {
           "numero": 18,
           "nome": "Blastoise Lucente",
           "rarita": "rare_radiant",
@@ -79178,12 +79154,6 @@
           "numero": 32,
           "nome": "Incineroar",
           "rarita": "rare",
-          "lingua": "IT"
-        },
-        {
-          "numero": 33,
-          "nome": "Vulpix di AlolaV",
-          "rarita": "ultra_rare_rare",
           "lingua": "IT"
         },
         {
@@ -101569,12 +101539,6 @@
           "lingua": "IT"
         },
         {
-          "numero": 20,
-          "nome": "Charmander",
-          "rarita": "common",
-          "lingua": "IT"
-        },
-        {
           "numero": 21,
           "nome": "Charmeleon",
           "rarita": "uncommon",
@@ -104487,18 +104451,6 @@
       "logo_disegnato": "art_megaevoluzione_30_anniversario.png",
       "carte": [
         {
-          "numero": 4,
-          "nome": "Illumise",
-          "rarita": "common",
-          "lingua": "IT"
-        },
-        {
-          "numero": 7,
-          "nome": "Cherrim",
-          "rarita": "common",
-          "lingua": "IT"
-        },
-        {
           "numero": 10,
           "nome": "Ninetales",
           "rarita": "common",
@@ -104541,12 +104493,6 @@
           "lingua": "IT"
         },
         {
-          "numero": 33,
-          "nome": "Pikachu",
-          "rarita": "special_rare",
-          "lingua": "IT"
-        },
-        {
           "numero": 34,
           "nome": "Pikachu",
           "rarita": "special_rare",
@@ -104584,12 +104530,6 @@
         },
         {
           "numero": 48,
-          "nome": "Pikachu",
-          "rarita": "special_rare",
-          "lingua": "IT"
-        },
-        {
-          "numero": 49,
           "nome": "Pikachu",
           "rarita": "special_rare",
           "lingua": "IT"
@@ -104649,12 +104589,6 @@
           "lingua": "IT"
         },
         {
-          "numero": 73,
-          "nome": "Drifloon",
-          "rarita": "common",
-          "lingua": "IT"
-        },
-        {
           "numero": 74,
           "nome": "Cresselia",
           "rarita": "common",
@@ -104670,12 +104604,6 @@
           "numero": 77,
           "nome": "Comfey",
           "rarita": "common",
-          "lingua": "IT"
-        },
-        {
-          "numero": 82,
-          "nome": "Groudon",
-          "rarita": "rare",
           "lingua": "IT"
         },
         {
@@ -104697,32 +104625,14 @@
           "lingua": "IT"
         },
         {
-          "numero": 90,
-          "nome": "Gengar",
-          "rarita": "double_rare",
-          "lingua": "IT"
-        },
-        {
           "numero": 92,
           "nome": "Umbreon",
           "rarita": "double_rare",
           "lingua": "IT"
         },
         {
-          "numero": 93,
-          "nome": "Murkrow",
-          "rarita": "common",
-          "lingua": "IT"
-        },
-        {
           "numero": 95,
           "nome": "Zorua",
-          "rarita": "common",
-          "lingua": "IT"
-        },
-        {
-          "numero": 98,
-          "nome": "Zweilous",
           "rarita": "common",
           "lingua": "IT"
         },
@@ -104745,26 +104655,8 @@
           "lingua": "IT"
         },
         {
-          "numero": 112,
-          "nome": "Kommo-o",
-          "rarita": "common",
-          "lingua": "IT"
-        },
-        {
           "numero": 115,
           "nome": "Ditto",
-          "rarita": "common",
-          "lingua": "IT"
-        },
-        {
-          "numero": 116,
-          "nome": "Eevee",
-          "rarita": "common",
-          "lingua": "IT"
-        },
-        {
-          "numero": 124,
-          "nome": "Minior",
           "rarita": "common",
           "lingua": "IT"
         },
