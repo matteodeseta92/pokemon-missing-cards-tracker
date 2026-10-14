@@ -431,24 +431,6 @@
           "nome": "Tickling Machine",
           "rarita": "uncommon",
           "lingua": "EN"
-        },
-        {
-          "numero": 128,
-          "nome": "Fire Energy",
-          "rarita": "none",
-          "lingua": "EN"
-        },
-        {
-          "numero": 129,
-          "nome": "Grass Energy",
-          "rarita": "none",
-          "lingua": "EN"
-        },
-        {
-          "numero": 130,
-          "nome": "Lightning Energy",
-          "rarita": "none",
-          "lingua": "EN"
         }
       ]
     },
@@ -655,42 +637,6 @@
           "nome": "Rocket's Secret Experiment",
           "rarita": "uncommon",
           "lingua": "EN"
-        },
-        {
-          "numero": 127,
-          "nome": "Fighting Energy",
-          "rarita": "none",
-          "lingua": "EN"
-        },
-        {
-          "numero": 128,
-          "nome": "Fire Energy",
-          "rarita": "none",
-          "lingua": "EN"
-        },
-        {
-          "numero": 129,
-          "nome": "Grass Energy",
-          "rarita": "none",
-          "lingua": "EN"
-        },
-        {
-          "numero": 130,
-          "nome": "Lightning Energy",
-          "rarita": "none",
-          "lingua": "EN"
-        },
-        {
-          "numero": 131,
-          "nome": "Psychic Energy",
-          "rarita": "none",
-          "lingua": "EN"
-        },
-        {
-          "numero": 132,
-          "nome": "Water Energy",
-          "rarita": "none",
-          "lingua": "EN"
         }
       ]
     },
@@ -842,18 +788,6 @@
           "numero": 104,
           "nome": "Energia Oscurità",
           "rarita": "rare",
-          "lingua": "IT"
-        },
-        {
-          "numero": 107,
-          "nome": "Energia Fuoco",
-          "rarita": "none",
-          "lingua": "IT"
-        },
-        {
-          "numero": 110,
-          "nome": "Energia Psiche",
-          "rarita": "none",
           "lingua": "IT"
         }
       ]
@@ -1744,42 +1678,6 @@
           "numero": 159,
           "nome": "Energia Metallo",
           "rarita": "rare",
-          "lingua": "IT"
-        },
-        {
-          "numero": 160,
-          "nome": "Energia Combattimento",
-          "rarita": "none",
-          "lingua": "IT"
-        },
-        {
-          "numero": 161,
-          "nome": "Energia Fuoco",
-          "rarita": "none",
-          "lingua": "IT"
-        },
-        {
-          "numero": 162,
-          "nome": "Energia Erba",
-          "rarita": "none",
-          "lingua": "IT"
-        },
-        {
-          "numero": 163,
-          "nome": "Energia Lampo",
-          "rarita": "none",
-          "lingua": "IT"
-        },
-        {
-          "numero": 164,
-          "nome": "Energia Psiche",
-          "rarita": "none",
-          "lingua": "IT"
-        },
-        {
-          "numero": 165,
-          "nome": "Energia Acqua",
-          "rarita": "none",
           "lingua": "IT"
         }
       ]
@@ -4428,18 +4326,6 @@
           "numero": 100,
           "nome": "Magmar ex",
           "rarita": "rare_holo_ex",
-          "lingua": "IT"
-        },
-        {
-          "numero": 105,
-          "nome": "Energia Combattimento",
-          "rarita": "none",
-          "lingua": "IT"
-        },
-        {
-          "numero": 107,
-          "nome": "Energia Psiche",
-          "rarita": "none",
           "lingua": "IT"
         }
       ]
@@ -52419,7 +52305,7 @@
         {
           "numero": 47,
           "nome": "Kyurem",
-          "rarita": "none",
+          "rarita": "rare",
           "lingua": "IT"
         },
         {
