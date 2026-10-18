@@ -103095,38 +103095,8 @@
           "lingua": "IT"
         },
         {
-          "numero": 4,
-          "nome": "Snivy",
-          "rarita": "uncommon",
-          "lingua": "IT"
-        },
-        {
           "numero": 5,
           "nome": "Servine",
-          "rarita": "common",
-          "lingua": "IT"
-        },
-        {
-          "numero": 6,
-          "nome": "Serperior",
-          "rarita": "common",
-          "lingua": "IT"
-        },
-        {
-          "numero": 7,
-          "nome": "Scatterbug",
-          "rarita": "double_rare",
-          "lingua": "IT"
-        },
-        {
-          "numero": 8,
-          "nome": "Spewpa",
-          "rarita": "common",
-          "lingua": "IT"
-        },
-        {
-          "numero": 10,
-          "nome": "Rowlet",
           "rarita": "common",
           "lingua": "IT"
         },
@@ -103185,24 +103155,6 @@
           "lingua": "IT"
         },
         {
-          "numero": 25,
-          "nome": "Volcanion",
-          "rarita": "common",
-          "lingua": "IT"
-        },
-        {
-          "numero": 26,
-          "nome": "Shinx",
-          "rarita": "double_rare",
-          "lingua": "IT"
-        },
-        {
-          "numero": 27,
-          "nome": "Luxio",
-          "rarita": "common",
-          "lingua": "IT"
-        },
-        {
           "numero": 28,
           "nome": "Luxray",
           "rarita": "common",
@@ -103257,12 +103209,6 @@
           "lingua": "IT"
         },
         {
-          "numero": 40,
-          "nome": "Hippowdon",
-          "rarita": "rare",
-          "lingua": "IT"
-        },
-        {
           "numero": 41,
           "nome": "Landorus",
           "rarita": "common",
@@ -103275,21 +103221,9 @@
           "lingua": "IT"
         },
         {
-          "numero": 44,
-          "nome": "Tyrunt",
-          "rarita": "common",
-          "lingua": "IT"
-        },
-        {
           "numero": 45,
           "nome": "Tyrantrum",
           "rarita": "rare",
-          "lingua": "IT"
-        },
-        {
-          "numero": 46,
-          "nome": "Hawlucha",
-          "rarita": "common",
           "lingua": "IT"
         },
         {
@@ -103323,18 +103257,6 @@
           "lingua": "IT"
         },
         {
-          "numero": 56,
-          "nome": "Honedge",
-          "rarita": "uncommon",
-          "lingua": "IT"
-        },
-        {
-          "numero": 57,
-          "nome": "Doublade",
-          "rarita": "double_rare",
-          "lingua": "IT"
-        },
-        {
           "numero": 58,
           "nome": "Aegislash",
           "rarita": "common",
@@ -103343,18 +103265,6 @@
         {
           "numero": 59,
           "nome": "Klefki",
-          "rarita": "common",
-          "lingua": "IT"
-        },
-        {
-          "numero": 60,
-          "nome": "Rattata",
-          "rarita": "uncommon",
-          "lingua": "IT"
-        },
-        {
-          "numero": 61,
-          "nome": "Raticate",
           "rarita": "common",
           "lingua": "IT"
         },
@@ -103377,12 +103287,6 @@
           "lingua": "IT"
         },
         {
-          "numero": 66,
-          "nome": "Fletchling",
-          "rarita": "common",
-          "lingua": "IT"
-        },
-        {
           "numero": 67,
           "nome": "Furfrou",
           "rarita": "common",
@@ -103395,20 +103299,8 @@
           "lingua": "IT"
         },
         {
-          "numero": 69,
-          "nome": "Vecchio Fossilpinna",
-          "rarita": "common",
-          "lingua": "IT"
-        },
-        {
           "numero": 70,
           "nome": "Memoria Nucleare",
-          "rarita": "uncommon",
-          "lingua": "IT"
-        },
-        {
-          "numero": 72,
-          "nome": "Ricerca di Energia",
           "rarita": "uncommon",
           "lingua": "IT"
         },
@@ -103425,20 +103317,8 @@
           "lingua": "IT"
         },
         {
-          "numero": 78,
-          "nome": "Pan di Lumi",
-          "rarita": "common",
-          "lingua": "IT"
-        },
-        {
           "numero": 79,
           "nome": "Virgil",
-          "rarita": "uncommon",
-          "lingua": "IT"
-        },
-        {
-          "numero": 80,
-          "nome": "Poké Ball",
           "rarita": "uncommon",
           "lingua": "IT"
         },
@@ -103473,20 +103353,8 @@
           "lingua": "IT"
         },
         {
-          "numero": 89,
-          "nome": "Spewpa",
-          "rarita": "illustration_rare",
-          "lingua": "IT"
-        },
-        {
           "numero": 90,
           "nome": "Rowlet",
-          "rarita": "illustration_rare",
-          "lingua": "IT"
-        },
-        {
-          "numero": 91,
-          "nome": "Talonflame",
           "rarita": "illustration_rare",
           "lingua": "IT"
         },
@@ -103697,12 +103565,6 @@
           "lingua": "IT"
         },
         {
-          "numero": 4,
-          "nome": "Carnivine",
-          "rarita": "common",
-          "lingua": "IT"
-        },
-        {
           "numero": 12,
           "nome": "Braixen",
           "rarita": "common",
@@ -103739,12 +103601,6 @@
           "lingua": "IT"
         },
         {
-          "numero": 35,
-          "nome": "Mega Floette",
-          "rarita": "double_rare",
-          "lingua": "IT"
-        },
-        {
           "numero": 45,
           "nome": "Donphan",
           "rarita": "common",
@@ -103754,12 +103610,6 @@
           "numero": 48,
           "nome": "Mega Gallade",
           "rarita": "double_rare",
-          "lingua": "IT"
-        },
-        {
-          "numero": 49,
-          "nome": "Zubat",
-          "rarita": "common",
           "lingua": "IT"
         },
         {
