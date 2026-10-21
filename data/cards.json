@@ -76019,12 +76019,6 @@
           "lingua": "IT"
         },
         {
-          "numero": 72,
-          "nome": "MachampV",
-          "rarita": "ultra_rare_rare",
-          "lingua": "IT"
-        },
-        {
           "numero": 73,
           "nome": "MachampVMAX",
           "rarita": "rare_vmax",
@@ -82575,12 +82569,6 @@
           "lingua": "IT"
         },
         {
-          "numero": 135,
-          "nome": "Zacian LV.X",
-          "rarita": "ultra_rare",
-          "lingua": "IT"
-        },
-        {
           "numero": 136,
           "nome": "Mimikyu δ",
           "rarita": "ultra_rare",
@@ -83645,12 +83633,6 @@
           "lingua": "IT"
         },
         {
-          "numero": 28,
-          "nome": "Capsakid",
-          "rarita": "common",
-          "lingua": "IT"
-        },
-        {
           "numero": 30,
           "nome": "Growlithe",
           "rarita": "common",
@@ -83660,12 +83642,6 @@
           "numero": 31,
           "nome": "Growlithe",
           "rarita": "common",
-          "lingua": "IT"
-        },
-        {
-          "numero": 32,
-          "nome": "Arcanine",
-          "rarita": "rare_double",
           "lingua": "IT"
         },
         {
@@ -83681,21 +83657,9 @@
           "lingua": "IT"
         },
         {
-          "numero": 45,
-          "nome": "Gyarados",
-          "rarita": "rare_double",
-          "lingua": "IT"
-        },
-        {
           "numero": 49,
           "nome": "Clauncher",
           "rarita": "common",
-          "lingua": "IT"
-        },
-        {
-          "numero": 54,
-          "nome": "Quaquaval",
-          "rarita": "rare",
           "lingua": "IT"
         },
         {
@@ -85650,12 +85614,6 @@
           "numero": 65,
           "nome": "Magnezone",
           "rarita": "uncommon",
-          "lingua": "IT"
-        },
-        {
-          "numero": 66,
-          "nome": "Tyranitar",
-          "rarita": "double_rare",
           "lingua": "IT"
         },
         {
@@ -95285,12 +95243,6 @@
           "lingua": "IT"
         },
         {
-          "numero": 55,
-          "nome": "Kilowattrel di Kissara",
-          "rarita": "rare",
-          "lingua": "IT"
-        },
-        {
           "numero": 56,
           "nome": "Clefairy di Lylia",
           "rarita": "double_rare",
@@ -95420,12 +95372,6 @@
           "numero": 88,
           "nome": "Toedscool",
           "rarita": "common",
-          "lingua": "IT"
-        },
-        {
-          "numero": 90,
-          "nome": "Klawf",
-          "rarita": "uncommon",
           "lingua": "IT"
         },
         {
@@ -95621,20 +95567,8 @@
           "lingua": "IT"
         },
         {
-          "numero": 150,
-          "nome": "Leudapoli",
-          "rarita": "uncommon",
-          "lingua": "IT"
-        },
-        {
           "numero": 151,
           "nome": "Perla di Lylia",
-          "rarita": "uncommon",
-          "lingua": "IT"
-        },
-        {
-          "numero": 154,
-          "nome": "Furlongham",
           "rarita": "uncommon",
           "lingua": "IT"
         },
@@ -95701,12 +95635,6 @@
         {
           "numero": 167,
           "nome": "Reshiram di N",
-          "rarita": "illustration_rare",
-          "lingua": "IT"
-        },
-        {
-          "numero": 168,
-          "nome": "Furret",
           "rarita": "illustration_rare",
           "lingua": "IT"
         },
@@ -99765,12 +99693,6 @@
         {
           "numero": 197,
           "nome": "Koraidon",
-          "rarita": "ultra_rare",
-          "lingua": "IT"
-        },
-        {
-          "numero": 198,
-          "nome": "Zacian",
           "rarita": "ultra_rare",
           "lingua": "IT"
         },
