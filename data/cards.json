@@ -83621,12 +83621,6 @@
           "lingua": "IT"
         },
         {
-          "numero": 20,
-          "nome": "Smoliv",
-          "rarita": "common",
-          "lingua": "IT"
-        },
-        {
           "numero": 24,
           "nome": "Toedscool",
           "rarita": "common",
@@ -83645,18 +83639,6 @@
           "lingua": "IT"
         },
         {
-          "numero": 41,
-          "nome": "Armarouge",
-          "rarita": "rare",
-          "lingua": "IT"
-        },
-        {
-          "numero": 43,
-          "nome": "Slowbro",
-          "rarita": "rare",
-          "lingua": "IT"
-        },
-        {
           "numero": 49,
           "nome": "Clauncher",
           "rarita": "common",
@@ -83665,12 +83647,6 @@
         {
           "numero": 55,
           "nome": "Wiglett",
-          "rarita": "common",
-          "lingua": "IT"
-        },
-        {
-          "numero": 59,
-          "nome": "Cetoddle",
           "rarita": "common",
           "lingua": "IT"
         },
@@ -83729,12 +83705,6 @@
           "lingua": "IT"
         },
         {
-          "numero": 73,
-          "nome": "Pawmi",
-          "rarita": "common",
-          "lingua": "IT"
-        },
-        {
           "numero": 74,
           "nome": "Pawmi",
           "rarita": "common",
@@ -83774,12 +83744,6 @@
           "numero": 92,
           "nome": "Floette",
           "rarita": "common",
-          "lingua": "IT"
-        },
-        {
-          "numero": 93,
-          "nome": "Florges",
-          "rarita": "uncommon",
           "lingua": "IT"
         },
         {
@@ -83828,12 +83792,6 @@
           "numero": 106,
           "nome": "Houndstone",
           "rarita": "rare",
-          "lingua": "IT"
-        },
-        {
-          "numero": 108,
-          "nome": "Primeape",
-          "rarita": "common",
           "lingua": "IT"
         },
         {
@@ -83933,12 +83891,6 @@
           "lingua": "IT"
         },
         {
-          "numero": 141,
-          "nome": "Varoom",
-          "rarita": "common",
-          "lingua": "IT"
-        },
-        {
           "numero": 142,
           "nome": "Revavroom",
           "rarita": "rare",
@@ -83983,12 +83935,6 @@
         {
           "numero": 156,
           "nome": "Lechonk",
-          "rarita": "common",
-          "lingua": "IT"
-        },
-        {
-          "numero": 159,
-          "nome": "Tandemaus",
           "rarita": "common",
           "lingua": "IT"
         },
@@ -95213,12 +95159,6 @@
           "lingua": "IT"
         },
         {
-          "numero": 50,
-          "nome": "Togedemaru",
-          "rarita": "common",
-          "lingua": "IT"
-        },
-        {
           "numero": 51,
           "nome": "Tapu Koko",
           "rarita": "double_rare",
@@ -95234,12 +95174,6 @@
           "numero": 53,
           "nome": "Bellibolt di Kissara",
           "rarita": "double_rare",
-          "lingua": "IT"
-        },
-        {
-          "numero": 54,
-          "nome": "Wattrel di Kissara",
-          "rarita": "common",
           "lingua": "IT"
         },
         {
@@ -95315,12 +95249,6 @@
           "lingua": "IT"
         },
         {
-          "numero": 74,
-          "nome": "Milcery",
-          "rarita": "common",
-          "lingua": "IT"
-        },
-        {
           "numero": 75,
           "nome": "Alcremie",
           "rarita": "double_rare",
@@ -95371,12 +95299,6 @@
         {
           "numero": 88,
           "nome": "Toedscool",
-          "rarita": "common",
-          "lingua": "IT"
-        },
-        {
-          "numero": 91,
-          "nome": "Koffing",
           "rarita": "common",
           "lingua": "IT"
         },
@@ -95569,12 +95491,6 @@
         {
           "numero": 151,
           "nome": "Perla di Lylia",
-          "rarita": "uncommon",
-          "lingua": "IT"
-        },
-        {
-          "numero": 157,
-          "nome": "Ragazzaccio",
           "rarita": "uncommon",
           "lingua": "IT"
         },
