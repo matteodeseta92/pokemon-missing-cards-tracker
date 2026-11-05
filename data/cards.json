@@ -83513,32 +83513,14 @@
           "lingua": "IT"
         },
         {
-          "numero": 64,
-          "nome": "Magneton",
-          "rarita": "common",
-          "lingua": "IT"
-        },
-        {
           "numero": 65,
           "nome": "Magnezone",
           "rarita": "rare_double",
           "lingua": "IT"
         },
         {
-          "numero": 66,
-          "nome": "Mareep",
-          "rarita": "common",
-          "lingua": "IT"
-        },
-        {
           "numero": 67,
           "nome": "Flaaffy",
-          "rarita": "uncommon",
-          "lingua": "IT"
-        },
-        {
-          "numero": 68,
-          "nome": "Pachirisu",
           "rarita": "uncommon",
           "lingua": "IT"
         },
@@ -83645,12 +83627,6 @@
           "lingua": "IT"
         },
         {
-          "numero": 113,
-          "nome": "Riolu",
-          "rarita": "common",
-          "lingua": "IT"
-        },
-        {
           "numero": 116,
           "nome": "Krokorok",
           "rarita": "common",
@@ -83660,12 +83636,6 @@
           "numero": 117,
           "nome": "Krookodile",
           "rarita": "uncommon",
-          "lingua": "IT"
-        },
-        {
-          "numero": 119,
-          "nome": "Silicobra",
-          "rarita": "common",
           "lingua": "IT"
         },
         {
@@ -83702,12 +83672,6 @@
           "numero": 131,
           "nome": "Toxicroak",
           "rarita": "rare_double",
-          "lingua": "IT"
-        },
-        {
-          "numero": 133,
-          "nome": "Bisharp",
-          "rarita": "common",
           "lingua": "IT"
         },
         {
@@ -88877,12 +88841,6 @@
       "logo_disegnato": "art_scarlatto_e_violetto_cronoforze.png",
       "carte": [
         {
-          "numero": 3,
-          "nome": "Seedot",
-          "rarita": "common",
-          "lingua": "IT"
-        },
-        {
           "numero": 4,
           "nome": "Nuzleaf",
           "rarita": "common",
@@ -89111,12 +89069,6 @@
           "lingua": "IT"
         },
         {
-          "numero": 78,
-          "nome": "Crinealato",
-          "rarita": "rare",
-          "lingua": "IT"
-        },
-        {
           "numero": 80,
           "nome": "Eroeferreo",
           "rarita": "rare",
@@ -89216,18 +89168,6 @@
           "numero": 111,
           "nome": "Scizor",
           "rarita": "double_rare",
-          "lingua": "IT"
-        },
-        {
-          "numero": 116,
-          "nome": "Meltan",
-          "rarita": "common",
-          "lingua": "IT"
-        },
-        {
-          "numero": 117,
-          "nome": "Melmetal",
-          "rarita": "rare",
           "lingua": "IT"
         },
         {
@@ -94787,12 +94727,6 @@
           "lingua": "IT"
         },
         {
-          "numero": 12,
-          "nome": "Shelmet",
-          "rarita": "common",
-          "lingua": "IT"
-        },
-        {
           "numero": 13,
           "nome": "Accelgor",
           "rarita": "uncommon",
@@ -94931,12 +94865,6 @@
           "lingua": "IT"
         },
         {
-          "numero": 60,
-          "nome": "Banette",
-          "rarita": "uncommon",
-          "lingua": "IT"
-        },
-        {
           "numero": 63,
           "nome": "Metagross",
           "rarita": "rare",
@@ -95039,12 +94967,6 @@
           "lingua": "IT"
         },
         {
-          "numero": 93,
-          "nome": "Wooper di Paldea",
-          "rarita": "common",
-          "lingua": "IT"
-        },
-        {
           "numero": 94,
           "nome": "Clodsire di Paldea",
           "rarita": "double_rare",
@@ -95111,12 +95033,6 @@
           "lingua": "IT"
         },
         {
-          "numero": 114,
-          "nome": "Salamence",
-          "rarita": "double_rare",
-          "lingua": "IT"
-        },
-        {
           "numero": 116,
           "nome": "Reshiram di N",
           "rarita": "rare",
@@ -95174,12 +95090,6 @@
           "numero": 134,
           "nome": "Corvisquire di Hop",
           "rarita": "common",
-          "lingua": "IT"
-        },
-        {
-          "numero": 136,
-          "nome": "Dubwool di Hop",
-          "rarita": "rare",
           "lingua": "IT"
         },
         {
