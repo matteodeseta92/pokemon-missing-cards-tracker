@@ -103997,12 +103997,6 @@
           "lingua": "IT"
         },
         {
-          "numero": 3,
-          "nome": "Masquerain",
-          "rarita": "common",
-          "lingua": "IT"
-        },
-        {
           "numero": 4,
           "nome": "Cacnea",
           "rarita": "common",
@@ -104024,18 +104018,6 @@
           "numero": 7,
           "nome": "Vespiquen",
           "rarita": "common",
-          "lingua": "IT"
-        },
-        {
-          "numero": 8,
-          "nome": "Shaymin",
-          "rarita": "uncommon",
-          "lingua": "IT"
-        },
-        {
-          "numero": 9,
-          "nome": "Virizion",
-          "rarita": "uncommon",
           "lingua": "IT"
         },
         {
@@ -104069,12 +104051,6 @@
           "lingua": "IT"
         },
         {
-          "numero": 15,
-          "nome": "Smoliv",
-          "rarita": "common",
-          "lingua": "IT"
-        },
-        {
           "numero": 16,
           "nome": "Dolliv",
           "rarita": "common",
@@ -104105,12 +104081,6 @@
           "lingua": "IT"
         },
         {
-          "numero": 22,
-          "nome": "Torkoal",
-          "rarita": "common",
-          "lingua": "IT"
-        },
-        {
           "numero": 23,
           "nome": "Rotom Calore",
           "rarita": "double_rare",
@@ -104119,12 +104089,6 @@
         {
           "numero": 24,
           "nome": "Heatmor",
-          "rarita": "common",
-          "lingua": "IT"
-        },
-        {
-          "numero": 25,
-          "nome": "Mantine",
           "rarita": "common",
           "lingua": "IT"
         },
@@ -104165,12 +104129,6 @@
           "lingua": "IT"
         },
         {
-          "numero": 34,
-          "nome": "Rotom",
-          "rarita": "common",
-          "lingua": "IT"
-        },
-        {
           "numero": 36,
           "nome": "Pincurchin",
           "rarita": "common",
@@ -104191,18 +104149,6 @@
         {
           "numero": 39,
           "nome": "Pawmot",
-          "rarita": "uncommon",
-          "lingua": "IT"
-        },
-        {
-          "numero": 40,
-          "nome": "Wattrel",
-          "rarita": "common",
-          "lingua": "IT"
-        },
-        {
-          "numero": 41,
-          "nome": "Kilowattrel",
           "rarita": "uncommon",
           "lingua": "IT"
         },
@@ -104237,12 +104183,6 @@
           "lingua": "IT"
         },
         {
-          "numero": 48,
-          "nome": "Enamorus",
-          "rarita": "uncommon",
-          "lingua": "IT"
-        },
-        {
           "numero": 49,
           "nome": "Sandshrew",
           "rarita": "common",
@@ -104255,20 +104195,8 @@
           "lingua": "IT"
         },
         {
-          "numero": 51,
-          "nome": "Onix",
-          "rarita": "common",
-          "lingua": "IT"
-        },
-        {
           "numero": 52,
           "nome": "Steelix",
-          "rarita": "rare",
-          "lingua": "IT"
-        },
-        {
-          "numero": 53,
-          "nome": "Groudon",
           "rarita": "rare",
           "lingua": "IT"
         },
@@ -104357,21 +104285,9 @@
           "lingua": "IT"
         },
         {
-          "numero": 75,
-          "nome": "Kommo-o",
-          "rarita": "rare",
-          "lingua": "IT"
-        },
-        {
           "numero": 76,
           "nome": "Cyclizar",
           "rarita": "common",
-          "lingua": "IT"
-        },
-        {
-          "numero": 79,
-          "nome": "Delibird",
-          "rarita": "uncommon",
           "lingua": "IT"
         },
         {
@@ -104384,18 +104300,6 @@
           "numero": 81,
           "nome": "Swablu",
           "rarita": "common",
-          "lingua": "IT"
-        },
-        {
-          "numero": 83,
-          "nome": "Kecleon",
-          "rarita": "common",
-          "lingua": "IT"
-        },
-        {
-          "numero": 84,
-          "nome": "Mega Rayquaza",
-          "rarita": "double_rare",
           "lingua": "IT"
         },
         {
@@ -104425,12 +104329,6 @@
         {
           "numero": 89,
           "nome": "Iperio",
-          "rarita": "uncommon",
-          "lingua": "IT"
-        },
-        {
-          "numero": 91,
-          "nome": "Corpetto su Misura",
           "rarita": "uncommon",
           "lingua": "IT"
         },
@@ -104465,18 +104363,6 @@
           "lingua": "IT"
         },
         {
-          "numero": 98,
-          "nome": "Fossa Leggendaria",
-          "rarita": "uncommon",
-          "lingua": "IT"
-        },
-        {
-          "numero": 99,
-          "nome": "Fossa Leggendaria",
-          "rarita": "uncommon",
-          "lingua": "IT"
-        },
-        {
           "numero": 101,
           "nome": "Palla di Riso Gustosa",
           "rarita": "common",
@@ -104485,12 +104371,6 @@
         {
           "numero": 102,
           "nome": "Allenamento di Tell e Pat",
-          "rarita": "uncommon",
-          "lingua": "IT"
-        },
-        {
-          "numero": 103,
-          "nome": "Fiducia di Lyris",
           "rarita": "uncommon",
           "lingua": "IT"
         },
