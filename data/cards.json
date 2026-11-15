@@ -103985,18 +103985,6 @@
       "logo_disegnato": "art_megaevoluzione_dominio_delta.png",
       "carte": [
         {
-          "numero": 1,
-          "nome": "Heracross",
-          "rarita": "common",
-          "lingua": "IT"
-        },
-        {
-          "numero": 2,
-          "nome": "Surskit",
-          "rarita": "common",
-          "lingua": "IT"
-        },
-        {
           "numero": 4,
           "nome": "Cacnea",
           "rarita": "common",
@@ -104036,12 +104024,6 @@
           "numero": 12,
           "nome": "Sprigatito",
           "rarita": "common",
-          "lingua": "IT"
-        },
-        {
-          "numero": 13,
-          "nome": "Floragato",
-          "rarita": "uncommon",
           "lingua": "IT"
         },
         {
@@ -104087,21 +104069,9 @@
           "lingua": "IT"
         },
         {
-          "numero": 24,
-          "nome": "Heatmor",
-          "rarita": "common",
-          "lingua": "IT"
-        },
-        {
           "numero": 26,
           "nome": "Kyogre",
           "rarita": "rare",
-          "lingua": "IT"
-        },
-        {
-          "numero": 28,
-          "nome": "Jellicent",
-          "rarita": "uncommon",
           "lingua": "IT"
         },
         {
@@ -104171,12 +104141,6 @@
           "lingua": "IT"
         },
         {
-          "numero": 46,
-          "nome": "Golett",
-          "rarita": "common",
-          "lingua": "IT"
-        },
-        {
           "numero": 47,
           "nome": "Mega Golurk",
           "rarita": "double_rare",
@@ -104185,12 +104149,6 @@
         {
           "numero": 49,
           "nome": "Sandshrew",
-          "rarita": "common",
-          "lingua": "IT"
-        },
-        {
-          "numero": 50,
-          "nome": "Sandslash",
           "rarita": "common",
           "lingua": "IT"
         },
@@ -104204,18 +104162,6 @@
           "numero": 54,
           "nome": "Landorus",
           "rarita": "uncommon",
-          "lingua": "IT"
-        },
-        {
-          "numero": 55,
-          "nome": "Nidoran♀",
-          "rarita": "common",
-          "lingua": "IT"
-        },
-        {
-          "numero": 56,
-          "nome": "Nidorina",
-          "rarita": "common",
           "lingua": "IT"
         },
         {
@@ -104243,20 +104189,8 @@
           "lingua": "IT"
         },
         {
-          "numero": 63,
-          "nome": "Darkrai",
-          "rarita": "uncommon",
-          "lingua": "IT"
-        },
-        {
           "numero": 64,
           "nome": "Purrloin",
-          "rarita": "common",
-          "lingua": "IT"
-        },
-        {
-          "numero": 65,
-          "nome": "Liepard",
           "rarita": "common",
           "lingua": "IT"
         },
@@ -104273,18 +104207,6 @@
           "lingua": "IT"
         },
         {
-          "numero": 69,
-          "nome": "Mega Malamar",
-          "rarita": "double_rare",
-          "lingua": "IT"
-        },
-        {
-          "numero": 74,
-          "nome": "Hakamo-o",
-          "rarita": "common",
-          "lingua": "IT"
-        },
-        {
           "numero": 76,
           "nome": "Cyclizar",
           "rarita": "common",
@@ -104293,12 +104215,6 @@
         {
           "numero": 80,
           "nome": "Azurill",
-          "rarita": "common",
-          "lingua": "IT"
-        },
-        {
-          "numero": 81,
-          "nome": "Swablu",
           "rarita": "common",
           "lingua": "IT"
         },
@@ -104339,18 +104255,6 @@
           "lingua": "IT"
         },
         {
-          "numero": 94,
-          "nome": "Tunnel Lavico Leggendario",
-          "rarita": "uncommon",
-          "lingua": "IT"
-        },
-        {
-          "numero": 95,
-          "nome": "Tunnel Lavico Leggendario",
-          "rarita": "uncommon",
-          "lingua": "IT"
-        },
-        {
           "numero": 96,
           "nome": "Cima Leggendaria",
           "rarita": "uncommon",
@@ -104360,12 +104264,6 @@
           "numero": 97,
           "nome": "Cima Leggendaria",
           "rarita": "uncommon",
-          "lingua": "IT"
-        },
-        {
-          "numero": 101,
-          "nome": "Palla di Riso Gustosa",
-          "rarita": "common",
           "lingua": "IT"
         },
         {
@@ -104551,12 +104449,6 @@
         {
           "numero": 133,
           "nome": "Energia ErbaRigogliosa",
-          "rarita": "ultra_rare",
-          "lingua": "IT"
-        },
-        {
-          "numero": 134,
-          "nome": "Energia FuocoPropulsiva",
           "rarita": "ultra_rare",
           "lingua": "IT"
         },
@@ -105195,12 +105087,6 @@
         {
           "numero": 115,
           "nome": "Spritzee",
-          "rarita": "ultra_rare",
-          "lingua": "IT"
-        },
-        {
-          "numero": 116,
-          "nome": "Seel",
           "rarita": "ultra_rare",
           "lingua": "IT"
         },
